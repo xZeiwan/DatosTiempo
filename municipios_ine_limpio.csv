@@ -1,0 +1,8117 @@
+codigo_ine,nombre
+01001,Alegría-Dulantzi
+01002,Amurrio
+01049,Añana
+01003,Aramaio
+01006,Armiñón
+01037,Arraia-Maeztu
+01008,Arrazua-Ubarrundia
+01004,Artziniega
+01009,Asparrena
+01010,Ayala/Aiara
+01011,Baños De Ebro/Mañueta
+01013,Barrundia
+01014,Berantevilla
+01016,Bernedo
+01017,Campezo/Kanpezu
+01021,Elburgo/Burgelu
+01022,Elciego
+01023,Elvillar/Bilar
+01046,Erriberagoitia/Ribera Alta
+01056,Harana/Valle De Arana
+01901,Iruña Oka/Iruña De Oca
+01027,Iruraiz-Gauna
+01019,Kripan
+01020,Kuartango
+01028,Labastida/Bastida
+01030,Lagrán
+01031,Laguardia
+01032,Lanciego/Lantziego
+01902,Lantarón
+01033,Lapuebla De Labarca
+01036,Laudio/Llodio
+01058,Legutio
+01034,Leza
+01039,Moreda De Álava
+01041,Navaridas
+01042,Okondo
+01043,Oyón-Oion
+01044,Peñacerrada-Urizaharra
+01047,Ribera Baja/Erribera Beitia
+01051,Salvatierra/Agurain
+01052,Samaniego
+01053,San Millán/Donemiliaga
+01054,Urkabustaiz
+01055,Valdegovía/Gaubea
+01057,Villabuena De Álava/Eskuernaga
+01059,Vitoria-Gasteiz
+01060,Yécora/Iekora
+01061,Zalduondo
+01062,Zambrana
+01018,Zigoitia
+01063,Zuia
+02001,Abengibre
+02002,Alatoz
+02003,Albacete
+02004,Albatana
+02005,Alborea
+02006,Alcadozo
+02007,Alcalá Del Júcar
+02008,Alcaraz
+02009,Almansa
+02010,Alpera
+02011,Ayna
+02012,Balazote
+02014,"Ballestero, El"
+02013,Balsa De Ves
+02015,Barrax
+02016,Bienservida
+02017,Bogarra
+02018,Bonete
+02019,"Bonillo, El"
+02020,Carcelén
+02021,Casas De Juan Núñez
+02022,Casas De Lázaro
+02023,Casas De Ves
+02024,Casas-Ibáñez
+02025,Caudete
+02026,Cenizate
+02029,Chinchilla De Monte-Aragón
+02027,Corral-Rubio
+02028,Cotillas
+02030,Elche De La Sierra
+02031,Férez
+02032,Fuensanta
+02033,Fuente-Álamo
+02034,Fuentealbilla
+02035,"Gineta, La"
+02036,Golosalvo
+02037,Hellín
+02038,"Herrera, La"
+02039,Higueruela
+02040,Hoya-Gonzalo
+02041,Jorquera
+02042,Letur
+02043,Lezuza
+02044,Liétor
+02045,Madrigueras
+02046,Mahora
+02047,Masegoso
+02048,Minaya
+02049,Molinicos
+02050,Montalvos
+02051,Montealegre Del Castillo
+02052,Motilleja
+02053,Munera
+02054,Navas De Jorquera
+02055,Nerpio
+02056,Ontur
+02057,Ossa De Montiel
+02058,Paterna Del Madera
+02060,Peñas De San Pedro
+02059,Peñascosa
+02061,Pétrola
+02062,Povedilla
+02901,Pozo Cañada
+02063,Pozohondo
+02064,Pozo-Lorente
+02065,Pozuelo
+02066,"Recueja, La"
+02067,Riópar
+02068,Robledo
+02069,"Roda, La"
+02070,Salobre
+02071,San Pedro
+02072,Socovos
+02073,Tarazona De La Mancha
+02074,Tobarra
+02075,Valdeganga
+02076,Vianos
+02077,Villa De Ves
+02078,Villalgordo Del Júcar
+02079,Villamalea
+02080,Villapalacios
+02081,Villarrobledo
+02082,Villatoya
+02083,Villavaliente
+02084,Villaverde De Guadalimar
+02085,Viveros
+02086,Yeste
+03001,Adsubia
+03002,Agost
+03003,Agres
+03004,Aigües
+03005,Albatera
+03006,Alcalalí
+03007,Alcocer De Planes
+03008,Alcoleja
+03009,Alcoy/Alcoi
+03010,Alfafara
+03011,"Alfàs Del Pi, L'"
+03012,Algorfa
+03013,Algueña
+03014,Alicante/Alacant
+03015,Almoradí
+03016,Almudaina
+03017,"Alqueria D'Asnar, L'"
+03018,Altea
+03019,Aspe
+03020,Balones
+03021,Banyeres De Mariola
+03022,Benasau
+03023,Beneixama
+03024,Benejúzar
+03025,Benferri
+03026,Beniarbeig
+03027,Beniardá
+03028,Beniarrés
+03030,Benidoleig
+03031,Benidorm
+03032,Benifallim
+03033,Benifato
+03029,Benigembla
+03034,Benijófar
+03035,Benilloba
+03036,Benillup
+03037,Benimantell
+03038,Benimarfull
+03039,Benimassot
+03040,Benimeli
+03041,Benissa
+03042,"Benitachell/Poble Nou De Benitatxell, El"
+03043,Biar
+03044,Bigastro
+03045,Bolulla
+03046,Busot
+03049,Callosa De Segura
+03048,Callosa D'En Sarrià
+03047,Calp
+03050,"Campello, El"
+03051,"Campo De Mirra/Camp De Mirra, El"
+03052,Cañada
+03053,Castalla
+03054,Castell De Castells
+03075,"Castell De Guadalest, El"
+03055,Catral
+03056,Cocentaina
+03057,Confrides
+03058,Cox
+03059,Crevillent
+03061,Daya Nueva
+03062,Daya Vieja
+03063,Dénia
+03064,Dolores
+03065,Elche/Elx
+03066,Elda
+03067,Facheca
+03068,Famorca
+03069,Finestrat
+03077,"Fondó De Les Neus, El/Hondón De Las Nieves"
+03070,Formentera Del Segura
+03072,Gaianes
+03071,Gata De Gorgos
+03073,Gorga
+03074,Granja De Rocamora
+03076,Guardamar Del Segura
+03078,Hondón De Los Frailes
+03079,Ibi
+03080,Jacarilla
+03082,Jávea/Xàbia
+03083,Jijona/Xixona
+03085,Llíber
+03084,"Lorcha/Orxa, L'"
+03086,Millena
+03088,Monforte Del Cid
+03089,Monóvar/Monòver
+03903,"Montesinos, Los"
+03091,Murla
+03092,Muro De Alcoy
+03090,Mutxamel
+03093,Novelda
+03094,"Nucia, La"
+03095,Ondara
+03096,Onil
+03097,Orba
+03099,Orihuela
+03098,Orxeta
+03100,Parcent
+03101,Pedreguer
+03102,Pego
+03103,Penàguila
+03104,Petrer
+03902,Pilar De La Horadada
+03105,"Pinós, El/Pinoso"
+03106,Planes
+03901,"Poblets, Els"
+03107,Polop
+03060,Quatretondeta
+03109,Rafal
+03110,"Ràfol D'Almúnia, El"
+03111,Redován
+03112,Relleu
+03113,Rojales
+03114,"Romana, La"
+03115,Sagra
+03116,Salinas
+03118,San Fulgencio
+03904,San Isidro
+03120,San Miguel De Salinas
+03122,San Vicente Del Raspeig/Sant Vicent Del Raspeig
+03117,Sanet Y Negrals
+03119,Sant Joan D'Alacant
+03121,Santa Pola
+03123,Sax
+03124,Sella
+03125,Senija
+03127,Tàrbena
+03128,Teulada
+03129,Tibi
+03130,Tollos
+03131,Tormos
+03132,"Torremanzanas/Torre De Les Maçanes, La"
+03133,Torrevieja
+03134,"Vall D'Alcalà, La"
+03136,Vall De Gallinera
+03137,"Vall De Laguar, La"
+03135,"Vall D'Ebo, La"
+03138,"Verger, El"
+03139,"Villajoyosa/Vila Joiosa, La"
+03140,Villena
+03081,Xaló
+04001,Abla
+04002,Abrucena
+04003,Adra
+04004,Albánchez
+04005,Alboloduy
+04006,Albox
+04007,Alcolea
+04008,Alcóntar
+04009,Alcudia De Monteagud
+04010,Alhabia
+04011,Alhama De Almería
+04012,Alicún
+04013,Almería
+04014,Almócita
+04015,Alsodux
+04016,Antas
+04017,Arboleas
+04018,Armuña De Almanzora
+04019,Bacares
+04020,Bayárcal
+04021,Bayarque
+04022,Bédar
+04023,Beires
+04024,Benahadux
+04026,Benitagla
+04027,Benizalón
+04028,Bentarique
+04029,Berja
+04030,Canjáyar
+04031,Cantoria
+04032,Carboneras
+04033,Castro De Filabres
+04036,Chercos
+04037,Chirivel
+04034,Cóbdar
+04035,Cuevas Del Almanzora
+04038,Dalías
+04902,"Ejido, El"
+04041,Enix
+04043,Felix
+04044,Fines
+04045,Fiñana
+04046,Fondón
+04047,Gádor
+04048,"Gallardos, Los"
+04049,Garrucha
+04050,Gérgal
+04051,Huécija
+04052,Huércal De Almería
+04053,Huércal-Overa
+04054,Illar
+04055,Instinción
+04056,Laroya
+04057,Láujar De Andarax
+04058,Líjar
+04059,Lubrín
+04060,Lucainena De Las Torres
+04061,Lúcar
+04062,Macael
+04063,María
+04064,Mojácar
+04903,"Mojonera, La"
+04065,Nacimiento
+04066,Níjar
+04067,Ohanes
+04068,Olula De Castro
+04069,Olula Del Río
+04070,Oria
+04071,Padules
+04072,Partaloa
+04073,Paterna Del Río
+04074,Pechina
+04075,Pulpí
+04076,Purchena
+04077,Rágol
+04078,Rioja
+04079,Roquetas De Mar
+04080,Santa Cruz De Marchena
+04081,Santa Fe De Mondújar
+04082,Senés
+04083,Serón
+04084,Sierro
+04085,Somontín
+04086,Sorbas
+04087,Suflí
+04088,Tabernas
+04089,Taberno
+04090,Tahal
+04091,Terque
+04092,Tíjola
+04901,"Tres Villas, Las"
+04093,Turre
+04094,Turrillas
+04095,Uleila Del Campo
+04096,Urrácal
+04097,Velefique
+04098,Vélez-Blanco
+04099,Vélez-Rubio
+04100,Vera
+04101,Viator
+04102,Vícar
+04103,Zurgena
+05001,Adanero
+05002,"Adrada, La"
+05005,Albornos
+05007,Aldeanueva De Santa Cruz
+05008,Aldeaseca
+05010,"Aldehuela, La"
+05012,Amavida
+05013,"Arenal, El"
+05014,Arenas De San Pedro
+05015,Arevalillo
+05016,Arévalo
+05017,Aveinte
+05018,Avellaneda
+05019,Ávila
+05021,"Barco De Ávila, El"
+05022,"Barraco, El"
+05023,Barromán
+05024,Becedas
+05025,Becedillas
+05026,Bercial De Zapardiel
+05027,"Berlanas, Las"
+05029,Bernuy-Zapardiel
+05030,Berrocalejo De Aragona
+05033,Blascomillán
+05034,Blasconuño De Matacabras
+05035,Blascosancho
+05036,"Bohodón, El"
+05037,Bohoyo
+05038,Bonilla De La Sierra
+05039,Brabos
+05040,Bularros
+05041,Burgohondo
+05042,Cabezas De Alambre
+05043,Cabezas Del Pozo
+05044,Cabezas Del Villar
+05045,Cabizuela
+05046,Canales
+05047,Candeleda
+05048,Cantiveros
+05049,Cardeñosa
+05051,"Carrera, La"
+05052,Casas Del Puerto
+05053,Casasola
+05054,Casavieja
+05055,Casillas
+05056,Castellanos De Zapardiel
+05057,Cebreros
+05058,Cepeda La Mora
+05067,Chamartín
+05059,Cillán
+05060,Cisla
+05061,"Colilla, La"
+05062,Collado De Contreras
+05063,Collado Del Mirón
+05064,Constanzana
+05065,Crespos
+05066,Cuevas Del Valle
+05903,Diego Del Carpio
+05069,Donjimeno
+05070,Donvidas
+05072,Espinosa De Los Caballeros
+05073,Flores De Ávila
+05074,Fontiveros
+05075,Fresnedilla
+05076,"Fresno, El"
+05077,Fuente El Saúz
+05078,Fuentes De Año
+05079,Gallegos De Altamiros
+05080,Gallegos De Sobrinos
+05081,Garganta Del Villar
+05082,Gavilanes
+05083,Gemuño
+05085,Gil García
+05084,Gilbuena
+05086,Gimialcón
+05087,Gotarrendura
+05088,Grandes Y San Martín
+05089,Guisando
+05090,Gutierre-Muñoz
+05092,Hernansancho
+05093,Herradón De Pinares
+05094,Herreros De Suso
+05095,Higuera De Las Dueñas
+05096,"Hija De Dios, La"
+05097,"Horcajada, La"
+05099,Horcajo De Las Torres
+05100,"Hornillo, El"
+05102,"Hoyo De Pinares, El"
+05101,Hoyocasero
+05103,Hoyorredondo
+05106,Hoyos De Miguel Muñoz
+05104,Hoyos Del Collado
+05105,Hoyos Del Espino
+05107,Hurtumpascual
+05108,Junciana
+05109,Langa
+05110,Lanzahíta
+05113,"Llanos De Tormes, Los"
+05112,"Losar Del Barco, El"
+05114,Madrigal De Las Altas Torres
+05115,Maello
+05116,Malpartida De Corneja
+05117,Mamblas
+05118,Mancera De Arriba
+05119,Manjabálago
+05120,Marlín
+05121,Martiherrero
+05122,Martínez
+05123,Mediana De Voltoya
+05124,Medinilla
+05125,Mengamuñoz
+05126,Mesegar De Corneja
+05127,Mijares
+05128,Mingorría
+05129,"Mirón, El"
+05130,Mironcillo
+05131,Mirueña De Los Infanzones
+05132,Mombeltrán
+05133,Monsalupe
+05134,Moraleja De Matacabras
+05135,Muñana
+05136,Muñico
+05138,Muñogalindo
+05139,Muñogrande
+05140,Muñomer Del Peco
+05141,Muñopepe
+05142,Muñosancho
+05143,Muñotello
+05144,Narrillos Del Álamo
+05145,Narrillos Del Rebollar
+05149,Narros De Saldueña
+05147,Narros Del Castillo
+05148,Narros Del Puerto
+05152,Nava De Arévalo
+05153,Nava Del Barco
+05151,Navacepedilla De Corneja
+05154,Navadijos
+05155,Navaescurial
+05156,Navahondilla
+05157,Navalacruz
+05158,Navalmoral
+05159,Navalonguilla
+05160,Navalosa
+05161,Navalperal De Pinares
+05162,Navalperal De Tormes
+05163,Navaluenga
+05164,Navaquesera
+05165,Navarredonda De Gredos
+05166,Navarredondilla
+05167,Navarrevisca
+05168,"Navas Del Marqués, Las"
+05169,Navatalgordo
+05170,Navatejares
+05171,Neila De San Miguel
+05172,Niharra
+05173,Ojos-Albos
+05174,Orbita
+05175,"Oso, El"
+05176,Padiernos
+05177,Pajares De Adaja
+05178,Palacios De Goda
+05179,Papatrigo
+05180,"Parral, El"
+05181,Pascualcobo
+05182,Pedro Bernardo
+05183,Pedro-Rodríguez
+05184,Peguerinos
+05185,Peñalba De Ávila
+05186,Piedrahíta
+05187,Piedralaves
+05188,Poveda
+05189,Poyales Del Hoyo
+05190,Pozanco
+05191,Pradosegar
+05192,Puerto Castilla
+05193,Rasueros
+05194,Riocabado
+05195,Riofrío
+05196,Rivilla De Barajas
+05197,Salobral
+05198,Salvadiós
+05199,San Bartolomé De Béjar
+05200,San Bartolomé De Corneja
+05201,San Bartolomé De Pinares
+05206,San Esteban De Los Patos
+05208,San Esteban De Zapardiel
+05207,San Esteban Del Valle
+05209,San García De Ingelmos
+05901,San Juan De Gredos
+05210,San Juan De La Encinilla
+05211,San Juan De La Nava
+05212,San Juan Del Molinillo
+05213,San Juan Del Olmo
+05214,San Lorenzo De Tormes
+05215,San Martín De La Vega Del Alberche
+05216,San Martín Del Pimpollar
+05217,San Miguel De Corneja
+05218,San Miguel De Serrezuela
+05219,San Pascual
+05220,San Pedro Del Arroyo
+05231,San Vicente De Arévalo
+05204,Sanchidrián
+05205,Sanchorreja
+05222,Santa Cruz De Pinares
+05221,Santa Cruz Del Valle
+05226,Santa María De Los Caballeros
+05224,Santa María Del Arroyo
+05225,Santa María Del Berrocal
+05902,Santa María Del Cubillo
+05227,Santa María Del Tiétar
+05228,Santiago Del Collado
+05904,Santiago Del Tormes
+05229,Santo Domingo De Las Posadas
+05230,Santo Tomé De Zabarcos
+05232,"Serrada, La"
+05233,Serranillos
+05234,Sigeres
+05235,Sinlabajos
+05236,Solana De Ávila
+05237,Solana De Rioalmar
+05238,Solosancho
+05239,Sotalbo
+05240,Sotillo De La Adrada
+05241,"Tiemblo, El"
+05242,Tiñosillos
+05243,Tolbaños
+05244,Tormellas
+05245,Tornadizos De Ávila
+05247,"Torre, La"
+05246,Tórtoles
+05249,Umbrías
+05251,Vadillo De La Sierra
+05252,Valdecasa
+05253,Vega De Santa María
+05254,Velayos
+05256,Villaflor
+05257,Villafranca De La Sierra
+05905,Villanueva De Ávila
+05258,Villanueva De Gómez
+05259,Villanueva Del Aceral
+05260,Villanueva Del Campillo
+05261,Villar De Corneja
+05262,Villarejo Del Valle
+05263,Villatoro
+05264,Viñegra De Moraña
+05265,Vita
+05266,Zapardiel De La Cañada
+05267,Zapardiel De La Ribera
+06001,Acedera
+06002,Aceuchal
+06003,Ahillones
+06004,Alange
+06005,"Albuera, La"
+06006,Alburquerque
+06007,Alconchel
+06008,Alconera
+06009,Aljucén
+06010,Almendral
+06011,Almendralejo
+06012,Arroyo De San Serván
+06013,Atalaya
+06014,Azuaga
+06015,Badajoz
+06016,Barcarrota
+06017,Baterno
+06018,Benquerencia De La Serena
+06019,Berlanga
+06020,Bienvenida
+06021,Bodonal De La Sierra
+06022,Burguillos Del Cerro
+06023,Cabeza Del Buey
+06024,Cabeza La Vaca
+06025,Calamonte
+06026,Calera De León
+06027,Calzadilla De Los Barros
+06028,Campanario
+06029,Campillo De Llerena
+06030,Capilla
+06031,Carmonita
+06032,"Carrascalejo, El"
+06033,Casas De Don Pedro
+06034,Casas De Reina
+06035,Castilblanco
+06036,Castuera
+06042,Cheles
+06037,"Codosera, La"
+06038,Cordobilla De Lácara
+06039,"Coronada, La"
+06040,Corte De Peleas
+06041,Cristina
+06043,Don Álvaro
+06044,Don Benito
+06045,Entrín Bajo
+06046,Esparragalejo
+06047,Esparragosa De La Serena
+06048,Esparragosa De Lares
+06049,Feria
+06050,Fregenal De La Sierra
+06051,Fuenlabrada De Los Montes
+06052,Fuente De Cantos
+06053,Fuente Del Arco
+06054,Fuente Del Maestre
+06055,Fuentes De León
+06056,Garbayuela
+06057,Garlitos
+06058,"Garrovilla, La"
+06059,Granja De Torrehermosa
+06060,Guareña
+06061,"Haba, La"
+06062,Helechosa De Los Montes
+06063,Herrera Del Duque
+06064,Higuera De La Serena
+06065,Higuera De Llerena
+06066,Higuera De Vargas
+06067,Higuera La Real
+06068,Hinojosa Del Valle
+06069,Hornachos
+06070,Jerez De Los Caballeros
+06071,"Lapa, La"
+06073,Llera
+06074,Llerena
+06072,Lobón
+06075,Magacela
+06076,Maguilla
+06077,Malcocinado
+06078,Malpartida De La Serena
+06079,Manchita
+06080,Medellín
+06081,Medina De Las Torres
+06082,Mengabril
+06083,Mérida
+06084,Mirandilla
+06085,Monesterio
+06086,Montemolín
+06087,Monterrubio De La Serena
+06088,Montijo
+06089,"Morera, La"
+06090,"Nava De Santiago, La"
+06091,Navalvillar De Pela
+06092,Nogales
+06093,Oliva De La Frontera
+06094,Oliva De Mérida
+06095,Olivenza
+06096,Orellana De La Sierra
+06097,Orellana La Vieja
+06098,Palomas
+06099,"Parra, La"
+06100,Peñalsordo
+06101,Peraleda Del Zaucejo
+06102,Puebla De Alcocer
+06103,Puebla De La Calzada
+06104,Puebla De La Reina
+06107,Puebla De Obando
+06108,Puebla De Sancho Pérez
+06105,Puebla Del Maestre
+06106,Puebla Del Prior
+06902,Pueblonuevo Del Guadiana
+06109,Quintana De La Serena
+06110,Reina
+06111,Rena
+06112,Retamal De Llerena
+06113,Ribera Del Fresno
+06114,Risco
+06115,"Roca De La Sierra, La"
+06116,Salvaleón
+06117,Salvatierra De Los Barros
+06119,San Pedro De Mérida
+06123,San Vicente De Alcántara
+06118,Sancti-Spíritus
+06120,Santa Amalia
+06121,Santa Marta
+06122,"Santos De Maimona, Los"
+06124,Segura De León
+06125,Siruela
+06126,Solana De Los Barros
+06127,Talarrubias
+06128,Talavera La Real
+06129,Táliga
+06130,Tamurejo
+06131,Torre De Miguel Sesmero
+06132,Torremayor
+06133,Torremejía
+06134,Trasierra
+06135,Trujillanos
+06136,Usagre
+06137,Valdecaballeros
+06901,Valdelacalzada
+06138,Valdetorres
+06139,Valencia De Las Torres
+06140,Valencia Del Mombuey
+06141,Valencia Del Ventoso
+06146,Valle De La Serena
+06147,Valle De Matamoros
+06148,Valle De Santa Ana
+06142,Valverde De Burguillos
+06143,Valverde De Leganés
+06144,Valverde De Llerena
+06145,Valverde De Mérida
+06149,Villafranca De Los Barros
+06150,Villagarcía De La Torre
+06151,Villagonzalo
+06152,Villalba De Los Barros
+06153,Villanueva De La Serena
+06154,Villanueva Del Fresno
+06156,Villar De Rena
+06155,Villar Del Rey
+06157,Villarta De Los Montes
+06158,Zafra
+06159,Zahínos
+06160,Zalamea De La Serena
+06162,"Zarza, La"
+06161,Zarza-Capilla
+07002,Alaior
+07001,Alaró
+07003,Alcúdia
+07004,Algaida
+07005,Andratx
+07901,Ariany
+07006,Artà
+07007,Banyalbufar
+07008,Binissalem
+07009,Búger
+07010,Bunyola
+07011,Calvià
+07012,Campanet
+07013,Campos
+07014,Capdepera
+07064,"Castell, Es"
+07015,Ciutadella De Menorca
+07016,Consell
+07017,Costitx
+07018,Deyá
+07026,Eivissa
+07019,Escorca
+07020,Esporles
+07021,Estellencs
+07022,Felanitx
+07023,Ferreries
+07024,Formentera
+07025,Fornalutx
+07027,Inca
+07028,Lloret De Vistalegre
+07029,Lloseta
+07030,Llubí
+07031,Llucmajor
+07033,Manacor
+07034,Mancor De La Vall
+07032,Maó
+07035,Maria De La Salut
+07036,Marratxí
+07037,"Mercadal, Es"
+07902,"Migjorn Gran, Es"
+07038,Montuïri
+07039,Muro
+07040,Palma
+07041,Petra
+07044,"Pobla, Sa"
+07042,Pollença
+07043,Porreres
+07045,Puigpunyent
+07059,"Salines, Ses"
+07046,Sant Antoni De Portmany
+07049,Sant Joan
+07050,Sant Joan De Labritja
+07048,Sant Josep De Sa Talaia
+07051,Sant Llorenç Des Cardassar
+07052,Sant Lluís
+07053,Santa Eugènia
+07054,Santa Eulalia Del Río
+07055,Santa Margalida
+07056,Santa María Del Camí
+07057,Santanyí
+07058,Selva
+07047,Sencelles
+07060,Sineu
+07061,Sóller
+07062,Son Servera
+07063,Valldemossa
+07065,Vilafranca De Bonany
+08001,Abrera
+08002,Aguilar De Segarra
+08014,Aiguafreda
+08003,Alella
+08004,Alpens
+08005,"Ametlla Del Vallès, L'"
+08006,Arenys De Mar
+08007,Arenys De Munt
+08008,Argençola
+08009,Argentona
+08010,Artés
+08011,Avià
+08012,Avinyó
+08013,Avinyonet Del Penedès
+08015,Badalona
+08904,Badia Del Vallès
+08016,Bagà
+08017,Balenyà
+08018,Balsareny
+08252,Barberà Del Vallès
+08019,Barcelona
+08020,Begues
+08021,Bellprat
+08022,Berga
+08023,Bigues I Riells
+08024,Borredà
+08025,"Bruc, El"
+08026,"Brull, El"
+08027,"Cabanyes, Les"
+08028,Cabrera D'Anoia
+08029,Cabrera De Mar
+08030,Cabrils
+08031,Calaf
+08034,Calders
+08033,Caldes De Montbui
+08032,Caldes D'Estrac
+08035,Calella
+08037,Calldetenes
+08038,Callús
+08036,Calonge De Segarra
+08039,Campins
+08040,Canet De Mar
+08041,Canovelles
+08042,Cànoves I Samalús
+08043,Canyelles
+08044,Capellades
+08045,Capolat
+08046,Cardedeu
+08047,Cardona
+08048,Carme
+08049,Casserres
+08057,Castell De L'Areny
+08052,Castellar De N'Hug
+08050,Castellar Del Riu
+08051,Castellar Del Vallès
+08053,Castellbell I El Vilar
+08054,Castellbisbal
+08055,Castellcir
+08056,Castelldefels
+08058,Castellet I La Gornal
+08060,Castellfollit De Riubregós
+08059,Castellfollit Del Boix
+08061,Castellgalí
+08062,Castellnou De Bages
+08063,Castellolí
+08064,Castellterçol
+08065,Castellví De La Marca
+08066,Castellví De Rosanes
+08067,Centelles
+08268,Cercs
+08266,Cerdanyola Del Vallès
+08068,Cervelló
+08069,Collbató
+08070,Collsuspina
+08071,Copons
+08072,Corbera De Llobregat
+08073,Cornellà De Llobregat
+08074,Cubelles
+08075,Dosrius
+08076,Esparreguera
+08077,Esplugues De Llobregat
+08078,"Espunyola, L'"
+08079,"Estany, L'"
+08134,Figaró-Montmany
+08080,Fígols
+08082,Fogars De La Selva
+08081,Fogars De Montclús
+08083,Folgueroles
+08084,Fonollosa
+08085,Font-Rubí
+08086,"Franqueses Del Vallès, Les"
+08090,Gaià
+08087,Gallifa
+08088,"Garriga, La"
+08089,Gavà
+08091,Gelida
+08092,Gironella
+08093,Gisclareny
+08094,"Granada, La"
+08095,Granera
+08096,Granollers
+08097,Gualba
+08099,Guardiola De Berguedà
+08100,Gurb
+08101,"Hospitalet De Llobregat, L'"
+08162,"Hostalets De Pierola, Els"
+08102,Igualada
+08103,Jorba
+08104,"Llacuna, La"
+08105,"Llagosta, La"
+08107,Lliçà D'Amunt
+08108,Lliçà De Vall
+08106,Llinars Del Vallès
+08109,Lluçà
+08110,Malgrat De Mar
+08111,Malla
+08112,Manlleu
+08113,Manresa
+08242,Marganell
+08114,Martorell
+08115,Martorelles
+08116,"Masies De Roda, Les"
+08117,"Masies De Voltregà, Les"
+08118,"Masnou, El"
+08119,Masquefa
+08120,Matadepera
+08121,Mataró
+08122,Mediona
+08138,Moià
+08123,Molins De Rei
+08124,Mollet Del Vallès
+08128,Monistrol De Calders
+08127,Monistrol De Montserrat
+08125,Montcada I Reixac
+08130,Montclar
+08131,Montesquiu
+08126,Montgat
+08132,Montmajor
+08133,Montmaneu
+08135,Montmeló
+08136,Montornès Del Vallès
+08137,Montseny
+08129,Muntanyola
+08139,Mura
+08140,Navarcles
+08141,Navàs
+08142,"Nou De Berguedà, La"
+08143,Òdena
+08145,Olèrdola
+08146,Olesa De Bonesvalls
+08147,Olesa De Montserrat
+08148,Olivella
+08149,Olost
+08144,Olvan
+08150,Orís
+08151,Oristà
+08152,Orpí
+08153,Òrrius
+08154,Pacs Del Penedès
+08155,Palafolls
+08156,Palau-Solità I Plegamans
+08157,Pallejà
+08905,"Palma De Cervelló, La"
+08158,"Papiol, El"
+08159,Parets Del Vallès
+08160,Perafita
+08161,Piera
+08163,Pineda De Mar
+08164,"Pla Del Penedès, El"
+08165,"Pobla De Claramunt, La"
+08166,"Pobla De Lillet, La"
+08167,Polinyà
+08182,"Pont De Vilomara I Rocafort, El"
+08168,Pontons
+08169,"Prat De Llobregat, El"
+08171,Prats De Lluçanès
+08170,"Prats De Rei, Els"
+08230,Premià De Dalt
+08172,Premià De Mar
+08174,Puigdàlber
+08175,Puig-Reig
+08176,Pujalt
+08177,"Quar, La"
+08178,Rajadell
+08179,Rellinars
+08180,Ripollet
+08181,"Roca Del Vallès, La"
+08183,Roda De Ter
+08184,Rubí
+08185,Rubió
+08901,Rupit I Pruit
+08187,Sabadell
+08188,Sagàs
+08190,Saldes
+08191,Sallent
+08194,Sant Adrià De Besòs
+08195,Sant Agustí De Lluçanès
+08196,Sant Andreu De La Barca
+08197,Sant Andreu De Llavaneres
+08198,Sant Antoni De Vilamajor
+08199,Sant Bartomeu Del Grau
+08200,Sant Boi De Llobregat
+08201,Sant Boi De Lluçanès
+08203,Sant Cebrià De Vallalta
+08202,Sant Celoni
+08204,Sant Climent De Llobregat
+08205,Sant Cugat Del Vallès
+08206,Sant Cugat Sesgarrigues
+08207,Sant Esteve De Palautordera
+08208,Sant Esteve Sesrovires
+08210,Sant Feliu De Codines
+08211,Sant Feliu De Llobregat
+08212,Sant Feliu Sasserra
+08209,Sant Fost De Campsentelles
+08213,Sant Fruitós De Bages
+08215,Sant Hipòlit De Voltregà
+08193,Sant Iscle De Vallalta
+08216,Sant Jaume De Frontanyà
+08218,Sant Joan De Vilatorrada
+08217,Sant Joan Despí
+08903,Sant Julià De Cerdanyola
+08220,Sant Julià De Vilatorta
+08221,Sant Just Desvern
+08222,Sant Llorenç D'Hortons
+08223,Sant Llorenç Savall
+08225,Sant Martí D'Albars
+08224,Sant Martí De Centelles
+08226,Sant Martí De Tous
+08227,Sant Martí Sarroca
+08228,Sant Martí Sesgueioles
+08229,Sant Mateu De Bages
+08231,Sant Pere De Ribes
+08232,Sant Pere De Riudebitlles
+08233,Sant Pere De Torelló
+08234,Sant Pere De Vilamajor
+08189,Sant Pere Sallavinera
+08235,Sant Pol De Mar
+08236,Sant Quintí De Mediona
+08237,Sant Quirze De Besora
+08238,Sant Quirze Del Vallès
+08239,Sant Quirze Safaja
+08240,Sant Sadurní D'Anoia
+08241,Sant Sadurní D'Osormort
+08098,Sant Salvador De Guardiola
+08262,Sant Vicenç De Castellet
+08264,Sant Vicenç De Montalt
+08265,Sant Vicenç De Torelló
+08263,Sant Vicenç Dels Horts
+08243,Santa Cecília De Voltregà
+08244,Santa Coloma De Cervelló
+08245,Santa Coloma De Gramenet
+08246,Santa Eugènia De Berga
+08247,Santa Eulàlia De Riuprimer
+08248,Santa Eulàlia De Ronçana
+08249,Santa Fe Del Penedès
+08250,Santa Margarida De Montbui
+08251,Santa Margarida I Els Monjos
+08253,Santa Maria De Besora
+08254,Santa Maria De Corcó
+08256,Santa Maria De Martorelles
+08255,Santa Maria De Merlès
+08257,Santa Maria De Miralles
+08259,Santa Maria De Palautordera
+08258,Santa Maria D'Oló
+08260,Santa Perpètua De Mogoda
+08261,Santa Susanna
+08192,Santpedor
+08267,Sentmenat
+08269,Seva
+08270,Sitges
+08271,Sobremunt
+08272,Sora
+08273,Subirats
+08274,Súria
+08276,Tagamanent
+08277,Talamanca
+08278,Taradell
+08275,Tavèrnoles
+08280,Tavertet
+08281,Teià
+08279,Terrassa
+08282,Tiana
+08283,Tona
+08284,Tordera
+08285,Torelló
+08286,"Torre De Claramunt, La"
+08287,Torrelavit
+08288,Torrelles De Foix
+08289,Torrelles De Llobregat
+08290,Ullastrell
+08291,Vacarisses
+08292,Vallbona D'Anoia
+08293,Vallcebre
+08294,Vallgorguina
+08295,Vallirana
+08296,Vallromanes
+08297,Veciana
+08298,Vic
+08299,Vilada
+08301,Viladecans
+08300,Viladecavalls
+08305,Vilafranca Del Penedès
+08306,Vilalba Sasserra
+08303,Vilanova De Sau
+08302,Vilanova Del Camí
+08902,Vilanova Del Vallès
+08307,Vilanova I La Geltrú
+08214,Vilassar De Dalt
+08219,Vilassar De Mar
+08304,Vilobí Del Penedès
+08308,Viver I Serrateix
+09001,Abajas
+09003,Adrada De Haza
+09006,Aguas Cándidas
+09007,Aguilar De Bureba
+09009,Albillos
+09010,Alcocero De Mola
+09011,Alfoz De Bricia
+09907,Alfoz De Quintanadueñas
+09012,Alfoz De Santa Gadea
+09013,Altable
+09014,"Altos, Los"
+09016,Ameyugo
+09017,Anguix
+09018,Aranda De Duero
+09019,Arandilla
+09020,Arauzo De Miel
+09021,Arauzo De Salce
+09022,Arauzo De Torre
+09023,Arcos
+09024,Arenillas De Riopisuerga
+09025,Arija
+09026,Arlanzón
+09027,Arraya De Oca
+09029,Atapuerca
+09030,"Ausines, Los"
+09032,Avellanosa De Muñó
+09033,Bahabón De Esgueva
+09034,"Balbases, Los"
+09035,Baños De Valdearados
+09036,Bañuelos De Bureba
+09037,Barbadillo De Herreros
+09038,Barbadillo Del Mercado
+09039,Barbadillo Del Pez
+09041,Barrio De Muñó
+09043,"Barrios De Bureba, Los"
+09044,Barrios De Colina
+09045,Basconcillos Del Tozo
+09046,Bascuñana
+09047,Belbimbre
+09048,Belorado
+09050,Berberana
+09051,Berlangas De Roa
+09052,Berzosa De Bureba
+09054,Bozoó
+09055,Brazacorta
+09056,Briviesca
+09057,Bugedo
+09058,Buniel
+09059,Burgos
+09060,Busto De Bureba
+09061,Cabañes De Esgueva
+09062,Cabezón De La Sierra
+09064,Caleruega
+09065,Campillo De Aranda
+09066,Campolara
+09067,Canicosa De La Sierra
+09068,Cantabrana
+09070,Carazo
+09071,Carcedo De Bureba
+09072,Carcedo De Burgos
+09073,Cardeñadijo
+09074,Cardeñajimeno
+09075,Cardeñuela Riopico
+09076,Carrias
+09077,Cascajares De Bureba
+09078,Cascajares De La Sierra
+09079,Castellanos De Castro
+09083,Castil De Peones
+09082,Castildelgado
+09084,Castrillo De La Reina
+09085,Castrillo De La Vega
+09088,Castrillo De Riopisuerga
+09086,Castrillo Del Val
+09090,Castrillo Matajudíos
+09091,Castrojeriz
+09063,Cavia
+09093,Cayuela
+09094,Cebrecos
+09095,Celada Del Camino
+09098,Cerezo De Río Tirón
+09100,Cerratón De Juarros
+09101,Ciadoncha
+09102,Cillaperlata
+09103,Cilleruelo De Abajo
+09104,Cilleruelo De Arriba
+09105,Ciruelos De Cervera
+09108,Cogollos
+09109,Condado De Treviño
+09110,Contreras
+09112,Coruña Del Conde
+09113,Covarrubias
+09114,Cubillo Del Campo
+09115,Cubo De Bureba
+09117,"Cueva De Roa, La"
+09119,Cuevas De San Clemente
+09120,Encío
+09122,Espinosa De Cervera
+09124,Espinosa De Los Monteros
+09123,Espinosa Del Camino
+09125,Estépar
+09127,Fontioso
+09128,Frandovínez
+09129,Fresneda De La Sierra Tirón
+09130,Fresneña
+09131,Fresnillo De Las Dueñas
+09132,Fresno De Río Tirón
+09133,Fresno De Rodilla
+09134,Frías
+09135,Fuentebureba
+09136,Fuentecén
+09137,Fuentelcésped
+09138,Fuentelisendo
+09139,Fuentemolinos
+09140,Fuentenebro
+09141,Fuentespina
+09143,Galbarros
+09144,"Gallega, La"
+09148,Grijalba
+09149,Grisaleña
+09151,Gumiel De Izán
+09152,Gumiel De Mercado
+09154,Hacinas
+09155,Haza
+09159,Hontanas
+09160,Hontangas
+09162,Hontoria De La Cantera
+09164,Hontoria De Valdearados
+09163,Hontoria Del Pinar
+09166,"Hormazas, Las"
+09167,Hornillos Del Camino
+09168,"Horra, La"
+09169,Hortigüela
+09170,Hoyales De Roa
+09172,Huérmeces
+09173,Huerta De Arriba
+09174,Huerta De Rey
+09175,Humada
+09176,Hurones
+09177,Ibeas De Juarros
+09178,Ibrillos
+09179,Iglesiarrubia
+09180,Iglesias
+09181,Isar
+09182,Itero Del Castillo
+09183,Jaramillo De La Fuente
+09184,Jaramillo Quemado
+09189,Junta De Traslaloma
+09190,Junta De Villalba De Losa
+09191,Jurisdicción De Lara
+09192,Jurisdicción De San Zadornil
+09194,Lerma
+09195,Llano De Bureba
+09196,Madrigal Del Monte
+09197,Madrigalejo Del Monte
+09198,Mahamud
+09199,Mambrilla De Castrejón
+09200,Mambrillas De Lara
+09201,Mamolar
+09202,Manciles
+09206,Mazuela
+09208,Mecerreyes
+09209,Medina De Pomar
+09211,Melgar De Fernamental
+09213,Merindad De Cuesta-Urria
+09214,Merindad De Montija
+09906,Merindad De Río Ubierna
+09215,Merindad De Sotoscueva
+09216,Merindad De Valdeporres
+09217,Merindad De Valdivielso
+09218,Milagros
+09219,Miranda De Ebro
+09220,Miraveche
+09221,Modúbar De La Emparedada
+09223,Monasterio De La Sierra
+09224,Monasterio De Rodilla
+09225,Moncalvillo
+09226,Monterrubio De La Demanda
+09227,Montorio
+09228,Moradillo De Roa
+09229,Nava De Roa
+09230,Navas De Bureba
+09231,Nebreda
+09232,Neila
+09235,Olmedillo De Roa
+09236,Olmillos De Muñó
+09238,Oña
+09239,Oquillas
+09241,Orbaneja Riopico
+09242,Padilla De Abajo
+09243,Padilla De Arriba
+09244,Padrones De Bureba
+09246,Palacios De La Sierra
+09247,Palacios De Riopisuerga
+09248,Palazuelos De La Sierra
+09249,Palazuelos De Muñó
+09250,Pampliega
+09251,Pancorbo
+09253,Pardilla
+09255,Partido De La Sierra En Tobalina
+09256,Pedrosa De Duero
+09259,Pedrosa De Río Úrbel
+09257,Pedrosa Del Páramo
+09258,Pedrosa Del Príncipe
+09261,Peñaranda De Duero
+09262,Peral De Arlanza
+09265,Piérnigas
+09266,Pineda De La Sierra
+09267,Pineda Trasmonte
+09268,Pinilla De Los Barruecos
+09269,Pinilla De Los Moros
+09270,Pinilla Trasmonte
+09272,Poza De La Sal
+09273,Prádanos De Bureba
+09274,Pradoluengo
+09275,Presencio
+09276,"Puebla De Arganzón, La"
+09277,Puentedura
+09279,Quemada
+09281,Quintana Del Pidio
+09280,Quintanabureba
+09283,Quintanaélez
+09287,Quintanaortuño
+09288,Quintanapalla
+09289,Quintanar De La Sierra
+09292,Quintanavides
+09294,Quintanilla De La Mata
+09901,Quintanilla Del Agua Y Tordueles
+09295,Quintanilla Del Coco
+09298,Quintanilla San García
+09301,Quintanilla Vivar
+09297,"Quintanillas, Las"
+09302,Rabanera Del Pinar
+09303,Rábanos
+09304,Rabé De Las Calzadas
+09306,Rebolledo De La Torre
+09307,Redecilla Del Camino
+09308,Redecilla Del Campo
+09309,Regumiel De La Sierra
+09310,Reinoso
+09311,Retuerta
+09314,Revilla Del Campo
+09316,Revilla Vallejera
+09312,"Revilla Y Ahedo, La"
+09315,Revillarruz
+09317,Rezmondo
+09318,Riocavado De La Sierra
+09321,Roa
+09323,Rojas
+09325,Royuela De Río Franco
+09326,Rubena
+09327,Rublacedo De Abajo
+09328,Rucandio
+09329,Salas De Bureba
+09330,Salas De Los Infantes
+09332,Saldaña De Burgos
+09334,Salinillas De Bureba
+09335,San Adrián De Juarros
+09337,San Juan Del Monte
+09338,San Mamés De Burgos
+09339,San Martín De Rubiales
+09340,San Millán De Lara
+09360,San Vicente Del Valle
+09343,Santa Cecilia
+09345,Santa Cruz De La Salceda
+09346,Santa Cruz Del Valle Urbión
+09347,Santa Gadea Del Cid
+09348,Santa Inés
+09350,Santa María Del Campo
+09351,Santa María Del Invierno
+09352,Santa María Del Mercadillo
+09353,Santa María Rivarredonda
+09354,Santa Olalla De Bureba
+09355,Santibáñez De Esgueva
+09356,Santibáñez Del Val
+09358,Santo Domingo De Silos
+09361,Sargentes De La Lora
+09362,Sarracín
+09363,Sasamón
+09365,"Sequera De Haza, La"
+09366,Solarana
+09368,Sordillos
+09369,Sotillo De La Ribera
+09372,Sotragero
+09373,Sotresgudo
+09374,Susinos Del Páramo
+09375,Tamarón
+09377,Tardajos
+09378,Tejada
+09380,Terradillos De Esgueva
+09381,Tinieblas De La Sierra
+09382,Tobar
+09384,Tordómar
+09386,Torrecilla Del Monte
+09387,Torregalindo
+09388,Torrelara
+09389,Torrepadre
+09390,Torresandino
+09391,Tórtoles De Esgueva
+09392,Tosantos
+09394,Trespaderne
+09395,Tubilla Del Agua
+09396,Tubilla Del Lago
+09398,Úrbel Del Castillo
+09400,Vadocondes
+09403,Valdeande
+09405,Valdezate
+09406,Valdorros
+09408,Vallarta De Bureba
+09904,Valle De Las Navas
+09908,Valle De Losa
+09409,Valle De Manzanedo
+09410,Valle De Mena
+09411,Valle De Oca
+09902,Valle De Santibáñez
+09905,Valle De Sedano
+09412,Valle De Tobalina
+09413,Valle De Valdebezana
+09414,Valle De Valdelaguna
+09415,Valle De Valdelucio
+09416,Valle De Zamanzas
+09417,Vallejera
+09418,Valles De Palenzuela
+09419,Valluércanes
+09407,Valmala
+09422,"Vid De Bureba, La"
+09421,"Vid Y Barrios, La"
+09423,Vileña
+09427,Villadiego
+09428,Villaescusa De Roa
+09429,Villaescusa La Sombría
+09430,Villaespasa
+09431,Villafranca Montes De Oca
+09432,Villafruela
+09433,Villagalijo
+09434,Villagonzalo Pedernales
+09437,Villahoz
+09438,Villalba De Duero
+09439,Villalbilla De Burgos
+09440,Villalbilla De Gumiel
+09441,Villaldemiro
+09442,Villalmanzo
+09443,Villamayor De Los Montes
+09444,Villamayor De Treviño
+09445,Villambistia
+09446,Villamedianilla
+09447,Villamiel De La Sierra
+09448,Villangómez
+09449,Villanueva De Argaño
+09450,Villanueva De Carazo
+09451,Villanueva De Gumiel
+09454,Villanueva De Teba
+09455,Villaquirán De La Puebla
+09456,Villaquirán De Los Infantes
+09903,Villarcayo De Merindad De Castilla La Vieja
+09458,Villariezo
+09460,Villasandino
+09463,Villasur De Herreros
+09464,Villatuelda
+09466,Villaverde Del Monte
+09467,Villaverde-Mogina
+09471,Villayerno Morquillas
+09472,Villazopeque
+09473,Villegas
+09476,Villoruebo
+09424,Viloria De Rioja
+09425,Vilviestre Del Pinar
+09478,Vizcaínos
+09480,Zael
+09482,Zarzosa De Río Pisuerga
+09483,Zazuar
+09485,Zuñeda
+10001,Abadía
+10002,Abertura
+10003,Acebo
+10004,Acehúche
+10005,Aceituna
+10006,Ahigal
+10903,Alagón Del Río
+10007,Albalá
+10008,Alcántara
+10009,Alcollarín
+10010,Alcuéscar
+10012,Aldea Del Cano
+10013,"Aldea Del Obispo, La"
+10011,Aldeacentenera
+10014,Aldeanueva De La Vera
+10015,Aldeanueva Del Camino
+10016,Aldehuela De Jerte
+10017,Alía
+10018,Aliseda
+10019,Almaraz
+10020,Almoharín
+10021,Arroyo De La Luz
+10023,Arroyomolinos
+10022,Arroyomolinos De La Vera
+10024,Baños De Montemayor
+10025,Barrado
+10026,Belvís De Monroy
+10027,Benquerencia
+10028,Berrocalejo
+10029,Berzocana
+10030,Bohonal De Ibor
+10031,Botija
+10032,Brozas
+10033,Cabañas Del Castillo
+10034,Cabezabellosa
+10035,Cabezuela Del Valle
+10036,Cabrero
+10037,Cáceres
+10038,Cachorrilla
+10039,Cadalso
+10040,Calzadilla
+10041,Caminomorisco
+10042,Campillo De Deleitosa
+10043,Campo Lugar
+10044,Cañamero
+10045,Cañaveral
+10046,Carbajo
+10047,Carcaboso
+10048,Carrascalejo
+10049,Casar De Cáceres
+10050,Casar De Palomero
+10051,Casares De Las Hurdes
+10052,Casas De Don Antonio
+10053,Casas De Don Gómez
+10056,Casas De Millán
+10057,Casas De Miravete
+10054,Casas Del Castañar
+10055,Casas Del Monte
+10058,Casatejada
+10059,Casillas De Coria
+10060,Castañar De Ibor
+10061,Ceclavín
+10062,Cedillo
+10063,Cerezo
+10064,Cilleros
+10065,Collado
+10066,Conquista De La Sierra
+10067,Coria
+10068,Cuacos De Yuste
+10069,"Cumbre, La"
+10070,Deleitosa
+10071,Descargamaría
+10072,Eljas
+10073,Escurial
+10075,Fresnedoso De Ibor
+10076,Galisteo
+10077,Garciaz
+10078,"Garganta, La"
+10079,Garganta La Olla
+10080,Gargantilla
+10081,Gargüera
+10082,Garrovillas De Alconétar
+10083,Garvín
+10084,Gata
+10085,"Gordo, El"
+10086,"Granja, La"
+10087,Guadalupe
+10088,Guijo De Coria
+10089,Guijo De Galisteo
+10090,Guijo De Granadilla
+10091,Guijo De Santa Bárbara
+10092,Herguijuela
+10093,Hernán-Pérez
+10094,Herrera De Alcántara
+10095,Herreruela
+10096,Hervás
+10097,Higuera
+10098,Hinojal
+10099,Holguera
+10100,Hoyos
+10101,Huélaga
+10102,Ibahernando
+10103,Jaraicejo
+10104,Jaraíz De La Vera
+10105,Jarandilla De La Vera
+10106,Jarilla
+10107,Jerte
+10108,Ladrillar
+10109,Logrosán
+10110,Losar De La Vera
+10111,Madrigal De La Vera
+10112,Madrigalejo
+10113,Madroñera
+10114,Majadas
+10115,Malpartida De Cáceres
+10116,Malpartida De Plasencia
+10117,Marchagaz
+10118,Mata De Alcántara
+10119,Membrío
+10120,Mesas De Ibor
+10121,Miajadas
+10122,Millanes
+10123,Mirabel
+10124,Mohedas De Granadilla
+10125,Monroy
+10126,Montánchez
+10127,Montehermoso
+10128,Moraleja
+10129,Morcillo
+10130,Navaconcejo
+10131,Navalmoral De La Mata
+10132,Navalvillar De Ibor
+10133,Navas Del Madroño
+10134,Navezuelas
+10135,Nuñomoral
+10136,Oliva De Plasencia
+10137,Palomero
+10138,Pasarón De La Vera
+10139,Pedroso De Acim
+10140,Peraleda De La Mata
+10141,Peraleda De San Román
+10142,Perales Del Puerto
+10143,Pescueza
+10144,"Pesga, La"
+10145,Piedras Albas
+10146,Pinofranqueado
+10147,Piornal
+10148,Plasencia
+10149,Plasenzuela
+10150,Portaje
+10151,Portezuelo
+10152,Pozuelo De Zarzón
+10153,Puerto De Santa Cruz
+10154,Rebollar
+10155,Riolobos
+10156,Robledillo De Gata
+10157,Robledillo De La Vera
+10158,Robledillo De Trujillo
+10159,Robledollano
+10160,Romangordo
+10901,Rosalejo
+10161,Ruanes
+10162,Salorino
+10163,Salvatierra De Santiago
+10164,San Martín De Trevejo
+10165,Santa Ana
+10166,Santa Cruz De La Sierra
+10167,Santa Cruz De Paniagua
+10168,Santa Marta De Magasca
+10169,Santiago De Alcántara
+10170,Santiago Del Campo
+10171,Santibáñez El Alto
+10172,Santibáñez El Bajo
+10173,Saucedilla
+10174,Segura De Toro
+10175,Serradilla
+10176,Serrejón
+10177,Sierra De Fuentes
+10178,Talaván
+10179,Talaveruela De La Vera
+10180,Talayuela
+10181,Tejeda De Tiétar
+10182,Toril
+10183,Tornavacas
+10184,"Torno, El"
+10187,Torre De Don Miguel
+10188,Torre De Santa María
+10185,Torrecilla De Los Ángeles
+10186,Torrecillas De La Tiesa
+10190,Torrejón El Rubio
+10189,Torrejoncillo
+10191,Torremenga
+10192,Torremocha
+10193,Torreorgaz
+10194,Torrequemada
+10195,Trujillo
+10196,Valdastillas
+10197,Valdecañas De Tajo
+10198,Valdefuentes
+10199,Valdehúncar
+10200,Valdelacasa De Tajo
+10201,Valdemorales
+10202,Valdeobispo
+10203,Valencia De Alcántara
+10204,Valverde De La Vera
+10205,Valverde Del Fresno
+10902,Vegaviana
+10206,Viandar De La Vera
+10207,Villa Del Campo
+10208,Villa Del Rey
+10209,Villamesías
+10210,Villamiel
+10211,Villanueva De La Sierra
+10212,Villanueva De La Vera
+10214,Villar De Plasencia
+10213,Villar Del Pedroso
+10215,Villasbuenas De Gata
+10216,Zarza De Granadilla
+10217,Zarza De Montánchez
+10218,Zarza La Mayor
+10219,Zorita
+11001,Alcalá De Los Gazules
+11002,Alcalá Del Valle
+11003,Algar
+11004,Algeciras
+11005,Algodonales
+11006,Arcos De La Frontera
+11007,Barbate
+11008,"Barrios, Los"
+11901,Benalup-Casas Viejas
+11009,Benaocaz
+11010,Bornos
+11011,"Bosque, El"
+11012,Cádiz
+11013,Castellar De La Frontera
+11015,Chiclana De La Frontera
+11016,Chipiona
+11014,Conil De La Frontera
+11017,Espera
+11018,"Gastor, El"
+11019,Grazalema
+11020,Jerez De La Frontera
+11021,Jimena De La Frontera
+11022,"Línea De La Concepción, La"
+11023,Medina-Sidonia
+11024,Olvera
+11025,Paterna De Rivera
+11026,Prado Del Rey
+11027,"Puerto De Santa María, El"
+11028,Puerto Real
+11029,Puerto Serrano
+11030,Rota
+11031,San Fernando
+11902,San José Del Valle
+11033,San Roque
+11032,Sanlúcar De Barrameda
+11034,Setenil De Las Bodegas
+11035,Tarifa
+11036,Torre Alháquime
+11037,Trebujena
+11038,Ubrique
+11039,Vejer De La Frontera
+11040,Villaluenga Del Rosario
+11041,Villamartín
+11042,Zahara
+12002,Aín
+12003,Albocàsser
+12004,Alcalà De Xivert
+12005,"Alcora, L'"
+12006,Alcudia De Veo
+12007,Alfondeguilla
+12008,Algimia De Almonacid
+12009,Almazora/Almassora
+12010,Almedíjar
+12011,Almenara
+12901,Alquerías Del Niño Perdido
+12012,Altura
+12013,Arañuel
+12014,Ares Del Maestrat
+12015,Argelita
+12016,Artana
+12001,Atzeneta Del Maestrat
+12017,Ayódar
+12018,Azuébar
+12020,Barracas
+12022,Bejís
+12024,Benafer
+12025,Benafigos
+12026,Benasal
+12027,Benicarló
+12028,Benicasim/Benicàssim
+12029,Benlloch
+12021,Betxí
+12032,Borriana/Burriana
+12031,Borriol
+12033,Cabanes
+12034,Càlig
+12036,Canet Lo Roig
+12037,Castell De Cabres
+12038,Castellfort
+12039,Castellnovo
+12040,Castellón De La Plana/Castelló De La Plana
+12041,Castillo De Villamalefa
+12042,Catí
+12043,Caudiel
+12044,Cervera Del Maestre
+12052,Chert/Xert
+12053,Chilches/Xilxes
+12055,Chodos/Xodos
+12056,Chóvar
+12045,Cinctorres
+12046,Cirat
+12048,Cortes De Arenoso
+12049,Costur
+12050,"Coves De Vinromà, Les"
+12051,Culla
+12057,Eslida
+12058,Espadilla
+12059,Fanzara
+12060,Figueroles
+12061,Forcall
+12063,Fuente La Reina
+12064,Fuentes De Ayódar
+12065,Gaibiel
+12067,Geldo
+12068,Herbés
+12069,Higueras
+12070,"Jana, La"
+12071,Jérica
+12074,"Llosa, La"
+12072,Lucena Del Cid
+12073,Ludiente
+12075,"Mata De Morella, La"
+12076,Matet
+12077,Moncofa
+12078,Montán
+12079,Montanejos
+12080,Morella
+12081,Navajas
+12082,Nules
+12083,Olocau Del Rey
+12084,Onda
+12085,Oropesa Del Mar/Orpesa
+12087,Palanques
+12088,Pavías
+12089,Peníscola/Peñíscola
+12090,Pina De Montalgrao
+12093,"Pobla De Benifassà, La"
+12094,"Pobla Tornesa, La"
+12091,Portell De Morella
+12092,Puebla De Arenoso
+12095,Ribesalbes
+12096,Rossell
+12097,Sacañet
+12098,"Salzadella, La"
+12101,San Rafael Del Río
+12902,Sant Joan De Moró
+12099,Sant Jordi/San Jorge
+12100,Sant Mateu
+12102,Santa Magdalena De Pulpis
+12103,Sarratella
+12104,Segorbe
+12105,Sierra Engarcerán
+12106,Soneja
+12107,Sot De Ferrer
+12108,Sueras/Suera
+12109,Tales
+12110,Teresa
+12111,Tírig
+12112,Todolella
+12113,Toga
+12114,Torás
+12115,"Toro, El"
+12116,Torralba Del Pinar
+12119,"Torre D'En Besora, La"
+12120,"Torre D'En Doménec, La"
+12117,Torreblanca
+12118,Torrechiva
+12121,Traiguera
+12122,"Useras/Useres, Les"
+12124,Vall D'Alba
+12125,Vall De Almonacid
+12126,"Vall D'Uixó, La"
+12123,Vallat
+12127,Vallibona
+12128,Vilafamés
+12132,Vilanova D'Alcolea
+12134,Vilar De Canes
+12135,Vila-Real
+12136,"Vilavella, La"
+12129,Villafranca Del Cid/Vilafranca
+12130,Villahermosa Del Río
+12131,Villamalur
+12133,Villanueva De Viver
+12137,Villores
+12138,Vinaròs
+12139,Vistabella Del Maestrazgo
+12140,Viver
+12141,Zorita Del Maestrazgo
+12142,Zucaina
+13001,Abenójar
+13002,Agudo
+13003,Alamillo
+13004,Albaladejo
+13005,Alcázar De San Juan
+13006,Alcoba
+13007,Alcolea De Calatrava
+13008,Alcubillas
+13009,Aldea Del Rey
+13010,Alhambra
+13011,Almadén
+13012,Almadenejos
+13013,Almagro
+13014,Almedina
+13015,Almodóvar Del Campo
+13016,Almuradiel
+13017,Anchuras
+13903,Arenales De San Gregorio
+13018,Arenas De San Juan
+13019,Argamasilla De Alba
+13020,Argamasilla De Calatrava
+13021,Arroba De Los Montes
+13022,Ballesteros De Calatrava
+13023,Bolaños De Calatrava
+13024,Brazatortas
+13025,Cabezarados
+13026,Cabezarrubias Del Puerto
+13027,Calzada De Calatrava
+13028,Campo De Criptana
+13029,Cañada De Calatrava
+13030,Caracuel De Calatrava
+13031,Carrión De Calatrava
+13032,Carrizosa
+13033,Castellar De Santiago
+13038,Chillón
+13034,Ciudad Real
+13035,Corral De Calatrava
+13036,"Cortijos, Los"
+13037,Cózar
+13039,Daimiel
+13040,Fernán Caballero
+13041,Fontanarejo
+13042,Fuencaliente
+13043,Fuenllana
+13044,Fuente El Fresno
+13045,Granátula De Calatrava
+13046,Guadalmez
+13047,Herencia
+13048,Hinojosas De Calatrava
+13049,Horcajo De Los Montes
+13050,"Labores, Las"
+13904,Llanos Del Caudillo
+13051,Luciana
+13052,Malagón
+13053,Manzanares
+13054,Membrilla
+13055,Mestanza
+13056,Miguelturra
+13057,Montiel
+13058,Moral De Calatrava
+13059,Navalpino
+13060,Navas De Estena
+13061,Pedro Muñoz
+13062,Picón
+13063,Piedrabuena
+13064,Poblete
+13065,Porzuna
+13066,Pozuelo De Calatrava
+13067,"Pozuelos De Calatrava, Los"
+13068,Puebla De Don Rodrigo
+13069,Puebla Del Príncipe
+13070,Puerto Lápice
+13071,Puertollano
+13072,Retuerta Del Bullaque
+13901,"Robledo, El"
+13902,Ruidera
+13073,Saceruela
+13074,San Carlos Del Valle
+13075,San Lorenzo De Calatrava
+13076,Santa Cruz De Los Cáñamos
+13077,Santa Cruz De Mudela
+13078,Socuéllamos
+13079,"Solana, La"
+13080,Solana Del Pino
+13081,Terrinches
+13082,Tomelloso
+13083,Torralba De Calatrava
+13084,Torre De Juan Abad
+13085,Torrenueva
+13086,Valdemanco Del Esteras
+13087,Valdepeñas
+13088,Valenzuela De Calatrava
+13089,Villahermosa
+13090,Villamanrique
+13091,Villamayor De Calatrava
+13092,Villanueva De La Fuente
+13093,Villanueva De Los Infantes
+13094,Villanueva De San Carlos
+13095,Villar Del Pozo
+13096,Villarrubia De Los Ojos
+13097,Villarta De San Juan
+13098,Viso Del Marqués
+14001,Adamuz
+14002,Aguilar De La Frontera
+14003,Alcaracejos
+14004,Almedinilla
+14005,Almodóvar Del Río
+14006,Añora
+14007,Baena
+14008,Belalcázar
+14009,Belmez
+14010,Benamejí
+14011,"Blázquez, Los"
+14012,Bujalance
+14013,Cabra
+14014,Cañete De Las Torres
+14015,Carcabuey
+14016,Cardeña
+14017,"Carlota, La"
+14018,"Carpio, El"
+14019,Castro Del Río
+14020,Conquista
+14021,Córdoba
+14022,Doña Mencía
+14023,Dos Torres
+14024,Encinas Reales
+14025,Espejo
+14026,Espiel
+14027,Fernán-Núñez
+14028,Fuente La Lancha
+14029,Fuente Obejuna
+14030,Fuente Palmera
+14031,Fuente-Tójar
+14032,"Granjuela, La"
+14033,Guadalcázar
+14034,"Guijo, El"
+14035,Hinojosa Del Duque
+14036,Hornachuelos
+14037,Iznájar
+14038,Lucena
+14039,Luque
+14040,Montalbán De Córdoba
+14041,Montemayor
+14042,Montilla
+14043,Montoro
+14044,Monturque
+14045,Moriles
+14046,Nueva Carteya
+14047,Obejo
+14048,Palenciana
+14049,Palma Del Río
+14050,Pedro Abad
+14051,Pedroche
+14052,Peñarroya-Pueblonuevo
+14053,Posadas
+14054,Pozoblanco
+14055,Priego De Córdoba
+14056,Puente Genil
+14057,"Rambla, La"
+14058,Rute
+14059,San Sebastián De Los Ballesteros
+14061,Santa Eufemia
+14060,Santaella
+14062,Torrecampo
+14063,Valenzuela
+14064,Valsequillo
+14065,"Victoria, La"
+14066,Villa Del Río
+14067,Villafranca De Córdoba
+14068,Villaharta
+14069,Villanueva De Córdoba
+14070,Villanueva Del Duque
+14071,Villanueva Del Rey
+14072,Villaralto
+14073,Villaviciosa De Córdoba
+14074,"Viso, El"
+14075,Zuheros
+15001,Abegondo
+15002,Ames
+15003,Aranga
+15004,Ares
+15005,Arteixo
+15006,Arzúa
+15007,"Baña, A"
+15008,Bergondo
+15009,Betanzos
+15010,Boimorto
+15011,Boiro
+15012,Boqueixón
+15013,Brión
+15014,Cabana De Bergantiños
+15015,Cabanas
+15016,Camariñas
+15017,Cambre
+15018,"Capela, A"
+15019,Carballo
+15901,Cariño
+15020,Carnota
+15021,Carral
+15022,Cedeira
+15023,Cee
+15024,Cerceda
+15025,Cerdido
+15026,Cesuras
+15027,Coirós
+15028,Corcubión
+15029,Coristanco
+15030,"Coruña, A"
+15031,Culleredo
+15032,Curtis
+15033,Dodro
+15034,Dumbría
+15035,Fene
+15036,Ferrol
+15037,Fisterra
+15038,Frades
+15039,Irixoa
+15041,"Laracha, A"
+15040,Laxe
+15042,Lousame
+15043,Malpica De Bergantiños
+15044,Mañón
+15045,Mazaricos
+15046,Melide
+15047,Mesía
+15048,Miño
+15049,Moeche
+15050,Monfero
+15051,Mugardos
+15053,Muros
+15052,Muxía
+15054,Narón
+15055,Neda
+15056,Negreira
+15057,Noia
+15058,Oleiros
+15059,Ordes
+15060,Oroso
+15061,Ortigueira
+15062,Outes
+15063,Oza Dos Ríos
+15064,Paderne
+15065,Padrón
+15066,"Pino, O"
+15067,"Pobra Do Caramiñal, A"
+15068,Ponteceso
+15069,Pontedeume
+15070,"Pontes De García Rodríguez, As"
+15071,Porto Do Son
+15072,Rianxo
+15073,Ribeira
+15074,Rois
+15075,Sada
+15076,San Sadurniño
+15077,Santa Comba
+15078,Santiago De Compostela
+15079,Santiso
+15080,Sobrado
+15081,"Somozas, As"
+15082,Teo
+15083,Toques
+15084,Tordoia
+15085,Touro
+15086,Trazo
+15088,Val Do Dubra
+15087,Valdoviño
+15089,Vedra
+15091,Vilarmaior
+15090,Vilasantar
+15092,Vimianzo
+15093,Zas
+16001,Abia De La Obispalía
+16002,"Acebrón, El"
+16003,Alarcón
+16004,Albaladejo Del Cuende
+16005,Albalate De Las Nogueras
+16006,Albendea
+16007,"Alberca De Záncara, La"
+16008,Alcalá De La Vega
+16009,Alcantud
+16010,Alcázar Del Rey
+16011,Alcohujate
+16012,Alconchel De La Estrella
+16013,Algarra
+16014,Aliaguilla
+16015,"Almarcha, La"
+16016,Almendros
+16017,Almodóvar Del Pinar
+16018,Almonacid Del Marquesado
+16019,Altarejos
+16020,Arandilla Del Arroyo
+16905,Arcas Del Villar
+16022,Arcos De La Sierra
+16024,Arguisuelas
+16025,Arrancacepas
+16026,Atalaya Del Cañavate
+16027,Barajas De Melo
+16029,Barchín Del Hoyo
+16030,Bascuñana De San Pedro
+16031,Beamud
+16032,Belinchón
+16033,Belmonte
+16034,Belmontejo
+16035,Beteta
+16036,Boniches
+16038,Buciegas
+16039,Buenache De Alarcón
+16040,Buenache De La Sierra
+16041,Buendía
+16042,Campillo De Altobuey
+16043,Campillos-Paravientos
+16044,Campillos-Sierra
+16901,Campos Del Paraíso
+16045,Canalejas Del Arroyo
+16046,Cañada Del Hoyo
+16047,Cañada Juncosa
+16048,Cañamares
+16049,"Cañavate, El"
+16050,Cañaveras
+16051,Cañaveruelas
+16052,Cañete
+16053,Cañizares
+16055,Carboneras De Guadazaón
+16056,Cardenete
+16057,Carrascosa
+16058,Carrascosa De Haro
+16060,Casas De Benítez
+16061,Casas De Fernando Alonso
+16062,Casas De Garcimolina
+16063,Casas De Guijarro
+16064,Casas De Haro
+16065,Casas De Los Pinos
+16066,Casasimarro
+16067,Castejón
+16068,Castillejo De Iniesta
+16070,Castillejo-Sierra
+16072,Castillo De Garcimuñoz
+16071,Castillo-Albaráñez
+16073,Cervera Del Llano
+16023,Chillarón De Cuenca
+16081,Chumillas
+16074,"Cierva, La"
+16078,Cuenca
+16079,Cueva Del Hierro
+16082,Enguídanos
+16083,Fresneda De Altarejos
+16084,Fresneda De La Sierra
+16085,"Frontera, La"
+16086,Fuente De Pedro Naharro
+16087,Fuentelespino De Haro
+16088,Fuentelespino De Moya
+16904,Fuentenava De Jábaga
+16089,Fuentes
+16091,Fuertescusa
+16092,Gabaldón
+16093,Garaballa
+16094,Gascueña
+16095,Graja De Campalbo
+16096,Graja De Iniesta
+16097,Henarejos
+16098,"Herrumblar, El"
+16099,"Hinojosa, La"
+16100,"Hinojosos, Los"
+16101,"Hito, El"
+16102,Honrubia
+16103,Hontanaya
+16104,Hontecillas
+16106,Horcajo De Santiago
+16107,Huélamo
+16108,Huelves
+16109,Huérguina
+16110,Huerta De La Obispalía
+16111,Huerta Del Marquesado
+16112,Huete
+16113,Iniesta
+16115,Laguna Del Marquesado
+16116,Lagunaseca
+16117,Landete
+16118,Ledaña
+16119,Leganiel
+16121,"Majadas, Las"
+16122,Mariana
+16123,Masegosa
+16124,"Mesas, Las"
+16125,Minglanilla
+16126,Mira
+16128,Monreal Del Llano
+16129,Montalbanejo
+16130,Montalbo
+16131,Monteagudo De Las Salinas
+16132,Mota De Altarejos
+16133,Mota Del Cuervo
+16134,Motilla Del Palancar
+16135,Moya
+16137,Narboneta
+16139,Olivares De Júcar
+16140,Olmeda De La Cuesta
+16141,Olmeda Del Rey
+16142,Olmedilla De Alarcón
+16143,Olmedilla De Eliz
+16145,Osa De La Vega
+16146,Pajarón
+16147,Pajaroncillo
+16148,Palomares Del Campo
+16149,Palomera
+16150,Paracuellos
+16151,Paredes
+16152,"Parra De Las Vegas, La"
+16153,"Pedernoso, El"
+16154,"Pedroñeras, Las"
+16155,"Peral, El"
+16156,"Peraleja, La"
+16157,"Pesquera, La"
+16158,"Picazo, El"
+16159,Pinarejo
+16160,Pineda De Gigüela
+16161,Piqueras Del Castillo
+16162,Portalrubio De Guadamejud
+16163,Portilla
+16165,Poyatos
+16166,Pozoamargo
+16908,Pozorrubielos De La Mancha
+16167,Pozorrubio
+16169,"Pozuelo, El"
+16170,Priego
+16171,"Provencio, El"
+16172,Puebla De Almenara
+16174,Puebla Del Salvador
+16175,Quintanar Del Rey
+16176,Rada De Haro
+16177,Reíllo
+16181,Rozalén Del Monte
+16185,Saceda-Trasierra
+16186,Saelices
+16187,Salinas Del Manzano
+16188,Salmeroncillos
+16189,Salvacañete
+16190,San Clemente
+16191,San Lorenzo De La Parrilla
+16192,San Martín De Boniches
+16193,San Pedro Palmiches
+16194,Santa Cruz De Moya
+16196,Santa María De Los Llanos
+16195,Santa María Del Campo Rus
+16197,Santa María Del Val
+16198,Sisante
+16199,Solera De Gabaldón
+16909,Sotorribas
+16202,Talayuelas
+16203,Tarancón
+16204,Tébar
+16205,Tejadillos
+16206,Tinajas
+16209,Torralba
+16211,Torrejoncillo Del Rey
+16212,Torrubia Del Campo
+16213,Torrubia Del Castillo
+16215,Tragacete
+16216,Tresjuncos
+16217,Tribaldos
+16218,Uclés
+16219,Uña
+16906,"Valdecolmenas, Los"
+16224,Valdemeca
+16225,Valdemorillo De La Sierra
+16227,Valdemoro-Sierra
+16228,Valdeolivas
+16902,Valdetórtola
+16903,"Valeras, Las"
+16231,Valhermoso De La Fuente
+16173,"Valle De Altomira, El"
+16234,Valsalobre
+16236,Valverde De Júcar
+16237,Valverdejo
+16238,Vara De Rey
+16239,Vega Del Codorno
+16240,Vellisca
+16242,Villaconejos De Trabaque
+16243,Villaescusa De Haro
+16244,Villagarcía Del Llano
+16245,Villalba De La Sierra
+16246,Villalba Del Rey
+16247,Villalgordo Del Marquesado
+16248,Villalpardo
+16249,Villamayor De Santiago
+16250,Villanueva De Guadamejud
+16251,Villanueva De La Jara
+16253,Villar De Cañas
+16254,Villar De Domingo García
+16255,Villar De La Encina
+16263,Villar De Olalla
+16258,Villar Del Humo
+16259,Villar Del Infantado
+16910,Villar Y Velasco
+16264,Villarejo De Fuentes
+16265,Villarejo De La Peñuela
+16266,Villarejo-Periesteban
+16269,Villares Del Saz
+16270,Villarrubio
+16271,Villarta
+16272,Villas De La Ventosa
+16273,Villaverde Y Pasaconsol
+16274,Víllora
+16275,Vindel
+16276,Yémeda
+16277,Zafra De Záncara
+16278,Zafrilla
+16279,Zarza De Tajo
+16280,Zarzuela
+17001,Agullana
+17002,Aiguaviva
+17003,Albanyà
+17004,Albons
+17006,Alp
+17007,Amer
+17008,Anglès
+17009,Arbúcies
+17010,Argelaguer
+17011,"Armentera, L'"
+17012,Avinyonet De Puigventós
+17015,Banyoles
+17016,Bàscara
+17013,Begur
+17018,Bellcaire D'Empordà
+17019,Besalú
+17020,Bescanó
+17021,Beuda
+17022,"Bisbal D'Empordà, La"
+17234,Biure
+17023,Blanes
+17029,Boadella I Les Escaules
+17024,Bolvir
+17025,Bordils
+17026,Borrassà
+17027,Breda
+17028,Brunyola
+17031,Cabanelles
+17030,Cabanes
+17032,Cadaqués
+17033,Caldes De Malavella
+17034,Calonge
+17035,Camós
+17036,Campdevànol
+17037,Campelles
+17038,Campllong
+17039,Camprodon
+17040,Canet D'Adri
+17041,Cantallops
+17042,Capmany
+17044,Cassà De La Selva
+17046,Castellfollit De La Roca
+17047,Castelló D'Empúries
+17048,Castell-Platja D'Aro
+17189,"Cellera De Ter, La"
+17049,Celrà
+17050,Cervià De Ter
+17051,Cistella
+17054,Colera
+17055,Colomers
+17057,Corçà
+17056,Cornellà Del Terri
+17058,Crespià
+17901,"Cruïlles, Monells I Sant Sadurní De L'Heura"
+17060,Darnius
+17061,Das
+17062,"Escala, L'"
+17063,Espinelves
+17064,Espolla
+17065,Esponellà
+17005,"Far D'Empordà, El"
+17066,Figueres
+17067,Flaçà
+17068,Foixà
+17069,Fontanals De Cerdanya
+17070,Fontanilles
+17071,Fontcoberta
+17902,Forallac
+17073,Fornells De La Selva
+17074,Fortià
+17075,Garrigàs
+17076,Garrigoles
+17077,Garriguella
+17078,Ger
+17079,Girona
+17080,Gombrèn
+17081,Gualta
+17082,Guils De Cerdanya
+17083,Hostalric
+17084,Isòvol
+17085,Jafre
+17086,"Jonquera, La"
+17087,Juià
+17088,Lladó
+17089,Llagostera
+17090,Llambilles
+17091,Llanars
+17092,Llançà
+17093,Llers
+17094,Llívia
+17095,Lloret De Mar
+17096,"Llosses, Les"
+17102,Maçanet De Cabrenys
+17103,Maçanet De La Selva
+17097,Madremanya
+17098,Maià De Montcal
+17100,Masarac
+17101,Massanes
+17099,Meranges
+17105,Mieres
+17106,Mollet De Peralada
+17107,Molló
+17109,Montagut I Oix
+17110,Mont-Ras
+17111,Navata
+17112,Ogassa
+17114,Olot
+17115,Ordis
+17116,Osor
+17117,Palafrugell
+17118,Palamós
+17119,Palau De Santa Eulàlia
+17121,Palau-Sator
+17120,Palau-Saverdera
+17123,Palol De Revardit
+17124,Pals
+17125,Pardines
+17126,Parlavà
+17128,Pau
+17129,Pedret I Marzà
+17130,"Pera, La"
+17132,Peralada
+17133,"Planes D'Hostoles, Les"
+17134,Planoles
+17135,Pont De Molins
+17136,Pontós
+17137,Porqueres
+17140,"Port De La Selva, El"
+17138,Portbou
+17139,"Preses, Les"
+17141,Puigcerdà
+17142,Quart
+17043,Queralbs
+17143,Rabós
+17144,Regencós
+17145,Ribes De Freser
+17146,Riells I Viabrea
+17147,Ripoll
+17148,Riudarenes
+17149,Riudaura
+17150,Riudellots De La Selva
+17151,Riumors
+17152,Roses
+17153,Rupià
+17154,Sales De Llierca
+17155,Salt
+17157,Sant Andreu Salou
+17183,Sant Aniol De Finestres
+17158,Sant Climent Sescebes
+17159,Sant Feliu De Buixalleu
+17160,Sant Feliu De Guíxols
+17161,Sant Feliu De Pallerols
+17162,Sant Ferriol
+17163,Sant Gregori
+17164,Sant Hilari Sacalm
+17165,Sant Jaume De Llierca
+17167,Sant Joan De Les Abadesses
+17168,Sant Joan De Mollet
+17185,Sant Joan Les Fonts
+17166,Sant Jordi Desvalls
+17169,Sant Julià De Ramis
+17903,Sant Julià Del Llor I Bonmatí
+17171,Sant Llorenç De La Muga
+17172,Sant Martí De Llémena
+17173,Sant Martí Vell
+17174,Sant Miquel De Campmajor
+17175,Sant Miquel De Fluvià
+17176,Sant Mori
+17177,Sant Pau De Segúries
+17178,Sant Pere Pescador
+17180,Santa Coloma De Farners
+17181,Santa Cristina D'Aro
+17182,Santa Llogaia D'Àlguema
+17184,Santa Pau
+17186,Sarrià De Ter
+17187,"Saus, Camallera I Llampaies"
+17188,"Selva De Mar, La"
+17190,Serinyà
+17191,Serra De Daró
+17192,Setcases
+17193,Sils
+17052,Siurana
+17194,Susqueda
+17195,"Tallada D'Empordà, La"
+17196,Terrades
+17197,Torrent
+17198,Torroella De Fluvià
+17199,Torroella De Montgrí
+17200,Tortellà
+17201,Toses
+17202,Tossa De Mar
+17204,Ullà
+17205,Ullastret
+17203,Ultramort
+17206,Urús
+17014,"Vajol, La"
+17208,"Vall De Bianya, La"
+17207,"Vall D'En Bas, La"
+17170,Vallfogona De Ripollès
+17209,Vall-Llobrega
+17210,Ventalló
+17211,Verges
+17212,Vidrà
+17213,Vidreres
+17214,Vilabertran
+17215,Vilablareix
+17217,Viladamat
+17216,Viladasens
+17218,Vilademuls
+17220,Viladrau
+17221,Vilafant
+17223,Vilajuïga
+17224,Vilallonga De Ter
+17225,Vilamacolum
+17226,Vilamalla
+17227,Vilamaniscle
+17228,Vilanant
+17230,Vila-Sacra
+17222,Vilaür
+17233,Vilobí D'Onyar
+17232,Vilopriu
+18001,Agrón
+18002,Alamedilla
+18003,Albolote
+18004,Albondón
+18005,Albuñán
+18006,Albuñol
+18007,Albuñuelas
+18010,Aldeire
+18011,Alfacar
+18012,Algarinejo
+18013,Alhama De Granada
+18014,Alhendín
+18015,Alicún De Ortega
+18016,Almegíjar
+18017,Almuñécar
+18904,Alpujarra De La Sierra
+18018,Alquife
+18020,Arenas Del Rey
+18021,Armilla
+18022,Atarfe
+18023,Baza
+18024,Beas De Granada
+18025,Beas De Guadix
+18027,Benalúa
+18028,Benalúa De Las Villas
+18029,Benamaurel
+18030,Bérchules
+18032,Bubión
+18033,Busquístar
+18034,Cacín
+18035,Cádiar
+18036,Cájar
+18114,"Calahorra, La"
+18037,Calicasas
+18038,Campotéjar
+18039,Caniles
+18040,Cáñar
+18042,Capileira
+18043,Carataunas
+18044,Cástaras
+18045,Castilléjar
+18046,Castril
+18047,Cenes De La Vega
+18059,Chauchina
+18061,Chimeneas
+18062,Churriana De La Vega
+18048,Cijuela
+18049,Cogollos De Guadix
+18050,Cogollos De La Vega
+18051,Colomera
+18053,Cortes De Baza
+18054,Cortes Y Graena
+18912,Cuevas Del Campo
+18056,Cúllar
+18057,Cúllar Vega
+18063,Darro
+18064,Dehesas De Guadix
+18066,Deifontes
+18067,Diezma
+18068,Dílar
+18069,Dólar
+18070,Dúdar
+18071,Dúrcal
+18072,Escúzar
+18074,Ferreira
+18076,Fonelas
+18078,Freila
+18079,Fuente Vaqueros
+18905,"Gabias, Las"
+18082,Galera
+18083,Gobernador
+18084,Gójar
+18085,Gor
+18086,Gorafe
+18087,Granada
+18088,Guadahortuna
+18089,Guadix
+18906,"Guajares, Los"
+18093,Gualchos
+18094,Güejar Sierra
+18095,Güevéjar
+18096,Huélago
+18097,Huéneja
+18098,Huéscar
+18099,Huétor De Santillán
+18100,Huétor Tájar
+18101,Huétor Vega
+18102,Illora
+18103,Itrabo
+18105,Iznalloz
+18107,Jayena
+18108,Jerez Del Marquesado
+18109,Jete
+18111,Jun
+18112,Juviles
+18115,Láchar
+18116,Lanjarón
+18117,Lanteira
+18119,Lecrín
+18120,Lentegí
+18121,Lobras
+18122,Loja
+18123,Lugros
+18124,Lújar
+18126,"Malahá, La"
+18127,Maracena
+18128,Marchal
+18132,Moclín
+18133,Molvízar
+18134,Monachil
+18135,Montefrío
+18136,Montejícar
+18137,Montillana
+18138,Moraleda De Zafayona
+18909,Morelábor
+18140,Motril
+18141,Murtas
+18903,Nevada
+18143,Nigüelas
+18144,Nívar
+18145,Ogíjares
+18146,Orce
+18147,Órgiva
+18148,Otívar
+18149,Otura
+18150,Padul
+18151,Pampaneira
+18152,Pedro Martínez
+18153,Peligros
+18154,"Peza, La"
+18910,"Pinar, El"
+18157,Pinos Genil
+18158,Pinos Puente
+18159,Píñar
+18161,Polícar
+18162,Polopos
+18163,Pórtugos
+18164,Puebla De Don Fadrique
+18165,Pulianas
+18167,Purullena
+18168,Quéntar
+18170,Rubite
+18171,Salar
+18173,Salobreña
+18174,Santa Cruz Del Comercio
+18175,Santa Fe
+18176,Soportújar
+18177,Sorvilán
+18901,"Taha, La"
+18178,Torre-Cardela
+18179,Torvizcón
+18180,Trevélez
+18181,Turón
+18182,Ugíjar
+18902,"Valle, El"
+18907,Valle Del Zalabí
+18183,Válor
+18911,Vegas Del Genil
+18184,Vélez De Benaudalla
+18185,Ventas De Huelma
+18908,Villamena
+18187,Villanueva De Las Torres
+18188,Villanueva Mesía
+18189,Víznar
+18192,Zafarraya
+18913,Zagra
+18193,"Zubia, La"
+18194,Zújar
+19001,Abánades
+19002,Ablanque
+19003,Adobes
+19004,Alaminos
+19005,Alarilla
+19006,Albalate De Zorita
+19007,Albares
+19008,Albendiego
+19009,Alcocer
+19010,Alcolea De Las Peñas
+19011,Alcolea Del Pinar
+19013,Alcoroches
+19015,Aldeanueva De Guadalajara
+19016,Algar De Mesa
+19017,Algora
+19018,Alhóndiga
+19019,Alique
+19020,Almadrones
+19021,Almoguera
+19022,Almonacid De Zorita
+19023,Alocén
+19024,Alovera
+19027,Alustante
+19031,Angón
+19032,Anguita
+19033,Anquela Del Ducado
+19034,Anquela Del Pedregal
+19036,Aranzueque
+19037,Arbancón
+19038,Arbeteta
+19039,Argecilla
+19040,Armallones
+19041,Armuña De Tajuña
+19042,Arroyo De Las Fraguas
+19043,Atanzón
+19044,Atienza
+19045,Auñón
+19046,Azuqueca De Henares
+19047,Baides
+19048,Baños De Tajo
+19049,Bañuelos
+19050,Barriopedro
+19051,Berninches
+19052,"Bodera, La"
+19053,Brihuega
+19054,Budia
+19055,Bujalaro
+19057,Bustares
+19058,Cabanillas Del Campo
+19059,Campillo De Dueñas
+19060,Campillo De Ranas
+19061,Campisábalos
+19064,Canredondo
+19065,Cantalojas
+19066,Cañizar
+19067,"Cardoso De La Sierra, El"
+19070,Casa De Uceda
+19071,"Casar, El"
+19073,Casas De San Galindo
+19074,Caspueñas
+19075,Castejón De Henares
+19076,Castellar De La Muela
+19078,Castilforte
+19079,Castilnuevo
+19080,Cendejas De Enmedio
+19081,Cendejas De La Torre
+19082,Centenera
+19103,Checa
+19104,Chequilla
+19106,Chillarón Del Rey
+19105,Chiloeches
+19086,Cifuentes
+19087,Cincovillas
+19088,Ciruelas
+19089,Ciruelos Del Pinar
+19090,Cobeta
+19091,Cogollor
+19092,Cogolludo
+19095,Condemios De Abajo
+19096,Condemios De Arriba
+19097,Congostrina
+19098,Copernal
+19099,Corduente
+19102,"Cubillo De Uceda, El"
+19107,Driebes
+19108,Durón
+19109,Embid
+19110,Escamilla
+19111,Escariche
+19112,Escopete
+19113,Espinosa De Henares
+19114,Esplegares
+19115,Establés
+19116,Estriégana
+19117,Fontanar
+19118,Fuembellida
+19119,Fuencemillán
+19120,Fuentelahiguera De Albatages
+19121,Fuentelencina
+19122,Fuentelsaz
+19123,Fuentelviejo
+19124,Fuentenovilla
+19125,Gajanejos
+19126,Galápagos
+19127,Galve De Sorbe
+19129,Gascueña De Bornova
+19130,Guadalajara
+19132,Henche
+19133,Heras De Ayuso
+19134,Herrería
+19135,Hiendelaencina
+19136,Hijes
+19138,Hita
+19139,Hombrados
+19142,Hontoba
+19143,Horche
+19145,Hortezuela De Océn
+19146,"Huerce, La"
+19147,Huérmeces Del Cerro
+19148,Huertahernando
+19150,Hueva
+19151,Humanes
+19152,Illana
+19153,Iniéstola
+19154,"Inviernas, Las"
+19155,Irueste
+19156,Jadraque
+19157,Jirueque
+19159,Ledanca
+19160,Loranca De Tajuña
+19161,Lupiana
+19162,Luzaga
+19163,Luzón
+19165,Majaelrayo
+19166,Málaga Del Fresno
+19167,Malaguilla
+19168,Mandayona
+19169,Mantiel
+19170,Maranchón
+19171,Marchamalo
+19172,Masegoso De Tajuña
+19173,Matarrubia
+19174,Matillas
+19175,Mazarete
+19176,Mazuecos
+19177,Medranda
+19178,Megina
+19179,Membrillera
+19181,Miedes De Atienza
+19182,"Mierla, La"
+19184,Millana
+19183,Milmarcos
+19185,"Miñosa, La"
+19186,Mirabueno
+19187,Miralrío
+19188,Mochales
+19189,Mohernando
+19190,Molina De Aragón
+19191,Monasterio
+19192,Mondéjar
+19193,Montarrón
+19194,Moratilla De Los Meleros
+19195,Morenilla
+19196,Muduex
+19197,"Navas De Jadraque, Las"
+19198,Negredo
+19199,Ocentejo
+19200,"Olivar, El"
+19201,Olmeda De Cobeta
+19202,"Olmeda De Jadraque, La"
+19203,"Ordial, El"
+19204,Orea
+19208,Pálmaces De Jadraque
+19209,Pardos
+19210,Paredes De Sigüenza
+19211,Pareja
+19212,Pastrana
+19213,"Pedregal, El"
+19214,Peñalén
+19215,Peñalver
+19216,Peralejos De Las Truchas
+19217,Peralveche
+19218,Pinilla De Jadraque
+19219,Pinilla De Molina
+19220,Pioz
+19221,Piqueras
+19222,"Pobo De Dueñas, El"
+19223,Poveda De La Sierra
+19224,Pozo De Almoguera
+19225,Pozo De Guadalajara
+19226,Prádena De Atienza
+19227,Prados Redondos
+19228,Puebla De Beleña
+19229,Puebla De Valles
+19230,Quer
+19231,Rebollosa De Jadraque
+19232,"Recuenco, El"
+19233,Renera
+19234,Retiendas
+19235,Riba De Saelices
+19237,Rillo De Gallo
+19238,Riofrío Del Llano
+19239,Robledillo De Mohernando
+19240,Robledo De Corpes
+19241,Romanillos De Atienza
+19242,Romanones
+19243,Rueda De La Sierra
+19244,Sacecorbo
+19245,Sacedón
+19246,Saelices De La Sal
+19247,Salmerón
+19248,San Andrés Del Congosto
+19249,San Andrés Del Rey
+19250,Santiuste
+19251,Saúca
+19252,Sayatón
+19254,Selas
+19901,Semillas
+19255,Setiles
+19256,Sienes
+19257,Sigüenza
+19258,Solanillos Del Extremo
+19259,Somolinos
+19260,"Sotillo, El"
+19261,Sotodosos
+19262,Tamajón
+19263,Taragudo
+19264,Taravilla
+19265,Tartanedo
+19266,Tendilla
+19267,Terzaga
+19268,Tierzo
+19269,"Toba, La"
+19271,Tordellego
+19270,Tordelrábano
+19272,Tordesilos
+19274,Torija
+19279,Torre Del Burgo
+19277,Torrecuadrada De Molina
+19278,Torrecuadradilla
+19280,Torrejón Del Rey
+19281,Torremocha De Jadraque
+19282,Torremocha Del Campo
+19283,Torremocha Del Pinar
+19284,Torremochuela
+19285,Torrubia
+19286,Tórtola De Henares
+19287,Tortuera
+19288,Tortuero
+19289,Traíd
+19290,Trijueque
+19291,Trillo
+19293,Uceda
+19294,Ujados
+19296,Utande
+19297,Valdarachas
+19298,Valdearenas
+19299,Valdeavellano
+19300,Valdeaveruelo
+19301,Valdeconcha
+19302,Valdegrudas
+19303,Valdelcubo
+19304,Valdenuño Fernández
+19305,Valdepeñas De La Sierra
+19306,Valderrebollo
+19307,Valdesotos
+19308,Valfermoso De Tajuña
+19309,Valhermoso
+19310,Valtablado Del Río
+19311,Valverde De Los Arroyos
+19314,Viana De Jadraque
+19317,Villanueva De Alcorón
+19318,Villanueva De Argecilla
+19319,Villanueva De La Torre
+19321,Villares De Jadraque
+19322,Villaseca De Henares
+19323,Villaseca De Uceda
+19324,Villel De Mesa
+19325,Viñuelas
+19326,Yebes
+19327,Yebra
+19329,Yélamos De Abajo
+19330,Yélamos De Arriba
+19331,Yunquera De Henares
+19332,"Yunta, La"
+19333,Zaorejas
+19334,Zarzuela De Jadraque
+19335,Zorita De Los Canes
+20001,Abaltzisketa
+20002,Aduna
+20016,Aia
+20003,Aizarnazabal
+20004,Albiztur
+20005,Alegia
+20006,Alkiza
+20906,Altzaga
+20007,Altzo
+20008,Amezketa
+20009,Andoain
+20010,Anoeta
+20011,Antzuola
+20012,Arama
+20013,Aretxabaleta
+20055,Arrasate/Mondragón
+20014,Asteasu
+20903,Astigarraga
+20015,Ataun
+20017,Azkoitia
+20018,Azpeitia
+20904,Baliarrain
+20019,Beasain
+20020,Beizama
+20021,Belauntza
+20022,Berastegi
+20074,Bergara
+20023,Berrobi
+20024,Bidegoian
+20029,Deba
+20069,Donostia-San Sebastián
+20030,Eibar
+20031,Elduain
+20033,Elgeta
+20032,Elgoibar
+20067,Errenteria
+20066,Errezil
+20034,Eskoriatza
+20035,Ezkio-Itsaso
+20038,Gabiria
+20037,Gaintza
+20907,Gaztelu
+20039,Getaria
+20040,Hernani
+20041,Hernialde
+20036,Hondarribia
+20042,Ibarra
+20043,Idiazabal
+20044,Ikaztegieta
+20045,Irun
+20046,Irura
+20047,Itsasondo
+20048,Larraul
+20902,Lasarte-Oria
+20049,Lazkao
+20050,Leaburu
+20051,Legazpi
+20052,Legorreta
+20068,Leintz-Gatzaga
+20053,Lezo
+20054,Lizartza
+20901,Mendaro
+20057,Mutiloa
+20056,Mutriku
+20063,Oiartzun
+20058,Olaberria
+20059,Oñati
+20076,Ordizia
+20905,Orendain
+20060,Orexa
+20061,Orio
+20062,Ormaiztegi
+20064,Pasaia
+20070,Segura
+20065,Soraluze/Placencia De Las Armas
+20071,Tolosa
+20072,Urnieta
+20077,Urretxu
+20073,Usurbil
+20075,Villabona
+20078,Zaldibia
+20079,Zarautz
+20025,Zegama
+20026,Zerain
+20027,Zestoa
+20028,Zizurkil
+20081,Zumaia
+20080,Zumarraga
+21001,Alájar
+21002,Aljaraque
+21003,"Almendro, El"
+21004,Almonaster La Real
+21005,Almonte
+21006,Alosno
+21007,Aracena
+21008,Aroche
+21009,Arroyomolinos De León
+21010,Ayamonte
+21011,Beas
+21012,Berrocal
+21013,Bollullos Par Del Condado
+21014,Bonares
+21015,Cabezas Rubias
+21016,Cala
+21017,Calañas
+21018,"Campillo, El"
+21019,Campofrío
+21020,Cañaveral De León
+21021,Cartaya
+21022,Castaño Del Robledo
+21023,"Cerro De Andévalo, El"
+21030,Chucena
+21024,Corteconcepción
+21025,Cortegana
+21026,Cortelazor
+21027,Cumbres De Enmedio
+21028,Cumbres De San Bartolomé
+21029,Cumbres Mayores
+21031,Encinasola
+21032,Escacena Del Campo
+21033,Fuenteheridos
+21034,Galaroza
+21035,Gibraleón
+21036,"Granada De Río-Tinto, La"
+21037,"Granado, El"
+21038,Higuera De La Sierra
+21039,Hinojales
+21040,Hinojos
+21041,Huelva
+21042,Isla Cristina
+21043,Jabugo
+21044,Lepe
+21045,Linares De La Sierra
+21046,Lucena Del Puerto
+21047,Manzanilla
+21048,"Marines, Los"
+21049,Minas De Riotinto
+21050,Moguer
+21051,"Nava, La"
+21052,Nerva
+21053,Niebla
+21054,"Palma Del Condado, La"
+21055,Palos De La Frontera
+21056,Paterna Del Campo
+21057,Paymogo
+21058,Puebla De Guzmán
+21059,Puerto Moral
+21060,Punta Umbría
+21061,Rociana Del Condado
+21062,Rosal De La Frontera
+21063,San Bartolomé De La Torre
+21064,San Juan Del Puerto
+21066,San Silvestre De Guzmán
+21065,Sanlúcar De Guadiana
+21067,Santa Ana La Real
+21068,Santa Bárbara De Casa
+21069,Santa Olalla Del Cala
+21070,Trigueros
+21071,Valdelarco
+21072,Valverde Del Camino
+21073,Villablanca
+21074,Villalba Del Alcor
+21075,Villanueva De Las Cruces
+21076,Villanueva De Los Castillejos
+21077,Villarrasa
+21078,Zalamea La Real
+21079,Zufre
+22001,Abiego
+22002,Abizanda
+22003,Adahuesca
+22004,Agüero
+22907,Aínsa-Sobrarbe
+22006,Aisa
+22007,Albalate De Cinca
+22008,Albalatillo
+22009,Albelda
+22011,Albero Alto
+22012,Albero Bajo
+22013,Alberuela De Tubo
+22014,Alcalá De Gurrea
+22015,Alcalá Del Obispo
+22016,Alcampell
+22017,Alcolea De Cinca
+22018,Alcubierre
+22019,Alerre
+22020,Alfántega
+22021,Almudévar
+22022,Almunia De San Juan
+22023,Almuniente
+22024,Alquézar
+22025,Altorricón
+22027,Angüés
+22028,Ansó
+22029,Antillón
+22032,Aragüés Del Puerto
+22035,Arén
+22036,Argavieso
+22037,Arguis
+22039,Ayerbe
+22040,Azanuy-Alins
+22041,Azara
+22042,Azlor
+22043,Baélls
+22044,Bailo
+22045,Baldellou
+22046,Ballobar
+22047,Banastás
+22048,Barbastro
+22049,Barbués
+22050,Barbuñales
+22051,Bárcabo
+22052,Belver De Cinca
+22053,Benabarre
+22054,Benasque
+22055,Berbegal
+22057,Bielsa
+22058,Bierge
+22059,Biescas
+22060,Binaced
+22061,Binéfar
+22062,Bisaurri
+22063,Biscarrués
+22064,Blecua Y Torres
+22066,Boltaña
+22067,Bonansa
+22068,Borau
+22069,Broto
+22072,Caldearenas
+22074,Campo
+22075,Camporrélls
+22076,Canal De Berdún
+22077,Candasnos
+22078,Canfranc
+22079,Capdesaso
+22080,Capella
+22081,Casbas De Huesca
+22083,Castejón De Monegros
+22084,Castejón De Sos
+22082,Castejón Del Puente
+22085,Castelflorite
+22086,Castiello De Jaca
+22087,Castigaleu
+22088,Castillazuelo
+22089,Castillonroy
+22094,Chalamera
+22095,Chía
+22096,Chimillas
+22090,Colungo
+22099,Esplús
+22102,Estada
+22103,Estadilla
+22105,Estopiñán Del Castillo
+22106,Fago
+22107,Fanlo
+22109,Fiscal
+22110,Fonz
+22111,Foradada Del Toscar
+22112,Fraga
+22113,"Fueva, La"
+22114,Gistaín
+22115,"Grado, El"
+22116,Grañén
+22117,Graus
+22119,Gurrea De Gállego
+22122,Hoz De Jaca
+22908,Hoz Y Costean
+22124,Huerto
+22125,Huesca
+22126,Ibieca
+22127,Igriés
+22128,Ilche
+22129,Isábena
+22130,Jaca
+22131,Jasa
+22133,Labuerda
+22135,Laluenga
+22136,Lalueza
+22137,Lanaja
+22139,Laperdiguera
+22141,Lascellas-Ponzano
+22142,Lascuarre
+22143,Laspaúles
+22144,Laspuña
+22149,Loarre
+22150,Loporzano
+22151,Loscorrales
+22905,Lupiñén-Ortilla
+22155,Monesma Y Cajigar
+22156,Monflorite-Lascasas
+22157,Montanuy
+22158,Monzón
+22160,Naval
+22162,Novales
+22163,Nueno
+22164,Olvena
+22165,Ontiñena
+22167,Osso De Cinca
+22168,Palo
+22170,Panticosa
+22172,Peñalba
+22173,"Peñas De Riglos, Las"
+22174,Peralta De Alcofea
+22175,Peralta De Calasanz
+22176,Peraltilla
+22177,Perarrúa
+22178,Pertusa
+22181,Piracés
+22182,Plan
+22184,Poleñino
+22186,Pozán De Vero
+22187,"Puebla De Castro, La"
+22188,Puente De Montañana
+22902,Puente La Reina De Jaca
+22189,Puértolas
+22190,"Pueyo De Araguás, El"
+22193,Pueyo De Santa Cruz
+22195,Quicena
+22197,Robres
+22199,Sabiñánigo
+22200,Sahún
+22201,Salas Altas
+22202,Salas Bajas
+22203,Salillas
+22204,Sallent De Gállego
+22205,San Esteban De Litera
+22207,San Juan De Plan
+22903,San Miguel Del Cinca
+22206,Sangarrén
+22208,Santa Cilia
+22209,Santa Cruz De La Serós
+22906,Santa María De Dulcis
+22212,Santaliestra Y San Quílez
+22213,Sariñena
+22214,Secastilla
+22215,Seira
+22217,Sena
+22218,Senés De Alcubierre
+22220,Sesa
+22221,Sesué
+22222,Siétamo
+22223,Sopeira
+22904,"Sotonera, La"
+22225,Tamarite De Litera
+22226,Tardienta
+22227,Tella-Sin
+22228,Tierz
+22229,Tolva
+22230,Torla
+22232,Torralba De Aragón
+22233,Torre La Ribera
+22234,Torrente De Cinca
+22235,Torres De Alcanadre
+22236,Torres De Barbués
+22239,Tramaced
+22242,Valfarta
+22243,Valle De Bardají
+22901,Valle De Hecho
+22244,Valle De Lierp
+22245,Velilla De Cinca
+22909,Vencillón
+22246,Veracruz
+22247,Viacamp Y Litera
+22248,Vicién
+22249,Villanova
+22250,Villanúa
+22251,Villanueva De Sigena
+22252,Yebra De Basa
+22253,Yésero
+22254,Zaidín
+23001,Albanchez De Mágina
+23002,Alcalá La Real
+23003,Alcaudete
+23004,Aldeaquemada
+23005,Andújar
+23006,Arjona
+23007,Arjonilla
+23008,Arquillos
+23905,Arroyo Del Ojanco
+23009,Baeza
+23010,Bailén
+23011,Baños De La Encina
+23012,Beas De Segura
+23902,Bedmar Y Garcíez
+23014,Begíjar
+23015,Bélmez De La Moraleda
+23016,Benatae
+23017,Cabra Del Santo Cristo
+23018,Cambil
+23019,Campillo De Arenas
+23020,Canena
+23021,Carboneros
+23901,Cárcheles
+23024,"Carolina, La"
+23025,Castellar
+23026,Castillo De Locubín
+23027,Cazalilla
+23028,Cazorla
+23029,Chiclana De Segura
+23030,Chilluévar
+23031,Escañuela
+23032,Espelúy
+23033,Frailes
+23034,Fuensanta De Martos
+23035,Fuerte Del Rey
+23037,Génave
+23038,"Guardia De Jaén, La"
+23039,Guarromán
+23041,Higuera De Calatrava
+23042,Hinojares
+23043,Hornos
+23044,Huelma
+23045,Huesa
+23046,Ibros
+23047,"Iruela, La"
+23048,Iznatoraf
+23049,Jabalquinto
+23050,Jaén
+23051,Jamilena
+23052,Jimena
+23053,Jódar
+23040,Lahiguera
+23054,Larva
+23055,Linares
+23056,Lopera
+23057,Lupión
+23058,Mancha Real
+23059,Marmolejo
+23060,Martos
+23061,Mengíbar
+23062,Montizón
+23063,Navas De San Juan
+23064,Noalejo
+23065,Orcera
+23066,Peal De Becerro
+23067,Pegalajar
+23069,Porcuna
+23070,Pozo Alcón
+23071,Puente De Génave
+23072,"Puerta De Segura, La"
+23073,Quesada
+23074,Rus
+23075,Sabiote
+23076,Santa Elena
+23077,Santiago De Calatrava
+23904,Santiago-Pontones
+23079,Santisteban Del Puerto
+23080,Santo Tomé
+23081,Segura De La Sierra
+23082,Siles
+23084,Sorihuela Del Guadalimar
+23086,Torre Del Campo
+23085,Torreblascopedro
+23087,Torredonjimeno
+23088,Torreperogil
+23090,Torres
+23091,Torres De Albánchez
+23092,Úbeda
+23093,Valdepeñas De Jaén
+23094,Vilches
+23095,Villacarrillo
+23096,Villanueva De La Reina
+23097,Villanueva Del Arzobispo
+23098,Villardompardo
+23099,"Villares, Los"
+23101,Villarrodrigo
+23903,Villatorres
+24001,Acebedo
+24002,Algadefe
+24003,Alija Del Infantado
+24004,Almanza
+24005,"Antigua, La"
+24006,Ardón
+24007,Arganza
+24008,Astorga
+24009,Balboa
+24010,"Bañeza, La"
+24011,Barjas
+24012,"Barrios De Luna, Los"
+24014,Bembibre
+24015,Benavides
+24016,Benuza
+24017,Bercianos Del Páramo
+24018,Bercianos Del Real Camino
+24019,Berlanga Del Bierzo
+24020,Boca De Huérgano
+24021,Boñar
+24022,Borrenes
+24023,Brazuelo
+24024,"Burgo Ranero, El"
+24025,Burón
+24026,Bustillo Del Páramo
+24027,Cabañas Raras
+24028,Cabreros Del Río
+24029,Cabrillanes
+24030,Cacabelos
+24031,Calzada Del Coto
+24032,Campazas
+24033,Campo De Villavidel
+24034,Camponaraya
+24036,Candín
+24037,Cármenes
+24038,Carracedelo
+24039,Carrizo
+24040,Carrocera
+24041,Carucedo
+24042,Castilfalé
+24043,Castrillo De Cabrera
+24044,Castrillo De La Valduerna
+24046,Castrocalbón
+24047,Castrocontrigo
+24049,Castropodame
+24050,Castrotierra De Valmadrigal
+24051,Cea
+24052,Cebanico
+24053,Cebrones Del Río
+24065,Chozas De Abajo
+24054,Cimanes De La Vega
+24055,Cimanes Del Tejar
+24056,Cistierna
+24057,Congosto
+24058,Corbillos De Los Oteros
+24059,Corullón
+24060,Crémenes
+24061,Cuadros
+24062,Cubillas De Los Oteros
+24063,Cubillas De Rueda
+24064,Cubillos Del Sil
+24066,Destriana
+24067,Encinedo
+24068,"Ercina, La"
+24069,Escobar De Campos
+24070,Fabero
+24071,Folgoso De La Ribera
+24073,Fresno De La Vega
+24074,Fuentes De Carbajal
+24076,Garrafe De Torío
+24077,Gordaliza Del Pino
+24078,Gordoncillo
+24079,Gradefes
+24080,Grajal De Campos
+24081,Gusendos De Los Oteros
+24082,Hospital De Órbigo
+24083,Igüeña
+24084,Izagre
+24086,Joarilla De Las Matas
+24087,Laguna Dalga
+24088,Laguna De Negrillos
+24089,León
+24092,Llamas De La Ribera
+24090,Lucillo
+24091,Luyego
+24093,Magaz De Cepeda
+24094,Mansilla De Las Mulas
+24095,Mansilla Mayor
+24096,Maraña
+24097,Matadeón De Los Oteros
+24098,Matallana De Torío
+24099,Matanza
+24100,Molinaseca
+24101,Murias De Paredes
+24102,Noceda Del Bierzo
+24103,Oencia
+24104,"Omañas, Las"
+24105,Onzonilla
+24106,Oseja De Sajambre
+24107,Pajares De Los Oteros
+24108,Palacios De La Valduerna
+24109,Palacios Del Sil
+24110,Páramo Del Sil
+24112,Peranzanes
+24113,Pobladura De Pelayo García
+24114,"Pola De Gordón, La"
+24115,Ponferrada
+24116,Posada De Valdeón
+24117,Pozuelo Del Páramo
+24118,Prado De La Guzpeña
+24119,Priaranza Del Bierzo
+24120,Prioro
+24121,Puebla De Lillo
+24122,Puente De Domingo Flórez
+24123,Quintana Del Castillo
+24124,Quintana Del Marco
+24125,Quintana Y Congosto
+24127,Regueras De Arriba
+24129,Reyero
+24130,Riaño
+24131,Riego De La Vega
+24132,Riello
+24133,Rioseco De Tapia
+24134,"Robla, La"
+24136,Roperuelos Del Páramo
+24137,Sabero
+24139,Sahagún
+24141,San Adrián Del Valle
+24142,San Andrés Del Rabanedo
+24144,San Cristóbal De La Polantera
+24145,San Emiliano
+24146,San Esteban De Nogales
+24148,San Justo De La Vega
+24149,San Millán De Los Caballeros
+24150,San Pedro Bercianos
+24143,Sancedo
+24151,Santa Colomba De Curueño
+24152,Santa Colomba De Somoza
+24153,Santa Cristina De Valmadrigal
+24154,Santa Elena De Jamuz
+24155,Santa María De La Isla
+24158,Santa María De Ordás
+24156,Santa María Del Monte De Cea
+24157,Santa María Del Páramo
+24159,Santa Marina Del Rey
+24160,Santas Martas
+24161,Santiago Millas
+24162,Santovenia De La Valdoncina
+24163,Sariegos
+24164,Sena De Luna
+24165,Sobrado
+24166,Soto De La Vega
+24167,Soto Y Amío
+24168,Toral De Los Guzmanes
+24206,Toral De Los Vados
+24169,Toreno
+24170,Torre Del Bierzo
+24171,Trabadelo
+24172,Truchas
+24173,Turcia
+24174,Urdiales Del Páramo
+24185,Val De San Lorenzo
+24175,Valdefresno
+24176,Valdefuentes Del Páramo
+24177,Valdelugueros
+24178,Valdemora
+24179,Valdepiélago
+24180,Valdepolo
+24181,Valderas
+24182,Valderrey
+24183,Valderrueda
+24184,Valdesamario
+24187,Valdevimbre
+24188,Valencia De Don Juan
+24191,Vallecillo
+24189,Valverde De La Virgen
+24190,Valverde-Enrique
+24193,"Vecilla, La"
+24196,Vega De Espinareda
+24197,Vega De Infanzones
+24198,Vega De Valcarce
+24194,Vegacervera
+24199,Vegaquemada
+24201,Vegas Del Condado
+24202,Villablino
+24203,Villabraz
+24205,Villadangos Del Páramo
+24207,Villademor De La Vega
+24209,Villafranca Del Bierzo
+24210,Villagatón
+24211,Villamandos
+24901,Villamanín
+24212,Villamañán
+24213,Villamartín De Don Sancho
+24214,Villamejil
+24215,Villamol
+24216,Villamontán De La Valduerna
+24217,Villamoratiel De Las Matas
+24218,Villanueva De Las Manzanas
+24219,Villaobispo De Otero
+24902,Villaornate Y Castro
+24221,Villaquejida
+24222,Villaquilambre
+24223,Villarejo De Órbigo
+24224,Villares De Órbigo
+24225,Villasabariego
+24226,Villaselán
+24227,Villaturiel
+24228,Villazala
+24229,Villazanzo De Valderaduey
+24230,Zotes Del Páramo
+25001,Abella De La Conca
+25002,Àger
+25003,Agramunt
+25038,Aitona
+25004,"Alamús, Els"
+25005,Alàs I Cerc
+25006,"Albagés, L'"
+25007,Albatàrrec
+25008,Albesa
+25009,"Albi, L'"
+25010,Alcanó
+25011,Alcarràs
+25012,Alcoletge
+25013,Alfarràs
+25014,Alfés
+25015,Algerri
+25016,Alguaire
+25017,Alins
+25019,Almacelles
+25020,Almatret
+25021,Almenar
+25022,Alòs De Balaguer
+25023,Alpicat
+25024,Alt Àneu
+25027,Anglesola
+25029,Arbeca
+25031,Arres
+25032,Arsèguel
+25033,Artesa De Lleida
+25034,Artesa De Segre
+25036,Aspa
+25037,"Avellanes I Santa Linya, Les"
+25039,Baix Pallars
+25040,Balaguer
+25041,Barbens
+25042,"Baronia De Rialb, La"
+25044,Bassella
+25045,Bausen
+25046,Belianes
+25170,Bellaguarda
+25047,Bellcaire D'Urgell
+25048,Bell-Lloc D'Urgell
+25049,Bellmunt D'Urgell
+25050,Bellpuig
+25051,Bellver De Cerdanya
+25052,Bellvís
+25053,Benavent De Segrià
+25055,Biosca
+25057,"Bòrdes, Es"
+25058,"Borges Blanques, Les"
+25059,Bossòst
+25056,Bovera
+25060,Cabanabona
+25061,Cabó
+25062,Camarasa
+25063,Canejan
+25904,Castell De Mur
+25064,Castellar De La Ribera
+25067,Castelldans
+25068,Castellnou De Seana
+25069,Castelló De Farfanya
+25070,Castellserà
+25071,Cava
+25072,Cervera
+25073,Cervià De Les Garrigues
+25074,Ciutadilla
+25075,Clariana De Cardener
+25076,"Cogul, El"
+25077,Coll De Nargó
+25163,"Coma I La Pedra, La"
+25161,Conca De Dalt
+25078,Corbins
+25079,Cubells
+25081,"Espluga Calba, L'"
+25082,Espot
+25088,Estamariu
+25085,Estaràs
+25086,Esterri D'Àneu
+25087,Esterri De Cardós
+25089,Farrera
+25908,Fígols I Alinyà
+25092,"Floresta, La"
+25093,Fondarella
+25094,Foradada
+25096,"Fuliola, La"
+25097,Fulleda
+25098,Gavet De La Conca
+25912,Gimenells I El Pla De La Font
+25099,Golmés
+25100,Gósol
+25101,"Granadella, La"
+25102,"Granja D'Escarp, La"
+25103,Granyanella
+25105,Granyena De Les Garrigues
+25104,Granyena De Segarra
+25109,Guimerà
+25903,"Guingueta D'Àneu, La"
+25110,Guissona
+25111,Guixers
+25115,Isona I Conca Dellà
+25112,Ivars De Noguera
+25113,Ivars D'Urgell
+25114,Ivorra
+25910,Josa I Tuixén
+25118,Juncosa
+25119,Juneda
+25121,Les
+25122,Linyola
+25123,Lladorre
+25124,Lladurs
+25125,Llardecans
+25126,Llavorsí
+25120,Lleida
+25127,Lles De Cerdanya
+25128,Llimiana
+25129,Llobera
+25133,Maials
+25130,Maldà
+25131,Massalcoreig
+25132,Massoteres
+25134,Menàrguens
+25135,Miralcamp
+25137,Mollerussa
+25136,"Molsosa, La"
+25139,Montellà I Martinet
+25140,Montferrer I Castellbò
+25138,Montgai
+25142,Montoliu De Lleida
+25141,Montoliu De Segarra
+25143,Montornès De Segarra
+25145,Nalec
+25025,Naut Aran
+25146,Navès
+25148,Odèn
+25149,Oliana
+25150,Oliola
+25151,Olius
+25152,"Oluges, Les"
+25153,"Omellons, Els"
+25154,"Omells De Na Gaia, Els"
+25155,Organyà
+25156,Os De Balaguer
+25157,Ossó De Sió
+25158,"Palau D'Anglesola, El"
+25164,Penelles
+25165,Peramola
+25166,Pinell De Solsonès
+25167,Pinós
+25911,"Plans De Sió, Els"
+25168,"Poal, El"
+25169,"Pobla De Cérvoles, La"
+25171,"Pobla De Segur, La"
+25030,"Pont De Bar, El"
+25173,"Pont De Suert, El"
+25172,Ponts
+25174,"Portella, La"
+25175,Prats I Sansor
+25176,Preixana
+25177,Preixens
+25179,Prullans
+25180,Puiggròs
+25181,Puigverd D'Agramunt
+25182,Puigverd De Lleida
+25183,Rialp
+25905,Ribera D'Ondara
+25185,Ribera D'Urgellet
+25186,Riner
+25913,Riu De Cerdanya
+25189,Rosselló
+25190,Salàs De Pallars
+25191,Sanaüja
+25196,Sant Esteve De La Sarga
+25192,Sant Guim De Freixenet
+25197,Sant Guim De La Plana
+25193,Sant Llorenç De Morunys
+25902,Sant Martí De Riucorb
+25194,Sant Ramon
+25201,Sarroca De Bellera
+25200,Sarroca De Lleida
+25202,Senterada
+25035,"Sentiu De Sió, La"
+25204,Seròs
+25203,"Seu D'Urgell, La"
+25205,Sidamon
+25206,"Soleràs, El"
+25207,Solsona
+25208,Soriguera
+25209,Sort
+25210,Soses
+25211,Sudanell
+25212,Sunyer
+25215,Talarn
+25216,Talavera
+25217,Tàrrega
+25218,Tarrés
+25219,Tarroja De Segarra
+25220,Térmens
+25221,Tírvia
+25222,Tiurana
+25223,Torà
+25224,"Torms, Els"
+25225,Tornabous
+25227,"Torre De Cabdella, La"
+25226,Torrebesses
+25228,Torrefarrera
+25907,Torrefeta I Florejacs
+25230,Torregrossa
+25231,Torrelameu
+25232,Torres De Segre
+25233,Torre-Serona
+25234,Tremp
+25043,"Vall De Boí, La"
+25901,Vall De Cardós
+25238,Vallbona De Les Monges
+25240,Vallfogona De Balaguer
+25906,"Valls D'Aguilar, Les"
+25239,"Valls De Valira, Les"
+25909,"Vansa I Fórnols, La"
+25242,Verdú
+25243,Vielha E Mijaran
+25244,Vilagrassa
+25245,Vilaller
+25247,Vilamòs
+25248,Vilanova De Bellpuig
+25254,Vilanova De La Barca
+25249,Vilanova De L'Aguda
+25250,Vilanova De Meià
+25251,Vilanova De Segrià
+25252,Vila-Sana
+25253,"Vilosell, El"
+25255,Vinaixa
+26001,Ábalos
+26002,Agoncillo
+26003,Aguilar Del Río Alhama
+26004,Ajamil De Cameros
+26005,Albelda De Iregua
+26006,Alberite
+26007,Alcanadre
+26008,Aldeanueva De Ebro
+26009,Alesanco
+26010,Alesón
+26011,Alfaro
+26012,Almarza De Cameros
+26013,Anguciana
+26014,Anguiano
+26015,Arenzana De Abajo
+26016,Arenzana De Arriba
+26017,Arnedillo
+26018,Arnedo
+26019,Arrúbal
+26020,Ausejo
+26021,Autol
+26022,Azofra
+26023,Badarán
+26024,Bañares
+26026,Baños De Río Tobía
+26025,Baños De Rioja
+26027,Berceo
+26028,Bergasa
+26029,Bergasillas Bajera
+26030,Bezares
+26031,Bobadilla
+26032,Brieva De Cameros
+26033,Briñas
+26034,Briones
+26035,Cabezón De Cameros
+26036,Calahorra
+26037,Camprovín
+26038,Canales De La Sierra
+26039,Canillas De Río Tuerto
+26040,Cañas
+26041,Cárdenas
+26042,Casalarreina
+26043,Castañares De Rioja
+26044,Castroviejo
+26045,Cellorigo
+26046,Cenicero
+26047,Cervera Del Río Alhama
+26048,Cidamón
+26049,Cihuri
+26050,Cirueña
+26051,Clavijo
+26052,Cordovín
+26053,Corera
+26054,Cornago
+26055,Corporales
+26056,Cuzcurrita De Río Tirón
+26057,Daroca De Rioja
+26058,Enciso
+26059,Entrena
+26060,Estollo
+26061,Ezcaray
+26062,Foncea
+26063,Fonzaleche
+26064,Fuenmayor
+26065,Galbárruli
+26066,Galilea
+26067,Gallinero De Cameros
+26068,Gimileo
+26069,Grañón
+26070,Grávalos
+26071,Haro
+26072,Herce
+26073,Herramélluri
+26074,Hervías
+26075,Hormilla
+26076,Hormilleja
+26077,Hornillos De Cameros
+26078,Hornos De Moncalvillo
+26079,Huércanos
+26080,Igea
+26081,Jalón De Cameros
+26082,Laguna De Cameros
+26083,Lagunilla Del Jubera
+26084,Lardero
+26086,Ledesma De La Cogolla
+26087,Leiva
+26088,Leza De Río Leza
+26089,Logroño
+26091,Lumbreras
+26092,Manjarrés
+26093,Mansilla De La Sierra
+26094,Manzanares De Rioja
+26095,Matute
+26096,Medrano
+26098,Munilla
+26099,Murillo De Río Leza
+26100,Muro De Aguas
+26101,Muro En Cameros
+26102,Nájera
+26103,Nalda
+26104,Navajún
+26105,Navarrete
+26106,Nestares
+26107,Nieva De Cameros
+26109,Ochánduri
+26108,Ocón
+26110,Ojacastro
+26111,Ollauri
+26112,Ortigosa De Cameros
+26113,Pazuengos
+26114,Pedroso
+26115,Pinillos
+26117,Pradejón
+26118,Pradillo
+26119,Préjano
+26120,Quel
+26121,Rabanera
+26122,"Rasillo De Cameros, El"
+26123,"Redal, El"
+26124,Ribafrecha
+26125,Rincón De Soto
+26126,Robres Del Castillo
+26127,Rodezno
+26128,Sajazarra
+26129,San Asensio
+26130,San Millán De La Cogolla
+26131,San Millán De Yécora
+26132,San Román De Cameros
+26139,San Torcuato
+26142,San Vicente De La Sonsierra
+26134,Santa Coloma
+26135,Santa Engracia Del Jubera
+26136,Santa Eulalia Bajera
+26138,Santo Domingo De La Calzada
+26140,Santurde De Rioja
+26141,Santurdejo
+26143,Sojuela
+26144,Sorzano
+26145,Sotés
+26146,Soto En Cameros
+26147,Terroba
+26148,Tirgo
+26149,Tobía
+26150,Tormantos
+26153,Torre En Cameros
+26151,Torrecilla En Cameros
+26152,Torrecilla Sobre Alesanco
+26154,Torremontalbo
+26155,Treviana
+26157,Tricio
+26158,Tudelilla
+26160,Uruñuela
+26161,Valdemadera
+26162,Valgañón
+26163,Ventosa
+26164,Ventrosa
+26165,Viguera
+26166,Villalba De Rioja
+26167,Villalobar De Rioja
+26168,Villamediana De Iregua
+26169,Villanueva De Cameros
+26170,"Villar De Arnedo, El"
+26171,Villar De Torre
+26172,Villarejo
+26173,Villarroya
+26174,Villarta-Quintana
+26175,Villavelayo
+26176,Villaverde De Rioja
+26177,Villoslada De Cameros
+26178,Viniegra De Abajo
+26179,Viniegra De Arriba
+26180,Zarratón
+26181,Zarzosa
+26183,Zorraquín
+27001,Abadín
+27002,Alfoz
+27003,Antas De Ulla
+27004,Baleira
+27901,Baralla
+27005,Barreiros
+27006,Becerreá
+27007,Begonte
+27008,Bóveda
+27902,Burela
+27009,Carballedo
+27010,Castro De Rei
+27011,Castroverde
+27012,Cervantes
+27013,Cervo
+27016,Chantada
+27014,"Corgo, O"
+27015,Cospeito
+27017,Folgoso Do Courel
+27018,"Fonsagrada, A"
+27019,Foz
+27020,Friol
+27022,Guitiriz
+27023,Guntín
+27024,"Incio, O"
+27026,Láncara
+27027,Lourenzá
+27028,Lugo
+27029,Meira
+27030,Mondoñedo
+27031,Monforte De Lemos
+27032,Monterroso
+27033,Muras
+27034,Navia De Suarna
+27035,Negueira De Muñiz
+27037,"Nogais, As"
+27038,Ourol
+27039,Outeiro De Rei
+27040,Palas De Rei
+27041,Pantón
+27042,Paradela
+27043,"Páramo, O"
+27044,"Pastoriza, A"
+27045,Pedrafita Do Cebreiro
+27047,"Pobra Do Brollón, A"
+27046,Pol
+27048,"Pontenova, A"
+27049,Portomarín
+27050,Quiroga
+27056,Rábade
+27051,Ribadeo
+27052,Ribas De Sil
+27053,Ribeira De Piquín
+27054,Riotorto
+27055,Samos
+27057,Sarria
+27058,"Saviñao, O"
+27059,Sober
+27060,Taboada
+27061,Trabada
+27062,Triacastela
+27063,"Valadouro, O"
+27064,"Vicedo, O"
+27065,Vilalba
+27066,Viveiro
+27021,Xermade
+27025,Xove
+28001,"Acebeda, La"
+28002,Ajalvir
+28003,Alameda Del Valle
+28004,"Álamo, El"
+28005,Alcalá De Henares
+28006,Alcobendas
+28007,Alcorcón
+28008,Aldea Del Fresno
+28009,Algete
+28010,Alpedrete
+28011,Ambite
+28012,Anchuelo
+28013,Aranjuez
+28014,Arganda Del Rey
+28015,Arroyomolinos
+28016,"Atazar, El"
+28017,Batres
+28018,Becerril De La Sierra
+28019,Belmonte De Tajo
+28021,"Berrueco, El"
+28020,Berzosa Del Lozoya
+28022,Boadilla Del Monte
+28023,"Boalo, El"
+28024,Braojos
+28025,Brea De Tajo
+28026,Brunete
+28027,Buitrago Del Lozoya
+28028,Bustarviejo
+28029,Cabanillas De La Sierra
+28030,"Cabrera, La"
+28031,Cadalso De Los Vidrios
+28032,Camarma De Esteruelas
+28033,Campo Real
+28034,Canencia
+28035,Carabaña
+28036,Casarrubuelos
+28037,Cenicientos
+28038,Cercedilla
+28039,Cervera De Buitrago
+28051,Chapinería
+28052,Chinchón
+28040,Ciempozuelos
+28041,Cobeña
+28046,Collado Mediano
+28047,Collado Villalba
+28043,Colmenar De Oreja
+28042,Colmenar Del Arroyo
+28045,Colmenar Viejo
+28044,Colmenarejo
+28048,Corpa
+28049,Coslada
+28050,Cubas De La Sagra
+28053,Daganzo De Arriba
+28054,"Escorial, El"
+28055,Estremera
+28056,Fresnedillas De La Oliva
+28057,Fresno De Torote
+28058,Fuenlabrada
+28059,Fuente El Saz De Jarama
+28060,Fuentidueña De Tajo
+28061,Galapagar
+28062,Garganta De Los Montes
+28063,Gargantilla Del Lozoya Y Pinilla De Buitrago
+28064,Gascones
+28065,Getafe
+28066,Griñón
+28067,Guadalix De La Sierra
+28068,Guadarrama
+28069,"Hiruela, La"
+28070,Horcajo De La Sierra-Aoslos
+28071,Horcajuelo De La Sierra
+28072,Hoyo De Manzanares
+28073,Humanes De Madrid
+28074,Leganés
+28075,Loeches
+28076,Lozoya
+28901,Lozoyuela-Navas-Sieteiglesias
+28078,Madarcos
+28079,Madrid
+28080,Majadahonda
+28082,Manzanares El Real
+28083,Meco
+28084,Mejorada Del Campo
+28085,Miraflores De La Sierra
+28086,"Molar, El"
+28087,"Molinos, Los"
+28088,Montejo De La Sierra
+28089,Moraleja De Enmedio
+28090,Moralzarzal
+28091,Morata De Tajuña
+28092,Móstoles
+28093,Navacerrada
+28094,Navalafuente
+28095,Navalagamella
+28096,Navalcarnero
+28097,Navarredonda Y San Mamés
+28099,Navas Del Rey
+28100,Nuevo Baztán
+28101,Olmeda De Las Fuentes
+28102,Orusco De Tajuña
+28104,Paracuellos De Jarama
+28106,Parla
+28107,Patones
+28108,Pedrezuela
+28109,Pelayos De La Presa
+28110,Perales De Tajuña
+28111,Pezuela De Las Torres
+28112,Pinilla Del Valle
+28113,Pinto
+28114,Piñuécar-Gandullas
+28115,Pozuelo De Alarcón
+28116,Pozuelo Del Rey
+28117,Prádena Del Rincón
+28118,Puebla De La Sierra
+28902,Puentes Viejas
+28119,Quijorna
+28120,Rascafría
+28121,Redueña
+28122,Ribatejada
+28123,Rivas-Vaciamadrid
+28124,Robledillo De La Jara
+28125,Robledo De Chavela
+28126,Robregordo
+28127,"Rozas De Madrid, Las"
+28128,Rozas De Puerto Real
+28129,San Agustín Del Guadalix
+28130,San Fernando De Henares
+28131,San Lorenzo De El Escorial
+28132,San Martín De La Vega
+28133,San Martín De Valdeiglesias
+28134,San Sebastián De Los Reyes
+28135,Santa María De La Alameda
+28136,Santorcaz
+28137,"Santos De La Humosa, Los"
+28138,"Serna Del Monte, La"
+28140,Serranillos Del Valle
+28141,Sevilla La Nueva
+28143,Somosierra
+28144,Soto Del Real
+28145,Talamanca De Jarama
+28146,Tielmes
+28147,Titulcia
+28148,Torrejón De Ardoz
+28149,Torrejón De La Calzada
+28150,Torrejón De Velasco
+28151,Torrelaguna
+28152,Torrelodones
+28153,Torremocha De Jarama
+28154,Torres De La Alameda
+28903,Tres Cantos
+28155,Valdaracete
+28156,Valdeavero
+28157,Valdelaguna
+28158,Valdemanco
+28159,Valdemaqueda
+28160,Valdemorillo
+28161,Valdemoro
+28162,Valdeolmos-Alalpardo
+28163,Valdepiélagos
+28164,Valdetorres De Jarama
+28165,Valdilecha
+28166,Valverde De Alcalá
+28167,Velilla De San Antonio
+28168,"Vellón, El"
+28169,Venturada
+28171,Villa Del Prado
+28170,Villaconejos
+28172,Villalbilla
+28173,Villamanrique De Tajo
+28174,Villamanta
+28175,Villamantilla
+28176,Villanueva De La Cañada
+28178,Villanueva De Perales
+28177,Villanueva Del Pardillo
+28179,Villar Del Olmo
+28180,Villarejo De Salvanés
+28181,Villaviciosa De Odón
+28182,Villavieja Del Lozoya
+28183,Zarzalejo
+29001,Alameda
+29002,Alcaucín
+29003,Alfarnate
+29004,Alfarnatejo
+29005,Algarrobo
+29006,Algatocín
+29007,Alhaurín De La Torre
+29008,Alhaurín El Grande
+29009,Almáchar
+29010,Almargen
+29011,Almogía
+29012,Álora
+29013,Alozaina
+29014,Alpandeire
+29015,Antequera
+29016,Árchez
+29017,Archidona
+29018,Ardales
+29019,Arenas
+29020,Arriate
+29021,Atajate
+29022,Benadalid
+29023,Benahavís
+29024,Benalauría
+29025,Benalmádena
+29026,Benamargosa
+29027,Benamocarra
+29028,Benaoján
+29029,Benarrabá
+29030,"Borge, El"
+29031,"Burgo, El"
+29032,Campillos
+29033,Canillas De Aceituno
+29034,Canillas De Albaida
+29035,Cañete La Real
+29036,Carratraca
+29037,Cartajima
+29038,Cártama
+29039,Casabermeja
+29040,Casarabonela
+29041,Casares
+29042,Coín
+29043,Colmenar
+29044,Comares
+29045,Cómpeta
+29046,Cortes De La Frontera
+29047,Cuevas Bajas
+29049,Cuevas De San Marcos
+29048,Cuevas Del Becerro
+29050,Cútar
+29051,Estepona
+29052,Faraján
+29053,Frigiliana
+29054,Fuengirola
+29055,Fuente De Piedra
+29056,Gaucín
+29057,Genalguacil
+29058,Guaro
+29059,Humilladero
+29060,Igualeja
+29061,Istán
+29062,Iznate
+29063,Jimera De Líbar
+29064,Jubrique
+29065,Júzcar
+29066,Macharaviaya
+29067,Málaga
+29068,Manilva
+29069,Marbella
+29070,Mijas
+29071,Moclinejo
+29072,Mollina
+29073,Monda
+29074,Montejaque
+29075,Nerja
+29076,Ojén
+29077,Parauta
+29079,Periana
+29080,Pizarra
+29081,Pujerra
+29082,Rincón De La Victoria
+29083,Riogordo
+29084,Ronda
+29085,Salares
+29086,Sayalonga
+29087,Sedella
+29088,Sierra De Yeguas
+29089,Teba
+29090,Tolox
+29901,Torremolinos
+29091,Torrox
+29092,Totalán
+29093,Valle De Abdalajís
+29094,Vélez-Málaga
+29095,Villanueva De Algaidas
+29902,Villanueva De La Concepción
+29098,Villanueva De Tapia
+29096,Villanueva Del Rosario
+29097,Villanueva Del Trabuco
+29099,Viñuela
+29100,Yunquera
+30001,Abanilla
+30002,Abarán
+30003,Águilas
+30004,Albudeite
+30005,Alcantarilla
+30902,"Alcázares, Los"
+30006,Aledo
+30007,Alguazas
+30008,Alhama De Murcia
+30009,Archena
+30010,Beniel
+30011,Blanca
+30012,Bullas
+30013,Calasparra
+30014,Campos Del Río
+30015,Caravaca De La Cruz
+30016,Cartagena
+30017,Cehegín
+30018,Ceutí
+30019,Cieza
+30020,Fortuna
+30021,Fuente Álamo De Murcia
+30022,Jumilla
+30023,Librilla
+30024,Lorca
+30025,Lorquí
+30026,Mazarrón
+30027,Molina De Segura
+30028,Moratalla
+30029,Mula
+30030,Murcia
+30031,Ojós
+30032,Pliego
+30033,Puerto Lumbreras
+30034,Ricote
+30035,San Javier
+30036,San Pedro Del Pinatar
+30901,Santomera
+30037,Torre-Pacheco
+30038,"Torres De Cotillas, Las"
+30039,Totana
+30040,Ulea
+30041,"Unión, La"
+30042,Villanueva Del Río Segura
+30043,Yecla
+31001,Abáigar
+31002,Abárzuza
+31003,Abaurregaina/Abaurrea Alta
+31004,Abaurrepea/Abaurrea Baja
+31005,Aberin
+31006,Ablitas
+31007,Adiós
+31008,Aguilar De Codés
+31009,Aibar/Oibar
+31011,Allín
+31012,Allo
+31010,Altsasu/Alsasua
+31013,Améscoa Baja
+31014,Ancín/Antzin
+31015,Andosilla
+31016,Ansoáin/Antsoain
+31017,Anue
+31018,Añorbe
+31019,Aoiz/Agoitz
+31020,Araitz
+31025,Arakil
+31021,Aranarache/Aranaratxe
+31023,Aranguren
+31024,Arano
+31022,Arantza
+31026,Aras
+31027,Arbizu
+31028,Arce/Artzi
+31029,"Arcos, Los"
+31030,Arellano
+31031,Areso
+31032,Arguedas
+31033,Aria
+31034,Aribe
+31035,Armañanzas
+31036,Arróniz
+31037,Arruazu
+31038,Artajona
+31039,Artazu
+31040,Atez
+31058,Auritz/Burguete
+31041,Ayegui/Aiegi
+31042,Azagra
+31043,Azuelo
+31044,Bakaiku
+31901,Barañain
+31045,Barásoain
+31046,Barbarin
+31047,Bargota
+31048,Barillas
+31049,Basaburua
+31050,Baztan
+31137,Beintza-Labaien
+31051,Beire
+31052,Belascoáin
+31250,Bera
+31053,Berbinzana
+31905,Beriáin
+31902,Berrioplano
+31903,Berriozar
+31054,Bertizarana
+31055,Betelu
+31253,Bidaurreta
+31056,Biurrun-Olcoz
+31057,Buñuel
+31059,Burgui/Burgi
+31060,Burlada/Burlata
+31061,"Busto, El"
+31062,Cabanillas
+31063,Cabredo
+31064,Cadreita
+31065,Caparroso
+31066,Cárcar
+31067,Carcastillo
+31068,Cascante
+31069,Cáseda
+31070,Castejón
+31071,Castillonuevo
+31193,Cendea De Olza/Oltza Zendea
+31072,Cintruénigo
+31074,Cirauqui/Zirauki
+31075,Ciriza
+31076,Cizur
+31077,Corella
+31078,Cortes
+31079,Desojo
+31080,Dicastillo
+31081,Donamaria
+31221,Doneztebe/Santesteban
+31083,Echarri
+31086,Egüés
+31087,Elgorriaga
+31089,Enériz/Eneritz
+31090,Eratsun
+31091,Ergoiena
+31092,Erro
+31094,Eslava
+31095,Esparza De Salazar/Espartza Zaraitzu
+31096,Espronceda
+31097,Estella/Lizarra
+31098,Esteribar
+31099,Etayo
+31082,Etxalar
+31084,Etxarri-Aranatz
+31085,Etxauri
+31100,Eulate
+31101,Ezcabarte
+31093,Ezcároz/Ezkaroze
+31102,Ezkurra
+31103,Ezprogui
+31104,Falces
+31105,Fitero
+31106,Fontellas
+31107,Funes
+31108,Fustiñana
+31109,Galar
+31110,Gallipienzo/Galipentzu
+31111,Gallués/Galoze
+31112,Garaioa
+31113,Garde
+31114,Garínoain
+31115,Garralda
+31116,Genevilla
+31117,Goizueta
+31118,Goñi
+31119,Güesa/Gorza
+31120,Guesálaz/Gesalatz
+31121,Guirguillano
+31256,Hiriberri/Villanueva De Aezkoa
+31122,Huarte/Uharte
+31124,Ibargoiti
+31259,Igantzi
+31125,Igúzquiza
+31126,Imotz
+31127,Irañeta
+31904,Irurtzun
+31128,Isaba/Izaba
+31129,Ituren
+31130,Iturmendi
+31131,Iza/Itza
+31132,Izagaondoa
+31133,Izalzu/Itzaltzu
+31134,Jaurrieta
+31135,Javier
+31136,Juslapeña
+31138,Lakuntza
+31139,Lana
+31140,Lantz
+31141,Lapoblación
+31142,Larraga
+31143,Larraona
+31144,Larraun
+31145,Lazagurría
+31146,Leache
+31147,Legarda
+31148,Legaria
+31149,Leitza
+31908,Lekunberri
+31150,Leoz/Leotz
+31151,Lerga
+31152,Lerín
+31153,Lesaka
+31154,Lezáun
+31155,Liédena
+31156,Lizoáin-Arriasgoiti
+31157,Lodosa
+31158,Lónguida/Longida
+31159,Lumbier
+31160,Luquin
+31248,Luzaide/Valcarlos
+31161,Mañeru
+31162,Marañón
+31163,Marcilla
+31164,Mélida
+31165,Mendavia
+31166,Mendaza
+31167,Mendigorría
+31168,Metauten
+31169,Milagro
+31170,Mirafuentes
+31171,Miranda De Arga
+31172,Monreal
+31173,Monteagudo
+31174,Morentin
+31175,Mues
+31176,Murchante
+31177,Murieta
+31178,Murillo El Cuende
+31179,Murillo El Fruto
+31180,Muruzábal
+31181,Navascués
+31182,Nazar
+31088,Noáin (Valle De Elorz)/Noain (Elortzibar)
+31183,Obanos
+31185,Ochagavía/Otsagabia
+31184,Oco
+31186,Odieta
+31187,Oitz
+31188,Olaibar
+31189,Olazti/Olazagutía
+31190,Olejua
+31191,Olite/Erriberri
+31194,Ollo
+31192,Olóriz/Oloritz
+31195,Orbaitzeta
+31196,Orbara
+31197,Orísoain
+31906,Orkoien
+31198,Oronz/Orontze
+31199,Oroz-Betelu/Orotz-Betelu
+31211,Orreaga/Roncesvalles
+31200,Oteiza
+31201,Pamplona/Iruña
+31202,Peralta/Azkoien
+31203,Petilla De Aragón
+31204,Piedramillera
+31205,Pitillas
+31206,Puente La Reina/Gares
+31207,Pueyo
+31208,Ribaforada
+31209,Romanzado
+31210,Roncal/Erronkari
+31212,Sada
+31213,Saldías
+31214,Salinas De Oro/Jaitz
+31215,San Adrián
+31217,San Martín De Unx
+31216,Sangüesa/Zangoza
+31219,Sansol
+31220,Santacara
+31222,Sarriés/Sartze
+31223,Sartaguda
+31224,Sesma
+31225,Sorlada
+31226,Sunbilla
+31227,Tafalla
+31228,Tiebas-Muruarte De Reta
+31229,Tirapu
+31230,Torralba Del Río
+31231,Torres Del Río
+31232,Tudela
+31233,Tulebras
+31234,Ucar
+31123,Uharte-Arakil
+31235,Ujué
+31236,Ultzama
+31237,Unciti
+31238,Unzué
+31239,Urdazubi/Urdax
+31240,Urdiain
+31241,Urraul Alto
+31242,Urraul Bajo
+31244,Urrotz
+31243,Urroz-Villa
+31245,Urzainqui/Urzainki
+31246,Uterga
+31247,Uztárroz/Uztarroze
+31260,Valle De Yerri/Deierri
+31249,Valtierra
+31251,Viana
+31252,Vidángoz/Bidankoze
+31254,Villafranca
+31255,Villamayor De Monjardín
+31257,Villatuerta
+31258,Villava/Atarrabia
+31261,Yesa
+31262,Zabalza/Zabaltza
+31073,Ziordia
+31907,Zizur Mayor/Zizur Nagusia
+31263,Zubieta
+31264,Zugarramurdi
+31265,Zúñiga
+32001,Allariz
+32002,Amoeiro
+32003,"Arnoia, A"
+32004,Avión
+32005,Baltar
+32006,Bande
+32007,Baños De Molgas
+32008,Barbadás
+32009,"Barco De Valdeorras, O"
+32010,Beade
+32011,Beariz
+32012,"Blancos, Os"
+32013,Boborás
+32014,"Bola, A"
+32015,"Bolo, O"
+32016,Calvos De Randín
+32018,Carballeda De Avia
+32017,Carballeda De Valdeorras
+32019,"Carballiño, O"
+32020,Cartelle
+32022,Castrelo De Miño
+32021,Castrelo Do Val
+32023,Castro Caldelas
+32024,Celanova
+32025,Cenlle
+32029,Chandrexa De Queixa
+32026,Coles
+32027,Cortegada
+32028,Cualedro
+32030,Entrimo
+32031,Esgos
+32033,Gomesende
+32034,"Gudiña, A"
+32035,"Irixo, O"
+32038,Larouco
+32039,Laza
+32040,Leiro
+32041,Lobeira
+32042,Lobios
+32043,Maceda
+32044,Manzaneda
+32045,Maside
+32046,Melón
+32047,"Merca, A"
+32048,"Mezquita, A"
+32049,Montederramo
+32050,Monterrei
+32051,Muíños
+32052,Nogueira De Ramuín
+32053,Oímbra
+32054,Ourense
+32055,Paderne De Allariz
+32056,Padrenda
+32057,Parada De Sil
+32058,"Pereiro De Aguiar, O"
+32059,"Peroxa, A"
+32060,Petín
+32061,Piñor
+32063,"Pobra De Trives, A"
+32064,Pontedeva
+32062,Porqueira
+32065,Punxín
+32066,Quintela De Leirado
+32067,Rairiz De Veiga
+32068,Ramirás
+32069,Ribadavia
+32071,Riós
+32072,"Rúa, A"
+32073,Rubiá
+32074,San Amaro
+32075,San Cibrao Das Viñas
+32076,San Cristovo De Cea
+32070,San Xoán De Río
+32077,Sandiás
+32078,Sarreaus
+32079,Taboadela
+32080,"Teixeira, A"
+32081,Toén
+32082,Trasmiras
+32083,"Veiga, A"
+32084,Verea
+32085,Verín
+32086,Viana Do Bolo
+32087,Vilamarín
+32088,Vilamartín De Valdeorras
+32089,Vilar De Barrio
+32090,Vilar De Santos
+32091,Vilardevós
+32092,Vilariño De Conso
+32032,Xinzo De Limia
+32036,Xunqueira De Ambía
+32037,Xunqueira De Espadanedo
+33001,Allande
+33002,Aller
+33003,Amieva
+33004,Avilés
+33005,Belmonte De Miranda
+33006,Bimenes
+33007,Boal
+33008,Cabrales
+33009,Cabranes
+33010,Candamo
+33012,Cangas De Onís
+33011,Cangas Del Narcea
+33013,Caravia
+33014,Carreño
+33015,Caso
+33016,Castrillón
+33017,Castropol
+33018,Coaña
+33019,Colunga
+33020,Corvera De Asturias
+33021,Cudillero
+33022,Degaña
+33023,"Franco, El"
+33024,Gijón
+33025,Gozón
+33026,Grado
+33027,Grandas De Salime
+33028,Ibias
+33029,Illano
+33030,Illas
+33031,Langreo
+33032,Laviana
+33033,Lena
+33035,Llanera
+33036,Llanes
+33037,Mieres
+33038,Morcín
+33039,Muros De Nalón
+33040,Nava
+33041,Navia
+33042,Noreña
+33043,Onís
+33044,Oviedo
+33045,Parres
+33046,Peñamellera Alta
+33047,Peñamellera Baja
+33048,Pesoz
+33049,Piloña
+33050,Ponga
+33051,Pravia
+33052,Proaza
+33053,Quirós
+33054,"Regueras, Las"
+33055,Ribadedeva
+33056,Ribadesella
+33057,Ribera De Arriba
+33058,Riosa
+33059,Salas
+33061,San Martín De Oscos
+33060,San Martín Del Rey Aurelio
+33063,San Tirso De Abres
+33062,Santa Eulalia De Oscos
+33064,Santo Adriano
+33065,Sariego
+33066,Siero
+33067,Sobrescobio
+33068,Somiedo
+33069,Soto Del Barco
+33070,Tapia De Casariego
+33071,Taramundi
+33072,Teverga
+33073,Tineo
+33034,Valdés
+33074,Vegadeo
+33075,Villanueva De Oscos
+33076,Villaviciosa
+33077,Villayón
+33078,Yernes Y Tameza
+34001,Abarca De Campos
+34003,Abia De Las Torres
+34004,Aguilar De Campoo
+34005,Alar Del Rey
+34006,Alba De Cerrato
+34009,Amayuelas De Arriba
+34010,Ampudia
+34011,Amusco
+34012,Antigüedad
+34015,Arconada
+34017,Astudillo
+34018,Autilla Del Pino
+34019,Autillo De Campos
+34020,Ayuela
+34022,Baltanás
+34024,Baquerín De Campos
+34025,Bárcena De Campos
+34027,Barruelo De Santullán
+34028,Báscones De Ojeda
+34029,Becerril De Campos
+34031,Belmonte De Campos
+34032,Berzosilla
+34033,Boada De Campos
+34035,Boadilla De Rioseco
+34034,Boadilla Del Camino
+34036,Brañosera
+34037,Buenavista De Valdavia
+34038,Bustillo De La Vega
+34039,Bustillo Del Páramo De Carrión
+34041,Calahorra De Boedo
+34042,Calzada De Los Molinos
+34045,Capillas
+34046,Cardeñosa De Volpejera
+34047,Carrión De Los Condes
+34048,Castil De Vela
+34049,Castrejón De La Peña
+34050,Castrillo De Don Juan
+34051,Castrillo De Onielo
+34052,Castrillo De Villavega
+34053,Castromocho
+34055,Cervatos De La Cueza
+34056,Cervera De Pisuerga
+34057,Cevico De La Torre
+34058,Cevico Navero
+34059,Cisneros
+34060,Cobos De Cerrato
+34061,Collazos De Boedo
+34062,Congosto De Valdavia
+34063,Cordovilla La Real
+34066,Cubillas De Cerrato
+34067,Dehesa De Montejo
+34068,Dehesa De Romanos
+34069,Dueñas
+34070,Espinosa De Cerrato
+34071,Espinosa De Villagonzalo
+34072,Frechilla
+34073,Fresno Del Río
+34074,Frómista
+34076,Fuentes De Nava
+34077,Fuentes De Valdepero
+34079,Grijota
+34080,Guardo
+34081,Guaza De Campos
+34082,Hérmedes De Cerrato
+34083,Herrera De Pisuerga
+34084,Herrera De Valdecañas
+34086,Hontoria De Cerrato
+34087,Hornillos De Cerrato
+34088,Husillos
+34089,Itero De La Vega
+34091,Lagartos
+34092,Lantadilla
+34094,Ledigos
+34903,Loma De Ucieza
+34096,Lomas
+34098,Magaz De Pisuerga
+34099,Manquillos
+34100,Mantinos
+34101,Marcilla De Campos
+34102,Mazariegos
+34103,Mazuecos De Valdeginate
+34104,Melgar De Yuso
+34106,Meneses De Campos
+34107,Micieces De Ojeda
+34108,Monzón De Campos
+34109,Moratinos
+34110,Mudá
+34112,Nogal De Las Huertas
+34113,Olea De Boedo
+34114,Olmos De Ojeda
+34116,Osornillo
+34901,Osorno La Mayor
+34120,Palencia
+34121,Palenzuela
+34122,Páramo De Boedo
+34123,Paredes De Nava
+34124,Payo De Ojeda
+34125,Pedraza De Campos
+34126,Pedrosa De La Vega
+34127,Perales
+34904,"Pernía, La"
+34129,Pino Del Río
+34130,Piña De Campos
+34131,Población De Arroyo
+34132,Población De Campos
+34133,Población De Cerrato
+34134,Polentinos
+34135,Pomar De Valdivia
+34136,Poza De La Vega
+34137,Pozo De Urama
+34139,Prádanos De Ojeda
+34140,"Puebla De Valdavia, La"
+34141,Quintana Del Puente
+34143,Quintanilla De Onsoña
+34146,Reinoso De Cerrato
+34147,Renedo De La Vega
+34149,Requena De Campos
+34151,Respenda De La Peña
+34152,Revenga De Campos
+34154,Revilla De Collazos
+34155,Ribas De Campos
+34156,Riberos De La Cueza
+34157,Saldaña
+34158,Salinas De Pisuerga
+34159,San Cebrián De Campos
+34160,San Cebrián De Mudá
+34161,San Cristóbal De Boedo
+34163,San Mamés De Campos
+34165,San Román De La Cuba
+34167,Santa Cecilia Del Alcor
+34168,Santa Cruz De Boedo
+34169,Santervás De La Vega
+34170,Santibáñez De Ecla
+34171,Santibáñez De La Peña
+34174,Santoyo
+34175,"Serna, La"
+34177,Soto De Cerrato
+34176,Sotobañado Y Priorato
+34178,Tabanera De Cerrato
+34179,Tabanera De Valdavia
+34180,Támara De Campos
+34181,Tariego De Cerrato
+34182,Torquemada
+34184,Torremormojón
+34185,Triollo
+34186,Valbuena De Pisuerga
+34189,Valdeolmillos
+34190,Valderrábano
+34192,Valde-Ucieza
+34196,Valle De Cerrato
+34902,Valle Del Retortillo
+34199,Velilla Del Río Carrión
+34023,Venta De Baños
+34201,Vertavillo
+34093,"Vid De Ojeda, La"
+34202,Villabasta De Valdavia
+34204,Villacidaler
+34205,Villaconancio
+34206,Villada
+34208,Villaeles De Valdavia
+34210,Villahán
+34211,Villaherreros
+34213,Villalaco
+34214,Villalba De Guardo
+34215,Villalcázar De Sirga
+34216,Villalcón
+34217,Villalobón
+34218,Villaluenga De La Vega
+34220,Villamartín De Campos
+34221,Villamediana
+34222,Villameriel
+34223,Villamoronta
+34224,Villamuera De La Cueza
+34225,Villamuriel De Cerrato
+34227,Villanueva Del Rebollar
+34228,Villanuño De Valdavia
+34229,Villaprovedo
+34230,Villarmentero De Campos
+34231,Villarrabé
+34232,Villarramiel
+34233,Villasarracino
+34234,Villasila De Valdavia
+34236,Villaturde
+34237,Villaumbrales
+34238,Villaviudas
+34240,Villerías De Campos
+34241,Villodre
+34242,Villodrigo
+34243,Villoldo
+34245,Villota Del Páramo
+34246,Villovieco
+35001,Agaete
+35002,Agüimes
+35020,"Aldea De San Nicolás, La"
+35003,Antigua
+35004,Arrecife
+35005,Artenara
+35006,Arucas
+35007,Betancuria
+35008,Firgas
+35009,Gáldar
+35010,Haría
+35011,Ingenio
+35012,Mogán
+35013,Moya
+35014,"Oliva, La"
+35015,Pájara
+35016,"Palmas De Gran Canaria, Las"
+35017,Puerto Del Rosario
+35018,San Bartolomé
+35019,San Bartolomé De Tirajana
+35021,Santa Brígida
+35022,Santa Lucía De Tirajana
+35023,Santa María De Guía De Gran Canaria
+35024,Teguise
+35025,Tejeda
+35026,Telde
+35027,Teror
+35028,Tías
+35029,Tinajo
+35030,Tuineje
+35032,Valleseco
+35031,Valsequillo De Gran Canaria
+35033,Vega De San Mateo
+35034,Yaiza
+36020,Agolada
+36001,Arbo
+36003,Baiona
+36002,Barro
+36004,Bueu
+36005,Caldas De Reis
+36006,Cambados
+36007,Campo Lameiro
+36008,Cangas
+36009,"Cañiza, A"
+36010,Catoira
+36011,Cerdedo
+36012,Cotobade
+36013,Covelo
+36014,Crecente
+36015,Cuntis
+36016,Dozón
+36017,"Estrada, A"
+36018,Forcarei
+36019,Fornelos De Montes
+36021,Gondomar
+36022,"Grove, O"
+36023,"Guarda, A"
+36901,"Illa De Arousa, A"
+36024,Lalín
+36025,"Lama, A"
+36026,Marín
+36027,Meaño
+36028,Meis
+36029,Moaña
+36030,Mondariz
+36031,Mondariz-Balneario
+36032,Moraña
+36033,Mos
+36034,"Neves, As"
+36035,Nigrán
+36036,Oia
+36037,Pazos De Borbén
+36041,Poio
+36043,Ponte Caldelas
+36042,Ponteareas
+36044,Pontecesures
+36038,Pontevedra
+36039,"Porriño, O"
+36040,Portas
+36045,Redondela
+36046,Ribadumia
+36047,Rodeiro
+36048,"Rosal, O"
+36049,Salceda De Caselas
+36050,Salvaterra De Miño
+36051,Sanxenxo
+36052,Silleda
+36053,Soutomaior
+36054,Tomiño
+36055,Tui
+36056,Valga
+36057,Vigo
+36059,Vila De Cruces
+36058,Vilaboa
+36060,Vilagarcía De Arousa
+36061,Vilanova De Arousa
+37001,Abusejo
+37002,Agallas
+37003,Ahigal De Los Aceiteros
+37004,Ahigal De Villarino
+37005,"Alameda De Gardón, La"
+37006,"Alamedilla, La"
+37007,Alaraz
+37008,Alba De Tormes
+37009,Alba De Yeltes
+37010,"Alberca, La"
+37011,"Alberguería De Argañán, La"
+37012,Alconada
+37015,Aldea Del Obispo
+37013,Aldeacipreste
+37014,Aldeadávila De La Ribera
+37016,Aldealengua
+37017,Aldeanueva De Figueroa
+37018,Aldeanueva De La Sierra
+37019,Aldearrodrigo
+37020,Aldearrubia
+37021,Aldeaseca De Alba
+37022,Aldeaseca De La Frontera
+37023,Aldeatejada
+37024,Aldeavieja De Tormes
+37025,Aldehuela De La Bóveda
+37026,Aldehuela De Yeltes
+37027,Almenara De Tormes
+37028,Almendra
+37029,Anaya De Alba
+37030,Añover De Tormes
+37031,Arabayona De Mógica
+37032,Arapiles
+37033,Arcediano
+37034,"Arco, El"
+37035,Armenteros
+37037,"Atalaya, La"
+37038,Babilafuente
+37039,Bañobárez
+37040,Barbadillo
+37041,Barbalos
+37042,Barceo
+37044,Barruecopardo
+37045,"Bastida, La"
+37046,Béjar
+37047,Beleña
+37049,Bermellar
+37050,Berrocal De Huebra
+37051,Berrocal De Salvatierra
+37052,Boada
+37054,"Bodón, El"
+37055,Bogajo
+37056,"Bouza, La"
+37057,Bóveda Del Río Almar
+37058,Brincones
+37059,Buenamadre
+37060,Buenavista
+37061,"Cabaco, El"
+37063,"Cabeza De Béjar, La"
+37065,Cabeza Del Caballo
+37062,Cabezabellosa De La Calzada
+37067,Cabrerizos
+37068,Cabrillas
+37069,Calvarrasa De Abajo
+37070,Calvarrasa De Arriba
+37071,"Calzada De Béjar, La"
+37072,Calzada De Don Diego
+37073,Calzada De Valdunciel
+37074,Campillo De Azaba
+37077,"Campo De Peñaranda, El"
+37078,Candelario
+37079,Canillas De Abajo
+37080,Cantagallo
+37081,Cantalapiedra
+37082,Cantalpino
+37083,Cantaracillo
+37085,Carbajosa De La Sagrada
+37086,Carpio De Azaba
+37087,Carrascal De Barregas
+37088,Carrascal Del Obispo
+37089,Casafranca
+37090,"Casas Del Conde, Las"
+37091,Casillas De Flores
+37092,Castellanos De Moriscos
+37185,Castellanos De Villiquera
+37096,Castillejo De Martín Viejo
+37097,Castraz
+37098,Cepeda
+37099,Cereceda De La Sierra
+37100,Cerezal De Peñahorcada
+37101,Cerralbo
+37102,"Cerro, El"
+37103,Cespedosa De Tormes
+37114,Chagarcía Medianero
+37104,Cilleros De La Bastida
+37106,Cipérez
+37107,Ciudad Rodrigo
+37108,Coca De Alba
+37109,Colmenar De Montemayor
+37110,Cordovilla
+37112,Cristóbal
+37113,"Cubo De Don Sancho, El"
+37115,Dios Le Guarde
+37116,Doñinos De Ledesma
+37117,Doñinos De Salamanca
+37118,Ejeme
+37119,"Encina, La"
+37120,Encina De San Silvestre
+37121,Encinas De Abajo
+37122,Encinas De Arriba
+37123,Encinasola De Los Comendadores
+37124,Endrinal
+37125,Escurial De La Sierra
+37126,Espadaña
+37127,Espeja
+37128,Espino De La Orbada
+37129,Florida De Liébana
+37130,Forfoleda
+37131,Frades De La Sierra
+37132,"Fregeneda, La"
+37133,Fresnedoso
+37134,Fresno Alhándiga
+37135,"Fuente De San Esteban, La"
+37136,Fuenteguinaldo
+37137,Fuenteliante
+37138,Fuenterroble De Salvatierra
+37139,Fuentes De Béjar
+37140,Fuentes De Oñoro
+37141,Gajates
+37142,Galindo Y Perahuy
+37143,Galinduste
+37144,Galisancho
+37145,Gallegos De Argañán
+37146,Gallegos De Solmirón
+37147,Garcibuey
+37148,Garcihernández
+37149,Garcirrey
+37150,Gejuelo Del Barro
+37151,Golpejas
+37152,Gomecello
+37154,Guadramiro
+37155,Guijo De Ávila
+37156,Guijuelo
+37157,Herguijuela De Ciudad Rodrigo
+37158,Herguijuela De La Sierra
+37159,Herguijuela Del Campo
+37160,Hinojosa De Duero
+37161,Horcajo De Montemayor
+37162,Horcajo Medianero
+37163,"Hoya, La"
+37164,Huerta
+37165,Iruelos
+37166,Ituero De Azaba
+37167,Juzbado
+37168,Lagunilla
+37169,Larrodrigo
+37170,Ledesma
+37171,Ledrada
+37172,Linares De Riofrío
+37173,Lumbrales
+37175,Machacón
+37174,Macotera
+37176,Madroñal
+37177,"Maíllo, El"
+37178,Malpartida
+37179,Mancera De Abajo
+37180,"Manzano, El"
+37181,Martiago
+37183,Martín De Yeltes
+37182,Martinamor
+37184,Masueco
+37186,"Mata De Ledesma, La"
+37187,Matilla De Los Caños Del Río
+37188,"Maya, La"
+37189,Membribe De La Sierra
+37190,Mieza
+37191,"Milano, El"
+37192,Miranda De Azán
+37193,Miranda Del Castañar
+37194,Mogarraz
+37195,Molinillo
+37196,Monforte De La Sierra
+37197,Monleón
+37198,Monleras
+37199,Monsagro
+37200,Montejo
+37201,Montemayor Del Río
+37202,Monterrubio De Armuña
+37203,Monterrubio De La Sierra
+37204,Morasverdes
+37205,Morille
+37206,Moríñigo
+37207,Moriscos
+37208,Moronta
+37209,Mozárbez
+37211,Narros De Matalayegua
+37213,Nava De Béjar
+37214,Nava De Francia
+37215,Nava De Sotrobal
+37212,Navacarros
+37216,Navales
+37217,Navalmoral De Béjar
+37218,Navamorales
+37219,Navarredonda De La Rinconada
+37221,Navasfrías
+37222,Negrilla De Palencia
+37223,Olmedo De Camaces
+37224,"Orbada, La"
+37225,Pajares De La Laguna
+37226,Palacios Del Arzobispo
+37228,Palaciosrubios
+37229,Palencia De Negrilla
+37230,Parada De Arriba
+37231,Parada De Rubiales
+37232,Paradinas De San Juan
+37233,Pastores
+37234,"Payo, El"
+37235,Pedraza De Alba
+37236,Pedrosillo De Alba
+37237,Pedrosillo De Los Aires
+37238,Pedrosillo El Ralo
+37239,"Pedroso De La Armuña, El"
+37240,Pelabravo
+37241,Pelarrodríguez
+37242,Pelayos
+37243,"Peña, La"
+37244,Peñacaballera
+37245,Peñaparda
+37246,Peñaranda De Bracamonte
+37247,Peñarandilla
+37248,Peralejos De Abajo
+37249,Peralejos De Arriba
+37250,Pereña De La Ribera
+37251,Peromingo
+37252,Pinedas
+37253,"Pino De Tormes, El"
+37254,Pitiegua
+37255,Pizarral
+37256,Poveda De Las Cintas
+37257,Pozos De Hinojo
+37258,Puebla De Azaba
+37259,Puebla De San Medel
+37260,Puebla De Yeltes
+37261,Puente Del Congosto
+37262,Puertas
+37263,Puerto De Béjar
+37264,Puerto Seguro
+37265,Rágama
+37266,"Redonda, La"
+37267,Retortillo
+37268,"Rinconada De La Sierra, La"
+37269,Robleda
+37270,Robliza De Cojos
+37271,Rollán
+37272,Saelices El Chico
+37273,"Sagrada, La"
+37303,"Sahugo, El"
+37274,Salamanca
+37275,Saldeana
+37276,Salmoral
+37277,Salvatierra De Tormes
+37278,San Cristóbal De La Cuesta
+37284,San Esteban De La Sierra
+37285,San Felices De Los Gallegos
+37286,San Martín Del Castañar
+37287,San Miguel De Valero
+37036,San Miguel Del Robledo
+37288,San Morales
+37289,San Muñoz
+37291,San Pedro De Rozados
+37290,San Pedro Del Valle
+37292,San Pelayo De Guareña
+37280,Sanchón De La Ribera
+37281,Sanchón De La Sagrada
+37282,Sanchotello
+37279,Sancti-Spíritus
+37283,Sando
+37293,Santa María De Sando
+37294,Santa Marta De Tormes
+37296,Santiago De La Puebla
+37297,Santibáñez De Béjar
+37298,Santibáñez De La Sierra
+37299,Santiz
+37300,"Santos, Los"
+37301,Sardón De Los Frailes
+37302,Saucelle
+37304,Sepulcro-Hilario
+37305,Sequeros
+37306,Serradilla Del Arroyo
+37307,Serradilla Del Llano
+37309,"Sierpe, La"
+37310,Sieteiglesias De Tormes
+37311,Sobradillo
+37312,Sorihuela
+37313,Sotoserrano
+37314,Tabera De Abajo
+37315,"Tala, La"
+37316,Tamames
+37317,Tarazona De Guareña
+37318,Tardáguila
+37319,"Tejado, El"
+37320,Tejeda Y Segoyuela
+37321,Tenebrón
+37322,Terradillos
+37323,Topas
+37324,Tordillos
+37325,"Tornadizo, El"
+37327,Torresmenudas
+37328,Trabanca
+37329,Tremedal De Tormes
+37330,Valdecarros
+37331,Valdefuentes De Sangusín
+37332,Valdehijaderos
+37333,Valdelacasa
+37334,Valdelageve
+37335,Valdelosa
+37336,Valdemierque
+37337,Valderrodrigo
+37338,Valdunciel
+37339,Valero
+37343,Vallejera De Riofrío
+37340,Valsalabroso
+37341,Valverde De Valdelacasa
+37342,Valverdón
+37344,Vecinos
+37345,Vega De Tirados
+37346,"Veguillas, Las"
+37347,"Vellés, La"
+37348,Ventosa Del Río Almar
+37349,"Vídola, La"
+37351,Villaflores
+37352,Villagonzalo De Tormes
+37353,Villalba De Los Llanos
+37354,Villamayor
+37355,Villanueva Del Conde
+37356,Villar De Argañán
+37357,Villar De Ciervo
+37358,Villar De Gallimazo
+37359,Villar De La Yegua
+37360,Villar De Peralonso
+37361,Villar De Samaniego
+37362,Villares De La Reina
+37363,Villares De Yeltes
+37364,Villarino De Los Aires
+37365,Villarmayor
+37366,Villarmuerto
+37367,Villasbuenas
+37368,Villasdardo
+37369,Villaseco De Los Gamitos
+37370,Villaseco De Los Reyes
+37371,Villasrubias
+37372,Villaverde De Guareña
+37373,Villavieja De Yeltes
+37374,Villoria
+37375,Villoruela
+37350,Vilvestre
+37376,Vitigudino
+37377,Yecla De Yeltes
+37378,Zamarra
+37379,Zamayón
+37380,Zarapicos
+37381,"Zarza De Pumareda, La"
+37382,Zorita De La Frontera
+38001,Adeje
+38002,Agulo
+38003,Alajeró
+38004,Arafo
+38005,Arico
+38006,Arona
+38007,Barlovento
+38008,Breña Alta
+38009,Breña Baja
+38010,Buenavista Del Norte
+38011,Candelaria
+38012,Fasnia
+38013,Frontera
+38014,Fuencaliente De La Palma
+38015,Garachico
+38016,Garafía
+38017,Granadilla De Abona
+38018,"Guancha, La"
+38019,Guía De Isora
+38020,Güímar
+38021,Hermigua
+38022,Icod De Los Vinos
+38024,"Llanos De Aridane, Los"
+38025,"Matanza De Acentejo, La"
+38026,"Orotava, La"
+38027,"Paso, El"
+38901,"Pinar De El Hierro, El"
+38028,Puerto De La Cruz
+38029,Puntagorda
+38030,Puntallana
+38031,"Realejos, Los"
+38032,"Rosario, El"
+38033,San Andrés Y Sauces
+38023,San Cristóbal De La Laguna
+38034,San Juan De La Rambla
+38035,San Miguel De Abona
+38036,San Sebastián De La Gomera
+38037,Santa Cruz De La Palma
+38038,Santa Cruz De Tenerife
+38039,Santa Úrsula
+38040,Santiago Del Teide
+38041,"Sauzal, El"
+38042,"Silos, Los"
+38043,Tacoronte
+38044,"Tanque, El"
+38045,Tazacorte
+38046,Tegueste
+38047,Tijarafe
+38049,Valle Gran Rey
+38050,Vallehermoso
+38048,Valverde
+38051,"Victoria De Acentejo, La"
+38052,Vilaflor
+38053,Villa De Mazo
+39001,Alfoz De Lloredo
+39002,Ampuero
+39003,Anievas
+39004,Arenas De Iguña
+39005,Argoños
+39006,Arnuero
+39007,Arredondo
+39008,"Astillero, El"
+39009,Bárcena De Cicero
+39010,Bárcena De Pie De Concha
+39011,Bareyo
+39012,Cabezón De La Sal
+39013,Cabezón De Liébana
+39014,Cabuérniga
+39015,Camaleño
+39016,Camargo
+39027,Campoo De Enmedio
+39017,Campoo De Yuso
+39018,Cartes
+39019,Castañeda
+39020,Castro-Urdiales
+39021,Cieza
+39022,Cillorigo De Liébana
+39023,Colindres
+39024,Comillas
+39025,"Corrales De Buelna, Los"
+39026,Corvera De Toranzo
+39028,Entrambasaguas
+39029,Escalante
+39030,Guriezo
+39031,Hazas De Cesto
+39032,Hermandad De Campoo De Suso
+39033,Herrerías
+39034,Lamasón
+39035,Laredo
+39036,Liendo
+39037,Liérganes
+39038,Limpias
+39039,Luena
+39040,Marina De Cudeyo
+39041,Mazcuerras
+39042,Medio Cudeyo
+39043,Meruelo
+39044,Miengo
+39045,Miera
+39046,Molledo
+39047,Noja
+39048,Penagos
+39049,Peñarrubia
+39050,Pesaguero
+39051,Pesquera
+39052,Piélagos
+39053,Polaciones
+39054,Polanco
+39055,Potes
+39056,Puente Viesgo
+39057,Ramales De La Victoria
+39058,Rasines
+39059,Reinosa
+39060,Reocín
+39061,Ribamontán Al Mar
+39062,Ribamontán Al Monte
+39063,Rionansa
+39064,Riotuerto
+39065,"Rozas De Valdearroyo, Las"
+39066,Ruente
+39067,Ruesga
+39068,Ruiloba
+39069,San Felices De Buelna
+39070,San Miguel De Aguayo
+39071,San Pedro Del Romeral
+39072,San Roque De Riomiera
+39080,San Vicente De La Barquera
+39073,Santa Cruz De Bezana
+39074,Santa María De Cayón
+39075,Santander
+39076,Santillana Del Mar
+39077,Santiurde De Reinosa
+39078,Santiurde De Toranzo
+39079,Santoña
+39081,Saro
+39082,Selaya
+39083,Soba
+39084,Solórzano
+39085,Suances
+39086,"Tojos, Los"
+39087,Torrelavega
+39088,Tresviso
+39089,Tudanca
+39090,Udías
+39095,Val De San Vicente
+39091,Valdáliga
+39092,Valdeolea
+39093,Valdeprado Del Río
+39094,Valderredible
+39101,Valle De Villaverde
+39096,Vega De Liébana
+39097,Vega De Pas
+39098,Villacarriedo
+39099,Villaescusa
+39100,Villafufre
+39102,Voto
+40001,Abades
+40002,Adrada De Pirón
+40003,Adrados
+40004,Aguilafuente
+40005,Alconada De Maderuelo
+40012,Aldea Real
+40006,Aldealcorvo
+40007,Aldealengua De Pedraza
+40008,Aldealengua De Santa María
+40009,Aldeanueva De La Serrezuela
+40010,Aldeanueva Del Codonal
+40013,Aldeasoña
+40014,Aldehorno
+40015,Aldehuela Del Codonal
+40016,Aldeonte
+40017,Anaya
+40018,Añe
+40019,Arahuetes
+40020,Arcones
+40021,Arevalillo De Cega
+40022,Armuña
+40024,Ayllón
+40025,Barbolla
+40026,Basardilla
+40028,Bercial
+40029,Bercimuel
+40030,Bernardos
+40031,Bernuy De Porreros
+40032,Boceguillas
+40033,Brieva
+40034,Caballar
+40035,Cabañas De Polendos
+40036,Cabezuela
+40037,Calabazas De Fuentidueña
+40039,Campo De San Pedro
+40040,Cantalejo
+40041,Cantimpalos
+40043,Carbonero El Mayor
+40044,Carrascal Del Río
+40045,Casla
+40046,Castillejo De Mesleón
+40047,Castro De Fuentidueña
+40048,Castrojimeno
+40049,Castroserna De Abajo
+40051,Castroserracín
+40052,Cedillo De La Torre
+40053,Cerezo De Abajo
+40054,Cerezo De Arriba
+40065,Chañe
+40055,Cilleruelo De San Mamés
+40056,Cobos De Fuentidueña
+40057,Coca
+40058,Codorniz
+40059,Collado Hermoso
+40060,Condado De Castilnovo
+40061,Corral De Ayllón
+40902,Cozuelos De Fuentidueña
+40062,Cubillo
+40063,Cuéllar
+40905,Cuevas De Provanco
+40068,Domingo García
+40069,Donhierro
+40070,Duruelo
+40071,Encinas
+40072,Encinillas
+40073,Escalona Del Prado
+40074,Escarabajosa De Cabezas
+40075,Escobar De Polendos
+40076,"Espinar, El"
+40077,Espirdo
+40078,Fresneda De Cuéllar
+40079,Fresno De Cantespino
+40080,Fresno De La Fuente
+40081,Frumales
+40082,Fuente De Santa Cruz
+40083,Fuente El Olmo De Fuentidueña
+40084,Fuente El Olmo De Íscar
+40086,Fuentepelayo
+40087,Fuentepiñel
+40088,Fuenterrebollo
+40089,Fuentesaúco De Fuentidueña
+40091,Fuentesoto
+40092,Fuentidueña
+40093,Gallegos
+40094,Garcillán
+40095,Gomezserracín
+40097,Grajera
+40099,Honrubia De La Cuesta
+40100,Hontalbilla
+40101,Hontanares De Eresma
+40103,"Huertos, Los"
+40104,Ituero Y Lama
+40105,Juarros De Riomoros
+40106,Juarros De Voltoya
+40107,Labajos
+40108,Laguna De Contreras
+40109,Languilla
+40110,Lastras De Cuéllar
+40111,Lastras Del Pozo
+40112,"Lastrilla, La"
+40113,"Losa, La"
+40115,Maderuelo
+40903,Marazoleja
+40118,Marazuela
+40119,Martín Miguel
+40120,Martín Muñoz De La Dehesa
+40121,Martín Muñoz De Las Posadas
+40122,Marugán
+40124,Mata De Cuéllar
+40123,Matabuena
+40125,"Matilla, La"
+40126,Melque De Cercos
+40127,Membibre De La Hoz
+40128,Migueláñez
+40129,Montejo De Arévalo
+40130,Montejo De La Vega De La Serrezuela
+40131,Monterrubio
+40132,Moral De Hornuez
+40134,Mozoncillo
+40135,Muñopedro
+40136,Muñoveros
+40138,Nava De La Asunción
+40139,Navafría
+40140,Navalilla
+40141,Navalmanzano
+40142,Navares De Ayuso
+40143,Navares De Enmedio
+40144,Navares De Las Cuevas
+40145,Navas De Oro
+40904,Navas De Riofrío
+40146,Navas De San Antonio
+40148,Nieva
+40149,Olombrada
+40150,Orejana
+40151,Ortigosa De Pestaño
+40901,Ortigosa Del Monte
+40152,Otero De Herreros
+40154,Pajarejos
+40155,Palazuelos De Eresma
+40156,Pedraza
+40157,Pelayos Del Arroyo
+40158,Perosillo
+40159,Pinarejos
+40160,Pinarnegrillo
+40161,Pradales
+40162,Prádena
+40163,Puebla De Pedraza
+40164,Rapariegos
+40181,Real Sitio De San Ildefonso
+40165,Rebollo
+40166,Remondo
+40168,Riaguas De San Bartolomé
+40170,Riaza
+40171,Ribota
+40172,Riofrío De Riaza
+40173,Roda De Eresma
+40174,Sacramenia
+40176,Samboal
+40177,San Cristóbal De Cuéllar
+40178,San Cristóbal De La Vega
+40906,San Cristóbal De Segovia
+40182,San Martín Y Mudrián
+40183,San Miguel De Bernuy
+40184,San Pedro De Gaíllos
+40179,Sanchonuño
+40180,Sangarcía
+40185,Santa María La Real De Nieva
+40186,Santa Marta Del Cerro
+40188,Santiuste De Pedraza
+40189,Santiuste De San Juan Bautista
+40190,Santo Domingo De Pirón
+40191,Santo Tomé Del Puerto
+40192,Sauquillo De Cabezas
+40193,Sebúlcor
+40194,Segovia
+40195,Sepúlveda
+40196,Sequera De Fresno
+40198,Sotillo
+40199,Sotosalbos
+40200,Tabanera La Luenga
+40201,Tolocirio
+40206,Torre Val De San Pedro
+40202,Torreadrada
+40203,Torrecaballeros
+40204,Torrecilla Del Pinar
+40205,Torreiglesias
+40207,Trescasas
+40208,Turégano
+40210,Urueñas
+40211,Valdeprados
+40212,Valdevacas De Montejo
+40213,Valdevacas Y Guijar
+40218,Valle De Tabladillo
+40219,Vallelado
+40220,Valleruela De Pedraza
+40221,Valleruela De Sepúlveda
+40214,Valseca
+40215,Valtiendas
+40216,Valverde Del Majano
+40222,Veganzones
+40223,Vegas De Matute
+40224,Ventosilla Y Tejadilla
+40225,Villacastín
+40228,Villaverde De Íscar
+40229,Villaverde De Montejo
+40230,Villeguillo
+40231,Yanguas De Eresma
+40233,Zarzuela Del Monte
+40234,Zarzuela Del Pinar
+41001,Aguadulce
+41002,Alanís
+41003,Albaida Del Aljarafe
+41004,Alcalá De Guadaíra
+41005,Alcalá Del Río
+41006,Alcolea Del Río
+41007,"Algaba, La"
+41008,Algámitas
+41009,Almadén De La Plata
+41010,Almensilla
+41011,Arahal
+41012,Aznalcázar
+41013,Aznalcóllar
+41014,Badolatosa
+41015,Benacazón
+41016,Bollullos De La Mitación
+41017,Bormujos
+41018,Brenes
+41019,Burguillos
+41020,"Cabezas De San Juan, Las"
+41021,Camas
+41022,"Campana, La"
+41023,Cantillana
+41901,Cañada Rosal
+41024,Carmona
+41025,Carrión De Los Céspedes
+41026,Casariche
+41027,Castilblanco De Los Arroyos
+41028,Castilleja De Guzmán
+41029,Castilleja De La Cuesta
+41030,Castilleja Del Campo
+41031,"Castillo De Las Guardas, El"
+41032,Cazalla De La Sierra
+41033,Constantina
+41034,Coria Del Río
+41035,Coripe
+41036,"Coronil, El"
+41037,"Corrales, Los"
+41903,"Cuervo De Sevilla, El"
+41038,Dos Hermanas
+41039,Écija
+41040,Espartinas
+41041,Estepa
+41042,Fuentes De Andalucía
+41043,"Garrobo, El"
+41044,Gelves
+41045,Gerena
+41046,Gilena
+41047,Gines
+41048,Guadalcanal
+41049,Guillena
+41050,Herrera
+41051,Huévar Del Aljarafe
+41902,Isla Mayor
+41052,"Lantejuela, La"
+41053,Lebrija
+41054,Lora De Estepa
+41055,Lora Del Río
+41056,"Luisiana, La"
+41057,"Madroño, El"
+41058,Mairena Del Alcor
+41059,Mairena Del Aljarafe
+41060,Marchena
+41061,Marinaleda
+41062,Martín De La Jara
+41063,"Molares, Los"
+41064,Montellano
+41065,Morón De La Frontera
+41066,"Navas De La Concepción, Las"
+41067,Olivares
+41068,Osuna
+41069,"Palacios Y Villafranca, Los"
+41070,Palomares Del Río
+41071,Paradas
+41072,Pedrera
+41073,"Pedroso, El"
+41074,Peñaflor
+41075,Pilas
+41076,Pruna
+41077,"Puebla De Cazalla, La"
+41078,"Puebla De Los Infantes, La"
+41079,"Puebla Del Río, La"
+41080,"Real De La Jara, El"
+41081,"Rinconada, La"
+41082,"Roda De Andalucía, La"
+41083,"Ronquillo, El"
+41084,"Rubio, El"
+41085,Salteras
+41086,San Juan De Aznalfarache
+41088,San Nicolás Del Puerto
+41087,Sanlúcar La Mayor
+41089,Santiponce
+41090,"Saucejo, El"
+41091,Sevilla
+41092,Tocina
+41093,Tomares
+41094,Umbrete
+41095,Utrera
+41096,Valencina De La Concepción
+41097,Villamanrique De La Condesa
+41100,Villanueva De San Juan
+41098,Villanueva Del Ariscal
+41099,Villanueva Del Río Y Minas
+41101,Villaverde Del Río
+41102,"Viso Del Alcor, El"
+42001,Abejar
+42003,Adradas
+42004,Ágreda
+42006,Alconaba
+42007,Alcubilla De Avellaneda
+42008,Alcubilla De Las Peñas
+42009,Aldealafuente
+42010,Aldealices
+42011,Aldealpozo
+42012,Aldealseñor
+42013,Aldehuela De Periáñez
+42014,"Aldehuelas, Las"
+42015,Alentisque
+42016,Aliud
+42017,Almajano
+42018,Almaluez
+42019,Almarza
+42020,Almazán
+42021,Almazul
+42022,Almenar De Soria
+42023,Alpanseque
+42024,Arancón
+42025,Arcos De Jalón
+42026,Arenillas
+42027,Arévalo De La Sierra
+42028,Ausejo De La Sierra
+42029,Baraona
+42030,Barca
+42031,Barcones
+42032,Bayubas De Abajo
+42033,Bayubas De Arriba
+42034,Beratón
+42035,Berlanga De Duero
+42036,Blacos
+42037,Bliecos
+42038,Borjabad
+42039,Borobia
+42041,Buberos
+42042,Buitrago
+42043,Burgo De Osma-Ciudad De Osma
+42044,Cabrejas Del Campo
+42045,Cabrejas Del Pinar
+42046,Calatañazor
+42048,Caltojar
+42049,Candilichera
+42050,Cañamaque
+42051,Carabantes
+42052,Caracena
+42053,Carrascosa De Abajo
+42054,Carrascosa De La Sierra
+42055,Casarejos
+42056,Castilfrío De La Sierra
+42058,Castillejo De Robledo
+42057,Castilruiz
+42059,Centenera De Andaluz
+42060,Cerbón
+42061,Cidones
+42062,Cigudosa
+42063,Cihuela
+42064,Ciria
+42065,Cirujales Del Río
+42068,Coscurita
+42069,Covaleda
+42070,Cubilla
+42071,Cubo De La Solana
+42073,Cueva De Ágreda
+42075,Dévanos
+42076,Deza
+42078,Duruelo De La Sierra
+42079,Escobosa De Almazán
+42080,Espeja De San Marcelino
+42081,Espejón
+42082,Estepa De San Juan
+42083,Frechilla De Almazán
+42084,Fresno De Caracena
+42085,Fuentearmegil
+42086,Fuentecambrón
+42087,Fuentecantos
+42088,Fuentelmonge
+42089,Fuentelsaz De Soria
+42090,Fuentepinilla
+42092,Fuentes De Magaña
+42093,Fuentestrún
+42094,Garray
+42095,Golmayo
+42096,Gómara
+42097,Gormaz
+42098,Herrera De Soria
+42100,Hinojosa Del Campo
+42103,Langa De Duero
+42105,Liceras
+42106,"Losilla, La"
+42107,Magaña
+42108,Maján
+42110,Matalebreras
+42111,Matamala De Almazán
+42113,Medinaceli
+42115,Miño De Medinaceli
+42116,Miño De San Esteban
+42117,Molinos De Duero
+42118,Momblona
+42119,Monteagudo De Las Vicarías
+42120,Montejo De Tiermes
+42121,Montenegro De Cameros
+42123,Morón De Almazán
+42124,Muriel De La Fuente
+42125,Muriel Viejo
+42127,Nafría De Ucero
+42128,Narros
+42129,Navaleno
+42130,Nepas
+42131,Nolay
+42132,Noviercas
+42134,Ólvega
+42135,Oncala
+42139,Pinilla Del Campo
+42140,Portillo De Soria
+42141,"Póveda De Soria, La"
+42142,Pozalmuro
+42144,Quintana Redonda
+42145,Quintanas De Gormaz
+42148,Quiñonería
+42149,"Rábanos, Los"
+42151,Rebollar
+42152,Recuerda
+42153,Rello
+42154,Renieblas
+42155,Retortillo De Soria
+42156,Reznos
+42157,"Riba De Escalote, La"
+42158,Rioseco De Soria
+42159,Rollamienta
+42160,"Royo, El"
+42161,Salduero
+42162,San Esteban De Gormaz
+42163,San Felices
+42164,San Leonardo De Yagüe
+42165,San Pedro Manrique
+42166,Santa Cruz De Yanguas
+42167,Santa María De Huerta
+42168,Santa María De Las Hoyas
+42171,Serón De Nágima
+42172,Soliedra
+42173,Soria
+42174,Sotillo Del Rincón
+42175,Suellacabras
+42176,Tajahuerce
+42177,Tajueco
+42178,Talveila
+42181,Tardelcuende
+42182,Taroda
+42183,Tejado
+42184,Torlengua
+42185,Torreblacos
+42187,Torrubia De Soria
+42188,Trévago
+42189,Ucero
+42190,Vadillo
+42191,Valdeavellano De Tera
+42192,Valdegeña
+42193,Valdelagua Del Cerro
+42194,Valdemaluque
+42195,Valdenebro
+42196,Valdeprado
+42197,Valderrodilla
+42198,Valtajeros
+42200,Velamazán
+42201,Velilla De La Sierra
+42202,Velilla De Los Ajos
+42204,Viana De Duero
+42205,Villaciervos
+42206,Villanueva De Gormaz
+42207,Villar Del Ala
+42208,Villar Del Campo
+42209,Villar Del Río
+42211,"Villares De Soria, Los"
+42212,Villasayas
+42213,Villaseca De Arciel
+42215,Vinuesa
+42216,Vizmanos
+42217,Vozmediano
+42218,Yanguas
+42219,Yelo
+43001,Aiguamúrcia
+43002,Albinyana
+43003,"Albiol, L'"
+43004,Alcanar
+43005,Alcover
+43904,"Aldea, L'"
+43006,Aldover
+43007,"Aleixar, L'"
+43008,Alfara De Carles
+43009,Alforja
+43010,Alió
+43011,Almoster
+43012,Altafulla
+43013,"Ametlla De Mar, L'"
+43906,"Ampolla, L'"
+43014,Amposta
+43016,"Arboç, L'"
+43015,Arbolí
+43017,"Argentera, L'"
+43018,Arnes
+43019,Ascó
+43020,Banyeres Del Penedès
+43021,Barberà De La Conca
+43022,Batea
+43023,Bellmunt Del Priorat
+43024,Bellvei
+43025,Benifallet
+43026,Benissanet
+43027,"Bisbal De Falset, La"
+43028,"Bisbal Del Penedès, La"
+43029,Blancafort
+43030,Bonastre
+43031,"Borges Del Camp, Les"
+43032,Bot
+43033,Botarell
+43034,Bràfim
+43035,Cabacés
+43036,Cabra Del Camp
+43037,Calafell
+43903,Camarles
+43038,Cambrils
+43907,"Canonja, La"
+43039,Capafonts
+43040,Capçanes
+43041,Caseres
+43042,Castellvell Del Camp
+43043,"Catllar, El"
+43045,Colldejou
+43046,Conesa
+43047,Constantí
+43048,Corbera D'Ebre
+43049,Cornudella De Montsant
+43050,Creixell
+43051,Cunit
+43901,Deltebre
+43053,Duesaigües
+43054,"Espluga De Francolí, L'"
+43055,Falset
+43056,"Fatarella, La"
+43057,"Febró, La"
+43058,"Figuera, La"
+43059,Figuerola Del Camp
+43060,Flix
+43061,Forès
+43062,Freginals
+43063,"Galera, La"
+43064,Gandesa
+43065,Garcia
+43066,"Garidells, Els"
+43067,Ginestar
+43068,Godall
+43069,Gratallops
+43070,"Guiamets, Els"
+43071,Horta De Sant Joan
+43072,"Lloar, El"
+43073,Llorac
+43074,Llorenç Del Penedès
+43076,Marçà
+43075,Margalef
+43077,Mas De Barberans
+43078,Masdenverge
+43079,Masllorenç
+43080,"Masó, La"
+43081,Maspujols
+43082,"Masroig, El"
+43083,"Milà, El"
+43084,Miravet
+43085,"Molar, El"
+43086,Montblanc
+43088,Montbrió Del Camp
+43089,Montferri
+43090,"Montmell, El"
+43091,Mont-Ral
+43092,Mont-Roig Del Camp
+43093,Móra D'Ebre
+43094,Móra La Nova
+43095,"Morell, El"
+43096,"Morera De Montsant, La"
+43097,"Nou De Gaià, La"
+43098,Nulles
+43100,"Pallaresos, Els"
+43099,"Palma D'Ebre, La"
+43101,Passanant I Belltall
+43102,Paüls
+43103,Perafort
+43104,"Perelló, El"
+43105,"Piles, Les"
+43106,"Pinell De Brai, El"
+43107,Pira
+43108,"Pla De Santa Maria, El"
+43109,"Pobla De Mafumet, La"
+43110,"Pobla De Massaluca, La"
+43111,"Pobla De Montornès, La"
+43112,Poboleda
+43113,"Pont D'Armentera, El"
+43141,Pontils
+43114,Porrera
+43115,Pradell De La Teixeta
+43116,Prades
+43117,Prat De Comte
+43118,Pratdip
+43119,Puigpelat
+43120,Querol
+43121,Rasquera
+43122,Renau
+43123,Reus
+43124,"Riba, La"
+43125,Riba-Roja D'Ebre
+43126,"Riera De Gaià, La"
+43127,Riudecanyes
+43128,Riudecols
+43129,Riudoms
+43130,Rocafort De Queralt
+43131,Roda De Barà
+43132,Rodonyà
+43133,Roquetes
+43134,"Rourell, El"
+43135,Salomó
+43905,Salou
+43136,Sant Carles De La Ràpita
+43137,Sant Jaume Dels Domenys
+43902,Sant Jaume D'Enveja
+43138,Santa Bàrbara
+43139,Santa Coloma De Queralt
+43140,Santa Oliva
+43142,Sarral
+43143,Savallà Del Comtat
+43144,"Secuita, La"
+43145,"Selva Del Camp, La"
+43146,Senan
+43044,"Sénia, La"
+43147,Solivella
+43148,Tarragona
+43149,Tivenys
+43150,Tivissa
+43151,"Torre De Fontaubella, La"
+43152,"Torre De L'Espanyol, La"
+43153,Torredembarra
+43154,Torroja Del Priorat
+43155,Tortosa
+43156,Ulldecona
+43157,Ulldemolins
+43158,Vallclara
+43159,Vallfogona De Riucorb
+43160,Vallmoll
+43161,Valls
+43162,Vandellòs I L'Hospitalet De L'Infant
+43163,"Vendrell, El"
+43164,Vespella De Gaià
+43165,Vilabella
+43175,Vilalba Dels Arcs
+43166,Vilallonga Del Camp
+43168,Vilanova De Prades
+43167,Vilanova D'Escornalbou
+43169,Vilaplana
+43170,Vila-Rodona
+43171,Vila-Seca
+43172,Vilaverd
+43173,"Vilella Alta, La"
+43174,"Vilella Baixa, La"
+43176,Vimbodí I Poblet
+43177,Vinebre
+43178,Vinyols I Els Arcs
+43052,Xerta
+44001,Ababuj
+44002,Abejuela
+44003,Aguatón
+44004,Aguaviva
+44005,Aguilar Del Alfambra
+44006,Alacón
+44007,Alba
+44008,Albalate Del Arzobispo
+44009,Albarracín
+44010,Albentosa
+44011,Alcaine
+44012,Alcalá De La Selva
+44013,Alcañiz
+44014,Alcorisa
+44016,Alfambra
+44017,Aliaga
+44021,Allepuz
+44022,Alloza
+44023,Allueva
+44018,Almohaja
+44019,Alobras
+44020,Alpeñés
+44024,Anadón
+44025,Andorra
+44026,Arcos De Las Salinas
+44027,Arens De Lledó
+44028,Argente
+44029,Ariño
+44031,Azaila
+44032,Bádenas
+44033,Báguena
+44034,Bañón
+44035,Barrachina
+44036,Bea
+44037,Beceite
+44039,Bello
+44038,Belmonte De San José
+44040,Berge
+44041,Bezas
+44042,Blancas
+44043,Blesa
+44044,Bordón
+44045,Bronchales
+44046,Bueña
+44047,Burbáguena
+44048,Cabra De Mora
+44049,Calaceite
+44050,Calamocha
+44051,Calanda
+44052,Calomarde
+44053,Camañas
+44054,Camarena De La Sierra
+44055,Camarillas
+44056,Caminreal
+44059,Cantavieja
+44060,Cañada De Benatanduz
+44061,"Cañada De Verich, La"
+44062,Cañada Vellida
+44063,Cañizar Del Olivar
+44064,Cascante Del Río
+44065,Castejón De Tornos
+44066,Castel De Cabra
+44070,"Castellar, El"
+44071,Castellote
+44067,Castelnou
+44068,Castelserás
+44074,Cedrillas
+44075,Celadas
+44076,Cella
+44077,"Cerollera, La"
+44080,"Codoñera, La"
+44082,Corbalán
+44084,Cortes De Aragón
+44085,Cosa
+44086,Cretas
+44087,Crivillén
+44088,"Cuba, La"
+44089,Cubla
+44090,Cucalón
+44092,"Cuervo, El"
+44093,Cuevas De Almudén
+44094,Cuevas Labradas
+44096,Ejulve
+44097,Escorihuela
+44099,Escucha
+44100,Estercuel
+44101,Ferreruela De Huerva
+44102,Fonfría
+44103,Formiche Alto
+44105,Fórnoles
+44106,Fortanete
+44107,Foz-Calanda
+44108,"Fresneda, La"
+44109,Frías De Albarracín
+44110,Fuenferrada
+44111,Fuentes Calientes
+44112,Fuentes Claras
+44113,Fuentes De Rubielos
+44114,Fuentespalda
+44115,Galve
+44116,Gargallo
+44117,Gea De Albarracín
+44118,"Ginebrosa, La"
+44119,Griegos
+44120,Guadalaviar
+44121,Gúdar
+44122,Híjar
+44123,Hinojosa De Jarque
+44124,"Hoz De La Vieja, La"
+44125,Huesa Del Común
+44126,"Iglesuela Del Cid, La"
+44127,Jabaloyas
+44128,Jarque De La Val
+44129,Jatiel
+44130,Jorcas
+44131,Josa
+44132,Lagueruela
+44133,Lanzuela
+44135,Libros
+44136,Lidón
+44137,Linares De Mora
+44141,Lledó
+44138,Loscos
+44142,Maicas
+44143,Manzanera
+44144,Martín Del Río
+44145,Mas De Las Matas
+44146,"Mata De Los Olmos, La"
+44147,Mazaleón
+44148,Mezquita De Jarque
+44149,Mirambel
+44150,Miravete De La Sierra
+44151,Molinos
+44152,Monforte De Moyuela
+44153,Monreal Del Campo
+44154,Monroyo
+44155,Montalbán
+44156,Monteagudo Del Castillo
+44157,Monterde De Albarracín
+44158,Mora De Rubielos
+44159,Moscardón
+44160,Mosqueruela
+44161,Muniesa
+44163,Noguera De Albarracín
+44164,Nogueras
+44165,Nogueruelas
+44167,Obón
+44168,Odón
+44169,Ojos Negros
+44171,Olba
+44172,Oliete
+44173,"Olmos, Los"
+44174,Orihuela Del Tremedal
+44175,Orrios
+44176,Palomar De Arroyos
+44177,Pancrudo
+44178,"Parras De Castellote, Las"
+44179,Peñarroya De Tastavins
+44180,Peracense
+44181,Peralejos
+44182,Perales Del Alfambra
+44183,Pitarque
+44184,Plou
+44185,"Pobo, El"
+44187,"Portellada, La"
+44189,Pozondón
+44190,Pozuel Del Campo
+44191,"Puebla De Híjar, La"
+44192,"Puebla De Valverde, La"
+44193,Puertomingalvo
+44194,Ráfales
+44195,Rillo
+44196,Riodeva
+44197,Ródenas
+44198,Royuela
+44199,Rubiales
+44200,Rubielos De La Cérida
+44201,Rubielos De Mora
+44203,Salcedillo
+44204,Saldón
+44205,Samper De Calanda
+44206,San Agustín
+44207,San Martín Del Río
+44208,Santa Cruz De Nogueras
+44209,Santa Eulalia
+44210,Sarrión
+44211,Segura De Los Baños
+44212,Seno
+44213,Singra
+44215,Terriente
+44216,Teruel
+44217,Toril Y Masegoso
+44218,Tormón
+44219,Tornos
+44220,Torralba De Los Sisones
+44223,Torre De Arcas
+44224,Torre De Las Arcas
+44225,Torre Del Compte
+44227,Torre Los Negros
+44221,Torrecilla De Alcañiz
+44222,Torrecilla Del Rebollar
+44226,Torrelacárcel
+44228,Torremocha De Jiloca
+44229,Torres De Albarracín
+44230,Torrevelilla
+44231,Torrijas
+44232,Torrijo Del Campo
+44234,Tramacastiel
+44235,Tramacastilla
+44236,Tronchón
+44237,Urrea De Gaén
+44238,Utrillas
+44239,Valacloche
+44240,Valbona
+44241,Valdealgorfa
+44243,Valdecuenca
+44244,Valdelinares
+44245,Valdeltormo
+44246,Valderrobres
+44247,Valjunquera
+44249,"Vallecillo, El"
+44250,Veguillas De La Sierra
+44251,Villafranca Del Campo
+44252,Villahermosa Del Campo
+44256,Villanueva Del Rebollar De La Sierra
+44257,Villar Del Cobo
+44258,Villar Del Salz
+44260,Villarluengo
+44261,Villarquemado
+44262,Villarroya De Los Pinares
+44263,Villastar
+44264,Villel
+44265,Vinaceite
+44266,Visiedo
+44267,Vivel Del Río Martín
+44268,"Zoma, La"
+45001,Ajofrín
+45002,Alameda De La Sagra
+45003,Albarreal De Tajo
+45004,Alcabón
+45005,Alcañizo
+45006,Alcaudete De La Jara
+45007,Alcolea De Tajo
+45008,Aldea En Cabo
+45009,Aldeanueva De Barbarroya
+45010,Aldeanueva De San Bartolomé
+45011,Almendral De La Cañada
+45012,Almonacid De Toledo
+45013,Almorox
+45014,Añover De Tajo
+45015,Arcicóllar
+45016,Argés
+45017,Azután
+45018,Barcience
+45019,Bargas
+45020,Belvís De La Jara
+45021,Borox
+45022,Buenaventura
+45023,Burguillos De Toledo
+45024,Burujón
+45025,Cabañas De La Sagra
+45026,Cabañas De Yepes
+45027,Cabezamesada
+45028,Calera Y Chozas
+45029,Caleruela
+45030,Calzada De Oropesa
+45031,Camarena
+45032,Camarenilla
+45033,"Campillo De La Jara, El"
+45034,Camuñas
+45035,Cardiel De Los Montes
+45036,Carmena
+45037,"Carpio De Tajo, El"
+45038,Carranque
+45039,Carriches
+45040,"Casar De Escalona, El"
+45041,Casarrubios Del Monte
+45042,Casasbuenas
+45043,Castillo De Bayuela
+45045,Cazalegas
+45046,Cebolla
+45047,Cedillo Del Condado
+45048,"Cerralbos, Los"
+45049,Cervera De Los Montes
+45056,Chozas De Canales
+45057,Chueca
+45050,Ciruelos
+45051,Cobeja
+45052,Cobisa
+45053,Consuegra
+45054,Corral De Almaguer
+45055,Cuerva
+45058,Domingo Pérez
+45059,Dosbarrios
+45060,Erustes
+45061,Escalona
+45062,Escalonilla
+45063,Espinoso Del Rey
+45064,Esquivias
+45065,"Estrella, La"
+45066,Fuensalida
+45067,Gálvez
+45068,Garciotum
+45069,Gerindote
+45070,Guadamur
+45071,"Guardia, La"
+45072,"Herencias, Las"
+45073,Herreruela De Oropesa
+45074,Hinojosa De San Vicente
+45075,Hontanar
+45076,Hormigos
+45077,Huecas
+45078,Huerta De Valdecarábanos
+45079,"Iglesuela, La"
+45080,Illán De Vacas
+45081,Illescas
+45082,Lagartera
+45083,Layos
+45084,Lillo
+45085,Lominchar
+45086,Lucillos
+45087,Madridejos
+45088,Magán
+45089,Malpica De Tajo
+45090,Manzaneque
+45091,Maqueda
+45092,Marjaliza
+45093,Marrupe
+45094,Mascaraque
+45095,"Mata, La"
+45096,Mazarambroz
+45097,Mejorada
+45098,Menasalbas
+45099,Méntrida
+45100,Mesegar De Tajo
+45101,Miguel Esteban
+45102,Mocejón
+45103,Mohedas De La Jara
+45104,Montearagón
+45105,Montesclaros
+45106,Mora
+45107,Nambroca
+45108,"Nava De Ricomalillo, La"
+45109,Navahermosa
+45110,Navalcán
+45111,Navalmoralejo
+45112,"Navalmorales, Los"
+45113,"Navalucillos, Los"
+45114,Navamorcuende
+45115,Noblejas
+45116,Noez
+45117,Nombela
+45118,Novés
+45119,Numancia De La Sagra
+45120,Nuño Gómez
+45121,Ocaña
+45122,Olías Del Rey
+45123,Ontígola
+45124,Orgaz
+45125,Oropesa
+45126,Otero
+45127,Palomeque
+45128,Pantoja
+45129,Paredes De Escalona
+45130,Parrillas
+45131,Pelahustán
+45132,Pepino
+45133,Polán
+45134,Portillo De Toledo
+45135,"Puebla De Almoradiel, La"
+45136,"Puebla De Montalbán, La"
+45137,"Pueblanueva, La"
+45138,"Puente Del Arzobispo, El"
+45139,Puerto De San Vicente
+45140,Pulgar
+45141,Quero
+45142,Quintanar De La Orden
+45143,Quismondo
+45144,"Real De San Vicente, El"
+45145,Recas
+45146,Retamoso De La Jara
+45147,Rielves
+45148,Robledo Del Mazo
+45149,"Romeral, El"
+45150,San Bartolomé De Las Abiertas
+45151,San Martín De Montalbán
+45152,San Martín De Pusa
+45153,San Pablo De Los Montes
+45154,San Román De Los Montes
+45155,Santa Ana De Pusa
+45156,Santa Cruz De La Zarza
+45157,Santa Cruz Del Retamar
+45158,Santa Olalla
+45901,Santo Domingo-Caudilla
+45159,Sartajada
+45160,Segurilla
+45161,Seseña
+45162,Sevilleja De La Jara
+45163,Sonseca
+45164,Sotillo De Las Palomas
+45165,Talavera De La Reina
+45166,Tembleque
+45167,"Toboso, El"
+45168,Toledo
+45169,Torralba De Oropesa
+45171,"Torre De Esteban Hambrán, La"
+45170,Torrecilla De La Jara
+45172,Torrico
+45173,Torrijos
+45174,Totanés
+45175,Turleque
+45176,Ugena
+45177,Urda
+45179,Valdeverdeja
+45180,Valmojado
+45181,Velada
+45182,"Ventas Con Peña Aguilera, Las"
+45183,"Ventas De Retamosa, Las"
+45184,"Ventas De San Julián, Las"
+45186,"Villa De Don Fadrique, La"
+45185,Villacañas
+45187,Villafranca De Los Caballeros
+45188,Villaluenga De La Sagra
+45189,Villamiel De Toledo
+45190,Villaminaya
+45191,Villamuelas
+45192,Villanueva De Alcardete
+45193,Villanueva De Bogas
+45194,Villarejo De Montalbán
+45195,Villarrubia De Santiago
+45196,Villaseca De La Sagra
+45197,Villasequilla
+45198,Villatobas
+45199,"Viso De San Juan, El"
+45200,"Yébenes, Los"
+45201,Yeles
+45202,Yepes
+45203,Yuncler
+45204,Yunclillos
+45205,Yuncos
+46001,Ademuz
+46002,Ador
+46004,Agullent
+46042,Aielo De Malferit
+46043,Aielo De Rugat
+46005,Alaquàs
+46006,Albaida
+46007,Albal
+46008,Albalat De La Ribera
+46009,Albalat Dels Sorells
+46010,Albalat Dels Tarongers
+46011,Alberic
+46012,Alborache
+46013,Alboraya
+46014,Albuixech
+46016,Alcàntera De Xúquer
+46015,Alcàsser
+46018,Alcublas
+46019,"Alcúdia, L'"
+46020,"Alcúdia De Crespins, L'"
+46021,Aldaia
+46022,Alfafar
+46024,Alfara De La Baronia
+46025,Alfara Del Patriarca
+46026,Alfarp
+46027,Alfarrasí
+46023,Alfauir
+46028,Algar De Palancia
+46029,Algemesí
+46030,Algimia De Alfara
+46031,Alginet
+46032,Almàssera
+46033,Almiserà
+46034,Almoines
+46035,Almussafes
+46036,Alpuente
+46037,"Alqueria De La Comtessa, L'"
+46017,Alzira
+46038,Andilla
+46039,Anna
+46040,Antella
+46041,Aras De Los Olmos
+46003,Atzeneta D'Albaida
+46044,Ayora
+46046,Barx
+46045,Barxeta
+46047,Bèlgida
+46048,Bellreguard
+46049,Bellús
+46050,Benagéber
+46051,Benaguasil
+46052,Benavites
+46053,Beneixida
+46054,Benetússer
+46055,Beniarjó
+46056,Beniatjar
+46057,Benicolet
+46904,Benicull De Xúquer
+46060,Benifaió
+46059,Benifairó De La Valldigna
+46058,Benifairó De Les Valls
+46061,Beniflá
+46062,Benigánim
+46063,Benimodo
+46064,Benimuslem
+46065,Beniparrell
+46066,Benirredrà
+46067,Benisanó
+46068,Benissoda
+46069,Benisuera
+46070,Bétera
+46071,Bicorp
+46072,Bocairent
+46073,Bolbaite
+46074,Bonrepòs I Mirambell
+46075,Bufali
+46076,Bugarra
+46077,Buñol
+46078,Burjassot
+46079,Calles
+46080,Camporrobles
+46081,Canals
+46082,Canet D'En Berenguer
+46083,Carcaixent
+46084,Càrcer
+46085,Carlet
+46086,Carrícola
+46087,Casas Altas
+46088,Casas Bajas
+46089,Casinos
+46090,Castelló De Rugat
+46091,Castellonet De La Conquesta
+46092,Castielfabib
+46093,Catadau
+46094,Catarroja
+46095,Caudete De Las Fuentes
+46096,Cerdà
+46107,Chella
+46106,Chelva
+46108,Chera
+46109,Cheste
+46111,Chiva
+46112,Chulilla
+46097,Cofrentes
+46098,Corbera
+46099,Cortes De Pallás
+46100,Cotes
+46105,Cullera
+46113,Daimús
+46114,Domeño
+46115,Dos Aguas
+46116,"Eliana, L'"
+46117,Emperador
+46118,Enguera
+46119,"Ènova, L'"
+46120,Estivella
+46121,Estubeny
+46122,Faura
+46123,Favara
+46126,Foios
+46128,"Font De La Figuera, La"
+46127,"Font D'En Carròs, La"
+46124,Fontanars Dels Alforins
+46125,Fortaleny
+46129,Fuenterrobles
+46131,Gandia
+46902,Gátova
+46130,Gavarda
+46132,Genovés
+46133,Gestalgar
+46134,Gilet
+46135,Godella
+46136,Godelleta
+46137,"Granja De La Costera, La"
+46138,Guadasequies
+46139,Guadassuar
+46140,Guardamar De La Safor
+46141,Higueruelas
+46142,Jalance
+46144,Jarafuel
+46154,Llanera De Ranes
+46155,Llaurí
+46147,Llíria
+46152,Llocnou De La Corona
+46153,Llocnou De Sant Jeroni
+46151,Llocnou D'En Fenollet
+46156,Llombai
+46157,"Llosa De Ranes, La"
+46150,Llutxent
+46148,Loriguilla
+46149,Losa Del Obispo
+46158,Macastre
+46159,Manises
+46160,Manuel
+46161,Marines
+46162,Massalavés
+46163,Massalfassar
+46164,Massamagrell
+46165,Massanassa
+46166,Meliana
+46167,Millares
+46168,Miramar
+46169,Mislata
+46170,Mogente/Moixent
+46171,Moncada
+46173,Montaverner
+46174,Montesa
+46175,Montitxelvo/Montichelvo
+46176,Montroy
+46172,Montserrat
+46177,Museros
+46178,Náquera
+46179,Navarrés
+46180,Novelé/Novetlè
+46181,Oliva
+46183,"Olleria, L'"
+46182,Olocau
+46184,Ontinyent
+46185,Otos
+46186,Paiporta
+46187,Palma De Gandía
+46188,Palmera
+46189,"Palomar, El"
+46190,Paterna
+46191,Pedralba
+46192,Petrés
+46193,Picanya
+46194,Picassent
+46195,Piles
+46196,Pinet
+46199,"Pobla De Farnals, La"
+46202,"Pobla De Vallbona, La"
+46200,"Pobla Del Duc, La"
+46203,"Pobla Llarga, La"
+46197,Polinyà De Xúquer
+46198,Potríes
+46205,Puçol
+46201,Puebla De San Miguel
+46204,Puig
+46101,Quart De Les Valls
+46102,Quart De Poblet
+46103,Quartell
+46104,Quatretonda
+46206,Quesa
+46207,Rafelbuñol/Rafelbunyol
+46208,Rafelcofer
+46209,Rafelguaraf
+46210,Ráfol De Salem
+46212,Real
+46211,Real De Gandía
+46213,Requena
+46214,Riba-Roja De Túria
+46215,Riola
+46216,Rocafort
+46217,Rotglà I Corberà
+46218,Rótova
+46219,Rugat
+46220,Sagunto/Sagunt
+46221,Salem
+46903,San Antonio De Benagéber
+46222,Sant Joanet
+46223,Sedaví
+46224,Segart
+46225,Sellent
+46226,Sempere
+46227,Senyera
+46228,Serra
+46229,Siete Aguas
+46230,Silla
+46231,Simat De La Valldigna
+46232,Sinarcas
+46233,Sollana
+46234,Sot De Chera
+46235,Sueca
+46236,Sumacàrcer
+46237,Tavernes Blanques
+46238,Tavernes De La Valldigna
+46239,Teresa De Cofrentes
+46240,Terrateig
+46241,Titaguas
+46242,Torrebaja
+46243,Torrella
+46244,Torrent
+46245,Torres Torres
+46246,Tous
+46247,Tuéjar
+46248,Turís
+46249,Utiel
+46250,Valencia
+46251,Vallada
+46252,Vallanca
+46253,Vallés
+46254,Venta Del Moro
+46256,Vilamarxant
+46255,Villalonga
+46257,Villanueva De Castellón
+46258,Villar Del Arzobispo
+46259,Villargordo Del Cabriel
+46260,Vinalesa
+46145,Xàtiva
+46143,Xeraco
+46146,Xeresa
+46110,Xirivella
+46261,Yátova
+46262,"Yesa, La"
+46263,Zarra
+47001,Adalia
+47002,Aguasal
+47003,Aguilar De Campos
+47004,Alaejos
+47005,Alcazarén
+47006,Aldea De San Miguel
+47007,Aldeamayor De San Martín
+47008,Almenara De Adaja
+47009,Amusquillo
+47010,Arroyo De La Encomienda
+47011,Ataquines
+47012,Bahabón
+47013,Barcial De La Loma
+47014,Barruelo Del Valle
+47015,Becilla De Valderaduey
+47016,Benafarces
+47017,Bercero
+47018,Berceruelo
+47019,Berrueces
+47020,Bobadilla Del Campo
+47021,Bocigas
+47022,Bocos De Duero
+47023,Boecillo
+47024,Bolaños De Campos
+47025,Brahojos De Medina
+47026,Bustillo De Chaves
+47027,Cabezón De Pisuerga
+47028,Cabezón De Valderaduey
+47029,Cabreros Del Monte
+47030,Campaspero
+47031,"Campillo, El"
+47032,Camporredondo
+47033,Canalejas De Peñafiel
+47034,Canillas De Esgueva
+47035,Carpio
+47036,Casasola De Arión
+47037,Castrejón De Trabancos
+47038,Castrillo De Duero
+47039,Castrillo-Tejeriego
+47040,Castrobol
+47041,Castrodeza
+47042,Castromembibre
+47043,Castromonte
+47044,Castronuevo De Esgueva
+47045,Castronuño
+47046,Castroponce
+47047,Castroverde De Cerrato
+47048,Ceinos De Campos
+47049,Cervillego De La Cruz
+47050,Cigales
+47051,Ciguñuela
+47052,Cistérniga
+47053,Cogeces De Íscar
+47054,Cogeces Del Monte
+47055,Corcos
+47056,Corrales De Duero
+47057,Cubillas De Santa Marta
+47058,Cuenca De Campos
+47059,Curiel De Duero
+47060,Encinas De Esgueva
+47061,Esguevillas De Esgueva
+47062,Fombellida
+47063,Fompedraza
+47064,Fontihoyuelo
+47065,Fresno El Viejo
+47066,Fuensaldaña
+47067,Fuente El Sol
+47068,Fuente-Olmedo
+47069,Gallegos De Hornija
+47070,Gatón De Campos
+47071,Geria
+47073,Herrín De Campos
+47074,Hornillos De Eresma
+47075,Íscar
+47076,Laguna De Duero
+47077,Langayo
+47079,Llano De Olmedo
+47078,Lomoviejo
+47080,Manzanillo
+47081,Marzales
+47082,Matapozuelos
+47083,Matilla De Los Caños
+47084,Mayorga
+47086,Medina De Rioseco
+47085,Medina Del Campo
+47087,Megeces
+47088,Melgar De Abajo
+47089,Melgar De Arriba
+47090,Mojados
+47091,Monasterio De Vega
+47092,Montealegre De Campos
+47093,Montemayor De Pililla
+47094,Moral De La Reina
+47095,Moraleja De Las Panaderas
+47096,Morales De Campos
+47097,Mota Del Marqués
+47098,Mucientes
+47099,"Mudarra, La"
+47100,Muriel
+47101,Nava Del Rey
+47102,Nueva Villa De Las Torres
+47103,Olivares De Duero
+47104,Olmedo
+47105,Olmos De Esgueva
+47106,Olmos De Peñafiel
+47109,Palazuelo De Vedija
+47110,"Parrilla, La"
+47111,"Pedraja De Portillo, La"
+47112,Pedrajas De San Esteban
+47113,Pedrosa Del Rey
+47114,Peñafiel
+47115,Peñaflor De Hornija
+47116,Pesquera De Duero
+47117,Piña De Esgueva
+47118,Piñel De Abajo
+47119,Piñel De Arriba
+47121,Pollos
+47122,Portillo
+47123,Pozal De Gallinas
+47124,Pozaldez
+47125,Pozuelo De La Orden
+47126,Puras
+47127,Quintanilla De Arriba
+47129,Quintanilla De Onésimo
+47130,Quintanilla De Trigueros
+47128,Quintanilla Del Molar
+47131,Rábano
+47132,Ramiro
+47133,Renedo De Esgueva
+47134,Roales De Campos
+47135,Robladillo
+47137,Roturas
+47138,Rubí De Bracamonte
+47139,Rueda
+47140,Saelices De Mayorga
+47141,Salvador De Zapardiel
+47142,San Cebrián De Mazote
+47143,San Llorente
+47144,San Martín De Valvení
+47145,San Miguel Del Arroyo
+47146,San Miguel Del Pino
+47147,San Pablo De La Moraleja
+47148,San Pedro De Latarce
+47149,San Pelayo
+47150,San Román De Hornija
+47151,San Salvador
+47156,San Vicente Del Palacio
+47152,Santa Eufemia Del Arroyo
+47153,Santervás De Campos
+47154,Santibáñez De Valcorba
+47155,Santovenia De Pisuerga
+47157,Sardón De Duero
+47158,"Seca, La"
+47159,Serrada
+47160,Siete Iglesias De Trabancos
+47161,Simancas
+47162,Tamariz De Campos
+47163,Tiedra
+47164,Tordehumos
+47165,Tordesillas
+47169,Torre De Esgueva
+47170,Torre De Peñafiel
+47166,Torrecilla De La Abadesa
+47167,Torrecilla De La Orden
+47168,Torrecilla De La Torre
+47171,Torrelobatón
+47172,Torrescárcela
+47173,Traspinedo
+47174,Trigueros Del Valle
+47175,Tudela De Duero
+47176,"Unión De Campos, La"
+47177,Urones De Castroponce
+47178,Urueña
+47179,Valbuena De Duero
+47180,Valdearcos De La Vega
+47181,Valdenebro De Los Valles
+47182,Valdestillas
+47183,Valdunquillo
+47186,Valladolid
+47184,Valoria La Buena
+47185,Valverde De Campos
+47187,Vega De Ruiponce
+47188,Vega De Valdetronco
+47189,Velascálvaro
+47190,Velilla
+47191,Velliza
+47192,Ventosa De La Cuesta
+47193,Viana De Cega
+47195,Villabáñez
+47196,Villabaruz De Campos
+47197,Villabrágima
+47198,Villacarralón
+47199,Villacid De Campos
+47200,Villaco
+47203,Villafrades De Campos
+47204,Villafranca De Duero
+47205,Villafrechós
+47206,Villafuerte
+47207,Villagarcía De Campos
+47208,Villagómez La Nueva
+47209,Villalán De Campos
+47210,Villalar De Los Comuneros
+47211,Villalba De La Loma
+47212,Villalba De Los Alcores
+47213,Villalbarba
+47214,Villalón De Campos
+47215,Villamuriel De Campos
+47216,Villán De Tordesillas
+47217,Villanubla
+47218,Villanueva De Duero
+47219,Villanueva De La Condesa
+47220,Villanueva De Los Caballeros
+47221,Villanueva De Los Infantes
+47222,Villanueva De San Mancio
+47223,Villardefrades
+47224,Villarmentero De Esgueva
+47225,Villasexmir
+47226,Villavaquerín
+47227,Villavellid
+47228,Villaverde De Medina
+47229,Villavicencio De Los Caballeros
+47194,Viloria
+47230,Wamba
+47231,Zaratán
+47232,"Zarza, La"
+48001,Abadiño
+48002,Abanto Y Ciérvana-Abanto Zierbena
+48911,Ajangiz
+48912,Alonsotegi
+48003,Amorebieta-Etxano
+48004,Amoroto
+48005,Arakaldo
+48006,Arantzazu
+48093,Areatza
+48009,Arrankudiaga
+48914,Arratzu
+48010,Arrieta
+48011,Arrigorriaga
+48023,Artea
+48008,Artzentales
+48091,Atxondo
+48070,Aulesti
+48012,Bakio
+48090,Balmaseda
+48013,Barakaldo
+48014,Barrika
+48015,Basauri
+48092,Bedia
+48016,Berango
+48017,Bermeo
+48018,Berriatua
+48019,Berriz
+48020,Bilbao
+48021,Busturia
+48901,Derio
+48026,Dima
+48027,Durango
+48028,Ea
+48031,Elantxobe
+48032,Elorrio
+48902,Erandio
+48033,Ereño
+48034,Ermua
+48079,Errigoiti
+48029,Etxebarri
+48030,Etxebarria
+48906,Forua
+48035,Fruiz
+48036,Galdakao
+48037,Galdames
+48038,Gamiz-Fika
+48039,Garai
+48040,Gatika
+48041,Gautegiz Arteaga
+48046,Gernika-Lumo
+48044,Getxo
+48047,Gizaburuaga
+48042,Gordexola
+48043,Gorliz
+48045,Güeñes
+48048,Ibarrangelu
+48094,Igorre
+48049,Ispaster
+48910,Iurreta
+48050,Izurtza
+48022,Karrantza Harana/Valle De Carranza
+48907,Kortezubi
+48051,Lanestosa
+48052,Larrabetzu
+48053,Laukiz
+48054,Leioa
+48057,Lekeitio
+48055,Lemoa
+48056,Lemoiz
+48081,Lezama
+48903,Loiu
+48058,Mallabia
+48059,Mañaria
+48060,Markina-Xemein
+48061,Maruri-Jatabe
+48062,Mendata
+48063,Mendexa
+48064,Meñaka
+48066,Morga
+48068,Mundaka
+48069,Mungia
+48007,Munitibar-Arbatzegi Gerrikaitz
+48908,Murueta
+48071,Muskiz
+48067,Muxika
+48909,Nabarniz
+48073,Ondarroa
+48075,Orozko
+48083,Ortuella
+48072,Otxandio
+48077,Plentzia
+48078,Portugalete
+48082,Santurtzi
+48084,Sestao
+48904,Sondika
+48085,Sopelana
+48086,Sopuerta
+48076,Sukarrieta
+48087,Trucios-Turtzioz
+48088,Ubide
+48065,Ugao-Miraballes
+48089,Urduliz
+48074,Urduña/Orduña
+48080,Valle De Trápaga-Trapagaran
+48095,Zaldibar
+48096,Zalla
+48905,Zamudio
+48097,Zaratamo
+48024,Zeanuri
+48025,Zeberio
+48913,Zierbena
+48915,Ziortza-Bolibar
+49002,Abezames
+49003,Alcañices
+49004,Alcubilla De Nogales
+49005,Alfaraz De Sayago
+49006,Algodre
+49007,Almaraz De Duero
+49008,Almeida De Sayago
+49009,Andavías
+49010,Arcenillas
+49011,Arcos De La Polvorosa
+49012,Argañín
+49013,Argujillo
+49014,Arquillinos
+49015,Arrabalde
+49016,Aspariegos
+49017,Asturianos
+49018,Ayoó De Vidriales
+49019,Barcial Del Barco
+49020,Belver De Los Montes
+49021,Benavente
+49022,Benegiles
+49023,Bermillo De Sayago
+49024,"Bóveda De Toro, La"
+49025,Bretó
+49026,Bretocino
+49027,Brime De Sog
+49028,Brime De Urz
+49029,Burganes De Valverde
+49030,Bustillo Del Oro
+49031,Cabañas De Sayago
+49032,Calzadilla De Tera
+49033,Camarzana De Tera
+49034,Cañizal
+49035,Cañizo
+49036,Carbajales De Alba
+49037,Carbellino
+49038,Casaseca De Campeán
+49039,Casaseca De Las Chanas
+49040,Castrillo De La Guareña
+49041,Castrogonzalo
+49042,Castronuevo
+49043,Castroverde De Campos
+49044,Cazurra
+49046,Cerecinos De Campos
+49047,Cerecinos Del Carrizal
+49048,Cernadilla
+49050,Cobreros
+49052,Coomonte
+49053,Coreses
+49054,Corrales Del Vino
+49055,Cotanes Del Monte
+49056,Cubillos
+49057,Cubo De Benavente
+49058,"Cubo De Tierra Del Vino, El"
+49059,Cuelgamures
+49061,Entrala
+49062,Espadañedo
+49063,Faramontanos De Tábara
+49064,Fariza
+49065,Fermoselle
+49066,Ferreras De Abajo
+49067,Ferreras De Arriba
+49068,Ferreruela
+49069,Figueruela De Arriba
+49071,Fonfría
+49075,Fresno De La Polvorosa
+49076,Fresno De La Ribera
+49077,Fresno De Sayago
+49078,Friera De Valverde
+49079,Fuente Encalada
+49080,Fuentelapeña
+49082,Fuentes De Ropel
+49081,Fuentesaúco
+49083,Fuentesecas
+49084,Fuentespreadas
+49085,Galende
+49086,Gallegos Del Pan
+49087,Gallegos Del Río
+49088,Gamones
+49090,Gema
+49091,Granja De Moreruela
+49092,Granucillo
+49093,Guarrate
+49094,Hermisende
+49095,"Hiniesta, La"
+49096,Jambrina
+49097,Justel
+49098,Losacino
+49099,Losacio
+49100,Lubián
+49101,Luelmo
+49102,"Maderal, El"
+49103,Madridanos
+49104,Mahide
+49105,Maire De Castroponce
+49107,Malva
+49108,Manganeses De La Lampreana
+49109,Manganeses De La Polvorosa
+49110,Manzanal De Arriba
+49112,Manzanal De Los Infantes
+49111,Manzanal Del Barco
+49113,Matilla De Arzón
+49114,Matilla La Seca
+49115,Mayalde
+49116,Melgar De Tera
+49117,Micereces De Tera
+49118,Milles De La Polvorosa
+49119,Molacillos
+49120,Molezuelas De La Carballeda
+49121,Mombuey
+49122,Monfarracinos
+49123,Montamarta
+49124,Moral De Sayago
+49126,Moraleja De Sayago
+49125,Moraleja Del Vino
+49128,Morales De Rey
+49129,Morales De Toro
+49130,Morales De Valverde
+49127,Morales Del Vino
+49131,Moralina
+49132,Moreruela De Los Infanzones
+49133,Moreruela De Tábara
+49134,Muelas De Los Caballeros
+49135,Muelas Del Pan
+49136,Muga De Sayago
+49137,Navianos De Valverde
+49138,Olmillos De Castro
+49139,Otero De Bodas
+49141,Pajares De La Lampreana
+49143,Palacios De Sanabria
+49142,Palacios Del Pan
+49145,Pedralba De La Pradería
+49146,"Pego, El"
+49147,Peleagonzalo
+49148,Peleas De Abajo
+49149,Peñausende
+49150,Peque
+49151,"Perdigón, El"
+49152,Pereruela
+49153,Perilla De Castro
+49154,Pías
+49155,Piedrahita De Castro
+49156,Pinilla De Toro
+49157,Pino Del Oro
+49158,"Piñero, El"
+49160,Pobladura De Valderaduey
+49159,Pobladura Del Valle
+49162,Porto
+49163,Pozoantiguo
+49164,Pozuelo De Tábara
+49165,Prado
+49166,Puebla De Sanabria
+49167,Pueblica De Valverde
+49170,Quintanilla De Urz
+49168,Quintanilla Del Monte
+49169,Quintanilla Del Olmo
+49171,Quiruelas De Vidriales
+49172,Rabanales
+49173,Rábano De Aliste
+49174,Requejo
+49175,Revellinos
+49176,Riofrío De Aliste
+49177,Rionegro Del Puente
+49178,Roales
+49179,Robleda-Cervantes
+49180,Roelos De Sayago
+49181,Rosinos De La Requejada
+49183,Salce
+49184,Samir De Los Caños
+49185,San Agustín Del Pozo
+49186,San Cebrián De Castro
+49187,San Cristóbal De Entreviñas
+49188,San Esteban Del Molar
+49189,San Justo
+49190,San Martín De Valderaduey
+49191,San Miguel De La Ribera
+49192,San Miguel Del Valle
+49193,San Pedro De Ceque
+49194,San Pedro De La Nave-Almendra
+49208,San Vicente De La Cabeza
+49209,San Vitero
+49197,Santa Clara De Avedillo
+49199,Santa Colomba De Las Monjas
+49200,Santa Cristina De La Polvorosa
+49201,Santa Croya De Tera
+49202,Santa Eufemia Del Barco
+49203,Santa María De La Vega
+49204,Santa María De Valverde
+49205,Santibáñez De Tera
+49206,Santibáñez De Vidriales
+49207,Santovenia
+49210,Sanzoles
+49214,Tábara
+49216,Tapioles
+49219,Toro
+49220,"Torre Del Valle, La"
+49221,Torregamones
+49222,Torres Del Carrizal
+49223,Trabazos
+49224,Trefacio
+49225,Uña De Quintana
+49226,Vadillo De La Guareña
+49227,Valcabado
+49228,Valdefinjas
+49229,Valdescorriel
+49230,Vallesa De La Guareña
+49231,Vega De Tera
+49232,Vega De Villalobos
+49233,Vegalatrave
+49234,Venialbo
+49235,Vezdemarbán
+49236,Vidayanes
+49237,Videmala
+49238,Villabrázaro
+49239,Villabuena Del Puente
+49240,Villadepera
+49241,Villaescusa
+49242,Villafáfila
+49243,Villaferrueña
+49244,Villageriz
+49245,Villalazán
+49246,Villalba De La Lampreana
+49247,Villalcampo
+49248,Villalobos
+49249,Villalonso
+49250,Villalpando
+49251,Villalube
+49252,Villamayor De Campos
+49255,Villamor De Los Escuderos
+49256,Villanázar
+49257,Villanueva De Azoague
+49258,Villanueva De Campeán
+49259,Villanueva De Las Peras
+49260,Villanueva Del Campo
+49263,Villar De Fallaves
+49264,Villar Del Buey
+49261,Villaralbo
+49262,Villardeciervos
+49265,Villardiegua De La Ribera
+49266,Villárdiga
+49267,Villardondiego
+49268,Villarrín De Campos
+49269,Villaseco Del Pan
+49270,Villavendimio
+49272,Villaveza De Valverde
+49271,Villaveza Del Agua
+49273,Viñas
+49275,Zamora
+50001,Abanto
+50002,Acered
+50003,Agón
+50004,Aguarón
+50005,Aguilón
+50006,Ainzón
+50007,Aladrén
+50008,Alagón
+50009,Alarba
+50010,Alberite De San Juan
+50011,Albeta
+50012,Alborge
+50013,Alcalá De Ebro
+50014,Alcalá De Moncayo
+50015,Alconchel De Ariza
+50016,Aldehuela De Liestos
+50017,Alfajarín
+50018,Alfamén
+50019,Alforque
+50020,Alhama De Aragón
+50021,Almochuel
+50022,"Almolda, La"
+50023,Almonacid De La Cuba
+50024,Almonacid De La Sierra
+50025,"Almunia De Doña Godina, La"
+50026,Alpartir
+50027,Ambel
+50028,Anento
+50029,Aniñón
+50030,Añón De Moncayo
+50031,Aranda De Moncayo
+50032,Arándiga
+50033,Ardisa
+50034,Ariza
+50035,Artieda
+50036,Asín
+50037,Atea
+50038,Ateca
+50039,Azuara
+50040,Badules
+50041,Bagüés
+50042,Balconchán
+50043,Bárboles
+50044,Bardallur
+50045,Belchite
+50046,Belmonte De Gracián
+50047,Berdejo
+50048,Berrueco
+50901,Biel
+50050,Bijuesca
+50051,Biota
+50052,Bisimbre
+50053,Boquiñeni
+50054,Bordalba
+50055,Borja
+50056,Botorrita
+50057,Brea De Aragón
+50058,Bubierca
+50059,Bujaraloz
+50060,Bulbuente
+50061,Bureta
+50062,"Burgo De Ebro, El"
+50063,"Buste, El"
+50064,Cabañas De Ebro
+50065,Cabolafuente
+50066,Cadrete
+50067,Calatayud
+50068,Calatorao
+50069,Calcena
+50070,Calmarza
+50071,Campillo De Aragón
+50072,Carenas
+50073,Cariñena
+50074,Caspe
+50075,Castejón De Alarba
+50076,Castejón De Las Armas
+50077,Castejón De Valdejasa
+50078,Castiliscar
+50079,Cervera De La Cañada
+50080,Cerveruela
+50081,Cetina
+50092,Chiprana
+50093,Chodes
+50082,Cimballa
+50083,Cinco Olivas
+50084,Clarés De Ribota
+50085,Codo
+50086,Codos
+50087,Contamina
+50088,Cosuenda
+50089,Cuarte De Huerva
+50090,Cubel
+50091,"Cuerlas, Las"
+50094,Daroca
+50095,Ejea De Los Caballeros
+50096,Embid De Ariza
+50098,Encinacorba
+50099,Épila
+50100,Erla
+50101,Escatrón
+50102,Fabara
+50104,Farlete
+50105,Fayón
+50106,"Fayos, Los"
+50107,Figueruelas
+50108,Fombuena
+50109,"Frago, El"
+50110,"Frasno, El"
+50111,Fréscano
+50113,Fuendejalón
+50114,Fuendetodos
+50115,Fuentes De Ebro
+50116,Fuentes De Jiloca
+50117,Gallocanta
+50118,Gallur
+50119,Gelsa
+50120,Godojos
+50121,Gotor
+50122,Grisel
+50123,Grisén
+50124,Herrera De Los Navarros
+50125,Ibdes
+50126,Illueca
+50128,Isuerre
+50129,Jaraba
+50130,Jarque
+50131,Jaulín
+50132,"Joyosa, La"
+50133,Lagata
+50134,Langa Del Castillo
+50135,Layana
+50136,Lécera
+50138,Lechón
+50137,Leciñena
+50139,Letux
+50140,Litago
+50141,Lituénigo
+50142,Lobera De Onsella
+50143,Longares
+50144,Longás
+50146,Lucena De Jalón
+50147,Luceni
+50148,Luesia
+50149,Luesma
+50150,Lumpiaque
+50151,Luna
+50152,Maella
+50153,Magallón
+50154,Mainar
+50155,Malanquilla
+50156,Maleján
+50160,Mallén
+50157,Malón
+50159,Maluenda
+50161,Manchones
+50162,Mara
+50163,María De Huerva
+50902,Marracos
+50164,Mediana De Aragón
+50165,Mequinenza
+50166,Mesones De Isuela
+50167,Mezalocha
+50168,Mianos
+50169,Miedes De Aragón
+50170,Monegrillo
+50171,Moneva
+50172,Monreal De Ariza
+50173,Monterde
+50174,Montón
+50175,Morata De Jalón
+50176,Morata De Jiloca
+50177,Morés
+50178,Moros
+50179,Moyuela
+50180,Mozota
+50181,Muel
+50182,"Muela, La"
+50183,Munébrega
+50184,Murero
+50185,Murillo De Gállego
+50186,Navardún
+50187,Nigüella
+50188,Nombrevilla
+50189,Nonaspe
+50190,Novallas
+50191,Novillas
+50192,Nuévalos
+50193,Nuez De Ebro
+50194,Olvés
+50195,Orcajo
+50196,Orera
+50197,Orés
+50198,Oseja
+50199,Osera De Ebro
+50200,Paniza
+50201,Paracuellos De Jiloca
+50202,Paracuellos De La Ribera
+50203,Pastriz
+50204,Pedrola
+50205,"Pedrosas, Las"
+50206,Perdiguera
+50207,Piedratajada
+50208,Pina De Ebro
+50209,Pinseque
+50210,"Pintanos, Los"
+50211,Plasencia De Jalón
+50212,Pleitas
+50213,Plenas
+50214,Pomer
+50215,Pozuel De Ariza
+50216,Pozuelo De Aragón
+50217,Pradilla De Ebro
+50218,Puebla De Albortón
+50219,"Puebla De Alfindén, La"
+50220,Puendeluna
+50221,Purujosa
+50222,Quinto
+50223,Remolinos
+50224,Retascón
+50225,Ricla
+50227,Romanos
+50228,Rueda De Jalón
+50229,Ruesca
+50241,Sabiñán
+50230,Sádaba
+50231,Salillas De Jalón
+50232,Salvatierra De Esca
+50233,Samper Del Salz
+50234,San Martín De La Virgen De Moncayo
+50235,San Mateo De Gállego
+50236,Santa Cruz De Grío
+50237,Santa Cruz De Moncayo
+50238,Santa Eulalia De Gállego
+50239,Santed
+50240,Sástago
+50242,Sediles
+50243,Sestrica
+50244,Sierra De Luna
+50245,Sigüés
+50246,Sisamón
+50247,Sobradiel
+50248,Sos Del Rey Católico
+50249,Tabuenca
+50250,Talamantes
+50251,Tarazona
+50252,Tauste
+50253,Terrer
+50254,Tierga
+50255,Tobed
+50256,Torralba De Los Frailes
+50257,Torralba De Ribota
+50258,Torralbilla
+50259,Torrehermosa
+50260,Torrelapaja
+50261,Torrellas
+50262,Torres De Berrellén
+50263,Torrijo De La Cañada
+50264,Tosos
+50265,Trasmoz
+50266,Trasobares
+50267,Uncastillo
+50268,Undués De Lerda
+50269,Urrea De Jalón
+50270,Urriés
+50271,Used
+50272,Utebo
+50274,Val De San Martín
+50273,Valdehorna
+50275,Valmadrid
+50276,Valpalmas
+50277,Valtorres
+50278,Velilla De Ebro
+50279,Velilla De Jiloca
+50280,Vera De Moncayo
+50281,Vierlas
+50283,Villadoz
+50284,Villafeliche
+50285,Villafranca De Ebro
+50286,Villalba De Perejil
+50287,Villalengua
+50903,Villamayor De Gállego
+50288,Villanueva De Gállego
+50290,Villanueva De Huerva
+50289,Villanueva De Jiloca
+50291,Villar De Los Navarros
+50292,Villarreal De Huerva
+50293,Villarroya De La Sierra
+50294,Villarroya Del Campo
+50282,"Vilueña, La"
+50295,Vistabella
+50296,"Zaida, La"
+50297,Zaragoza
+50298,Zuera
+51001,Ceuta
+52001,Melilla
